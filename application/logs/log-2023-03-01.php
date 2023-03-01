@@ -6605,3 +6605,7462 @@ DEBUG - 2023-03-01 13:14:52 --> UTF-8 Support Enabled
 DEBUG - 2023-03-01 13:14:52 --> URI Class Initialized
 DEBUG - 2023-03-01 13:14:52 --> Router Class Initialized
 ERROR - 2023-03-01 13:14:52 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:19 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:19 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:19 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:19 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:19 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:19 --> Router Class Initialized
+DEBUG - 2023-03-01 14:06:19 --> No URI present. Default controller set.
+DEBUG - 2023-03-01 14:06:19 --> Output Class Initialized
+DEBUG - 2023-03-01 14:06:19 --> Security Class Initialized
+DEBUG - 2023-03-01 14:06:19 --> Input Class Initialized
+DEBUG - 2023-03-01 14:06:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-01 14:06:19 --> Language Class Initialized
+DEBUG - 2023-03-01 14:06:19 --> Language Class Initialized
+DEBUG - 2023-03-01 14:06:19 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:19 --> Loader Class Initialized
+DEBUG - 2023-03-01 14:06:19 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-01 14:06:19 --> Helper loaded: url_helper
+DEBUG - 2023-03-01 14:06:19 --> User Agent Class Initialized
+DEBUG - 2023-03-01 14:06:19 --> Template Class Initialized
+DEBUG - 2023-03-01 14:06:19 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-01 14:06:20 --> Email Class Initialized
+DEBUG - 2023-03-01 14:06:20 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-01 14:06:20 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-01 14:06:20 --> Session Class Initialized
+DEBUG - 2023-03-01 14:06:20 --> Helper loaded: string_helper
+DEBUG - 2023-03-01 14:06:20 --> Encrypt Class Initialized
+DEBUG - 2023-03-01 14:06:20 --> Database Driver Class Initialized
+DEBUG - 2023-03-01 14:06:20 --> Session routines successfully run
+DEBUG - 2023-03-01 14:06:20 --> Model Class Initialized
+DEBUG - 2023-03-01 14:06:20 --> Model Class Initialized
+DEBUG - 2023-03-01 14:06:20 --> Helper loaded: date_helper
+DEBUG - 2023-03-01 14:06:20 --> Helper loaded: form_helper
+DEBUG - 2023-03-01 14:06:20 --> Form Validation Class Initialized
+DEBUG - 2023-03-01 14:06:20 --> Controller Class Initialized
+DEBUG - 2023-03-01 14:06:20 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:20 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:20 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:20 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:20 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:20 --> Router Class Initialized
+DEBUG - 2023-03-01 14:06:20 --> Output Class Initialized
+DEBUG - 2023-03-01 14:06:20 --> Security Class Initialized
+DEBUG - 2023-03-01 14:06:20 --> Input Class Initialized
+DEBUG - 2023-03-01 14:06:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-01 14:06:20 --> Language Class Initialized
+DEBUG - 2023-03-01 14:06:20 --> Language Class Initialized
+DEBUG - 2023-03-01 14:06:20 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:20 --> Loader Class Initialized
+DEBUG - 2023-03-01 14:06:20 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-01 14:06:20 --> Helper loaded: url_helper
+DEBUG - 2023-03-01 14:06:20 --> User Agent Class Initialized
+DEBUG - 2023-03-01 14:06:20 --> Template Class Initialized
+DEBUG - 2023-03-01 14:06:20 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-01 14:06:20 --> Email Class Initialized
+DEBUG - 2023-03-01 14:06:20 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-01 14:06:20 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-01 14:06:20 --> Session Class Initialized
+DEBUG - 2023-03-01 14:06:20 --> Helper loaded: string_helper
+DEBUG - 2023-03-01 14:06:20 --> Encrypt Class Initialized
+DEBUG - 2023-03-01 14:06:20 --> Database Driver Class Initialized
+DEBUG - 2023-03-01 14:06:20 --> Session routines successfully run
+DEBUG - 2023-03-01 14:06:20 --> Model Class Initialized
+DEBUG - 2023-03-01 14:06:20 --> Model Class Initialized
+DEBUG - 2023-03-01 14:06:20 --> Helper loaded: date_helper
+DEBUG - 2023-03-01 14:06:20 --> Helper loaded: form_helper
+DEBUG - 2023-03-01 14:06:20 --> Form Validation Class Initialized
+DEBUG - 2023-03-01 14:06:20 --> Controller Class Initialized
+DEBUG - 2023-03-01 14:06:20 --> File loaded: application/views/auth/layouts/header.php
+DEBUG - 2023-03-01 14:06:20 --> File loaded: application/views/auth/login.php
+DEBUG - 2023-03-01 14:06:20 --> File loaded: application/views/auth/layouts/footer.php
+DEBUG - 2023-03-01 14:06:20 --> Final output sent to browser
+DEBUG - 2023-03-01 14:06:20 --> Total execution time: 0.1195
+DEBUG - 2023-03-01 14:06:22 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:22 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:22 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:22 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:22 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:22 --> Router Class Initialized
+ERROR - 2023-03-01 14:06:22 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:27 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:27 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Router Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Output Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Security Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Input Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-01 14:06:27 --> Language Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Language Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Loader Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-01 14:06:27 --> Helper loaded: url_helper
+DEBUG - 2023-03-01 14:06:27 --> User Agent Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Template Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-01 14:06:27 --> Email Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-01 14:06:27 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-01 14:06:27 --> Session Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Helper loaded: string_helper
+DEBUG - 2023-03-01 14:06:27 --> Encrypt Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Database Driver Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Session routines successfully run
+DEBUG - 2023-03-01 14:06:27 --> Model Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Model Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Helper loaded: date_helper
+DEBUG - 2023-03-01 14:06:27 --> Helper loaded: form_helper
+DEBUG - 2023-03-01 14:06:27 --> Form Validation Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Controller Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2023-03-01 14:06:27 --> Final output sent to browser
+DEBUG - 2023-03-01 14:06:27 --> Total execution time: 0.0592
+DEBUG - 2023-03-01 14:06:27 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:27 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Router Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Output Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Security Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Input Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-01 14:06:27 --> Language Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Language Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Loader Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-01 14:06:27 --> Helper loaded: url_helper
+DEBUG - 2023-03-01 14:06:27 --> User Agent Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Template Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-01 14:06:27 --> Email Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-01 14:06:27 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-01 14:06:27 --> Session Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Helper loaded: string_helper
+DEBUG - 2023-03-01 14:06:27 --> Encrypt Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Database Driver Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Session routines successfully run
+DEBUG - 2023-03-01 14:06:27 --> Model Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Model Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Helper loaded: date_helper
+DEBUG - 2023-03-01 14:06:27 --> Helper loaded: form_helper
+DEBUG - 2023-03-01 14:06:27 --> Form Validation Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Controller Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> File loaded: application/views/admin/layouts/header.php
+DEBUG - 2023-03-01 14:06:27 --> File loaded: application/views/admin/manage_event.php
+DEBUG - 2023-03-01 14:06:27 --> File loaded: application/views/admin/layouts/footer.php
+DEBUG - 2023-03-01 14:06:27 --> Final output sent to browser
+DEBUG - 2023-03-01 14:06:27 --> Total execution time: 0.1270
+DEBUG - 2023-03-01 14:06:27 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:27 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Router Class Initialized
+ERROR - 2023-03-01 14:06:27 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:27 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:27 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:27 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:27 --> Router Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> URI Class Initialized
+ERROR - 2023-03-01 14:06:27 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:27 --> Router Class Initialized
+DEBUG - 2023-03-01 14:06:27 --> Router Class Initialized
+ERROR - 2023-03-01 14:06:27 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:06:27 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:06:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> Router Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> Router Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> Router Class Initialized
+ERROR - 2023-03-01 14:06:35 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:06:35 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:06:35 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> Router Class Initialized
+ERROR - 2023-03-01 14:06:35 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> Router Class Initialized
+ERROR - 2023-03-01 14:06:35 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> Router Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> Router Class Initialized
+ERROR - 2023-03-01 14:06:35 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:06:35 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> Router Class Initialized
+ERROR - 2023-03-01 14:06:35 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:35 --> Router Class Initialized
+ERROR - 2023-03-01 14:06:35 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> Router Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> Router Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> Router Class Initialized
+ERROR - 2023-03-01 14:06:35 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:06:35 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:06:35 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> Router Class Initialized
+ERROR - 2023-03-01 14:06:35 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:06:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:06:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:06:35 --> Router Class Initialized
+ERROR - 2023-03-01 14:06:35 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:08:58 --> Config Class Initialized
+DEBUG - 2023-03-01 14:08:58 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:08:58 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:08:58 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:08:58 --> URI Class Initialized
+DEBUG - 2023-03-01 14:08:58 --> Router Class Initialized
+DEBUG - 2023-03-01 14:08:58 --> Output Class Initialized
+DEBUG - 2023-03-01 14:08:58 --> Security Class Initialized
+DEBUG - 2023-03-01 14:08:58 --> Input Class Initialized
+DEBUG - 2023-03-01 14:08:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-01 14:08:58 --> Language Class Initialized
+DEBUG - 2023-03-01 14:08:58 --> Language Class Initialized
+DEBUG - 2023-03-01 14:08:58 --> Config Class Initialized
+DEBUG - 2023-03-01 14:08:58 --> Loader Class Initialized
+DEBUG - 2023-03-01 14:08:58 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-01 14:08:58 --> Helper loaded: url_helper
+DEBUG - 2023-03-01 14:08:58 --> User Agent Class Initialized
+DEBUG - 2023-03-01 14:08:58 --> Template Class Initialized
+DEBUG - 2023-03-01 14:08:58 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-01 14:08:58 --> Email Class Initialized
+DEBUG - 2023-03-01 14:08:58 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-01 14:08:58 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-01 14:08:58 --> Session Class Initialized
+DEBUG - 2023-03-01 14:08:58 --> Helper loaded: string_helper
+DEBUG - 2023-03-01 14:08:58 --> Encrypt Class Initialized
+DEBUG - 2023-03-01 14:08:58 --> Database Driver Class Initialized
+DEBUG - 2023-03-01 14:08:58 --> Session routines successfully run
+DEBUG - 2023-03-01 14:08:58 --> Model Class Initialized
+DEBUG - 2023-03-01 14:08:58 --> Model Class Initialized
+DEBUG - 2023-03-01 14:08:58 --> Helper loaded: date_helper
+DEBUG - 2023-03-01 14:08:58 --> Helper loaded: form_helper
+DEBUG - 2023-03-01 14:08:58 --> Form Validation Class Initialized
+DEBUG - 2023-03-01 14:08:58 --> Controller Class Initialized
+DEBUG - 2023-03-01 14:08:58 --> File loaded: application/views/admin/layouts/header.php
+DEBUG - 2023-03-01 14:08:58 --> File loaded: application/views/admin/manage_event.php
+DEBUG - 2023-03-01 14:08:58 --> File loaded: application/views/admin/layouts/footer.php
+DEBUG - 2023-03-01 14:08:58 --> Final output sent to browser
+DEBUG - 2023-03-01 14:08:58 --> Total execution time: 0.1413
+DEBUG - 2023-03-01 14:08:58 --> Config Class Initialized
+DEBUG - 2023-03-01 14:08:58 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:08:58 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:08:58 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:08:58 --> URI Class Initialized
+DEBUG - 2023-03-01 14:08:58 --> Router Class Initialized
+ERROR - 2023-03-01 14:08:58 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:08:59 --> Config Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:08:59 --> URI Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Router Class Initialized
+ERROR - 2023-03-01 14:08:59 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:08:59 --> Config Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:08:59 --> URI Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Router Class Initialized
+ERROR - 2023-03-01 14:08:59 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:08:59 --> Config Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:08:59 --> URI Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Router Class Initialized
+ERROR - 2023-03-01 14:08:59 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:08:59 --> Config Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Config Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:08:59 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> URI Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:08:59 --> URI Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Router Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Router Class Initialized
+ERROR - 2023-03-01 14:08:59 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:08:59 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:08:59 --> Config Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Config Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:08:59 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:08:59 --> URI Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Config Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> URI Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:08:59 --> Router Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Config Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> URI Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Router Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Utf8 Class Initialized
+ERROR - 2023-03-01 14:08:59 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:08:59 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:08:59 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:08:59 --> URI Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Router Class Initialized
+ERROR - 2023-03-01 14:08:59 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:08:59 --> Router Class Initialized
+ERROR - 2023-03-01 14:08:59 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:08:59 --> Config Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Config Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:08:59 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:08:59 --> URI Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> URI Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Config Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Config Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Config Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Router Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:08:59 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:08:59 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:08:59 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:08:59 --> URI Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> URI Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> URI Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Router Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Router Class Initialized
+ERROR - 2023-03-01 14:08:59 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:08:59 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:08:59 --> Router Class Initialized
+ERROR - 2023-03-01 14:08:59 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:08:59 --> Config Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:08:59 --> URI Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Config Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Router Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:08:59 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:08:59 --> Config Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> URI Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:08:59 --> URI Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Router Class Initialized
+ERROR - 2023-03-01 14:08:59 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:08:59 --> Config Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Router Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:08:59 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:08:59 --> URI Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Router Class Initialized
+ERROR - 2023-03-01 14:08:59 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:08:59 --> Config Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:08:59 --> URI Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Config Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:08:59 --> Config Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Router Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> URI Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:08:59 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:08:59 --> URI Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Router Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Router Class Initialized
+ERROR - 2023-03-01 14:08:59 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:08:59 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:08:59 --> Config Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:08:59 --> URI Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Router Class Initialized
+ERROR - 2023-03-01 14:08:59 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:08:59 --> Config Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Config Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:08:59 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:08:59 --> URI Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> URI Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Config Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Router Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Router Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:08:59 --> URI Class Initialized
+ERROR - 2023-03-01 14:08:59 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:08:59 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:08:59 --> Router Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Router Class Initialized
+ERROR - 2023-03-01 14:08:59 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:08:59 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:08:59 --> Config Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:08:59 --> URI Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Router Class Initialized
+ERROR - 2023-03-01 14:08:59 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:08:59 --> Config Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:08:59 --> URI Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Router Class Initialized
+ERROR - 2023-03-01 14:08:59 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:08:59 --> Config Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Config Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:08:59 --> Config Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:08:59 --> URI Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:08:59 --> URI Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> URI Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Router Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Router Class Initialized
+ERROR - 2023-03-01 14:08:59 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:08:59 --> Router Class Initialized
+ERROR - 2023-03-01 14:08:59 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:08:59 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:08:59 --> Config Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Config Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:08:59 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:08:59 --> URI Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> URI Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Router Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Config Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:08:59 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:08:59 --> URI Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Config Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Router Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Router Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Config Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:08:59 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:08:59 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:08:59 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:08:59 --> URI Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> URI Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Router Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Router Class Initialized
+ERROR - 2023-03-01 14:08:59 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:08:59 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:08:59 --> Config Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:08:59 --> URI Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Config Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:08:59 --> Router Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> URI Class Initialized
+ERROR - 2023-03-01 14:08:59 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:08:59 --> Config Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Router Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:08:59 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:08:59 --> URI Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Config Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Router Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:08:59 --> URI Class Initialized
+ERROR - 2023-03-01 14:08:59 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:08:59 --> Router Class Initialized
+ERROR - 2023-03-01 14:08:59 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:08:59 --> Config Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:08:59 --> URI Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Router Class Initialized
+ERROR - 2023-03-01 14:08:59 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:08:59 --> Config Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:08:59 --> URI Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Router Class Initialized
+ERROR - 2023-03-01 14:08:59 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:08:59 --> Config Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:08:59 --> URI Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Router Class Initialized
+ERROR - 2023-03-01 14:08:59 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:08:59 --> Config Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:08:59 --> URI Class Initialized
+DEBUG - 2023-03-01 14:08:59 --> Router Class Initialized
+ERROR - 2023-03-01 14:08:59 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Output Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Security Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Input Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-01 14:10:37 --> Language Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Language Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Loader Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-01 14:10:37 --> Helper loaded: url_helper
+DEBUG - 2023-03-01 14:10:37 --> User Agent Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Template Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-01 14:10:37 --> Email Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-01 14:10:37 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-01 14:10:37 --> Session Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Helper loaded: string_helper
+DEBUG - 2023-03-01 14:10:37 --> Encrypt Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Database Driver Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Session routines successfully run
+DEBUG - 2023-03-01 14:10:37 --> Model Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Model Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Helper loaded: date_helper
+DEBUG - 2023-03-01 14:10:37 --> Helper loaded: form_helper
+DEBUG - 2023-03-01 14:10:37 --> Form Validation Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Controller Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> File loaded: application/views/admin/layouts/header.php
+DEBUG - 2023-03-01 14:10:37 --> File loaded: application/views/admin/manage_event.php
+DEBUG - 2023-03-01 14:10:37 --> File loaded: application/views/admin/layouts/footer.php
+DEBUG - 2023-03-01 14:10:37 --> Final output sent to browser
+DEBUG - 2023-03-01 14:10:37 --> Total execution time: 0.0555
+DEBUG - 2023-03-01 14:10:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:10:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:10:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:10:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:10:37 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:10:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:37 --> URI Class Initialized
+ERROR - 2023-03-01 14:10:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:37 --> URI Class Initialized
+ERROR - 2023-03-01 14:10:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> URI Class Initialized
+ERROR - 2023-03-01 14:10:37 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:10:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:37 --> URI Class Initialized
+ERROR - 2023-03-01 14:10:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:10:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Utf8 Class Initialized
+ERROR - 2023-03-01 14:10:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:10:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:10:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> URI Class Initialized
+ERROR - 2023-03-01 14:10:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:10:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:10:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> URI Class Initialized
+ERROR - 2023-03-01 14:10:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:10:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:37 --> URI Class Initialized
+ERROR - 2023-03-01 14:10:37 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:10:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:10:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Utf8 Class Initialized
+ERROR - 2023-03-01 14:10:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:10:37 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:10:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:10:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:10:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:10:37 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:10:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Utf8 Class Initialized
+ERROR - 2023-03-01 14:10:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> URI Class Initialized
+ERROR - 2023-03-01 14:10:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:10:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:10:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:37 --> Config Class Initialized
+ERROR - 2023-03-01 14:10:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Utf8 Class Initialized
+ERROR - 2023-03-01 14:10:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:10:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:10:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:10:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:10:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> URI Class Initialized
+ERROR - 2023-03-01 14:10:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:10:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:10:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:10:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:38 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:38 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:38 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:38 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:38 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:38 --> Router Class Initialized
+ERROR - 2023-03-01 14:10:38 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:46 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:46 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:46 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:46 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:46 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:46 --> Router Class Initialized
+DEBUG - 2023-03-01 14:10:46 --> Output Class Initialized
+DEBUG - 2023-03-01 14:10:46 --> Security Class Initialized
+DEBUG - 2023-03-01 14:10:46 --> Input Class Initialized
+DEBUG - 2023-03-01 14:10:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-01 14:10:46 --> Language Class Initialized
+DEBUG - 2023-03-01 14:10:46 --> Language Class Initialized
+DEBUG - 2023-03-01 14:10:46 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:46 --> Loader Class Initialized
+DEBUG - 2023-03-01 14:10:46 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-01 14:10:46 --> Helper loaded: url_helper
+DEBUG - 2023-03-01 14:10:46 --> User Agent Class Initialized
+DEBUG - 2023-03-01 14:10:46 --> Template Class Initialized
+DEBUG - 2023-03-01 14:10:46 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-01 14:10:46 --> Email Class Initialized
+DEBUG - 2023-03-01 14:10:46 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-01 14:10:46 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-01 14:10:46 --> Session Class Initialized
+DEBUG - 2023-03-01 14:10:46 --> Helper loaded: string_helper
+DEBUG - 2023-03-01 14:10:46 --> Encrypt Class Initialized
+DEBUG - 2023-03-01 14:10:46 --> Database Driver Class Initialized
+DEBUG - 2023-03-01 14:10:46 --> Session routines successfully run
+DEBUG - 2023-03-01 14:10:46 --> Model Class Initialized
+DEBUG - 2023-03-01 14:10:46 --> Model Class Initialized
+DEBUG - 2023-03-01 14:10:46 --> Helper loaded: date_helper
+DEBUG - 2023-03-01 14:10:46 --> Helper loaded: form_helper
+DEBUG - 2023-03-01 14:10:46 --> Form Validation Class Initialized
+DEBUG - 2023-03-01 14:10:46 --> Controller Class Initialized
+DEBUG - 2023-03-01 14:10:46 --> File loaded: application/views/admin/layouts/header.php
+DEBUG - 2023-03-01 14:10:46 --> File loaded: application/views/admin/manage_event.php
+DEBUG - 2023-03-01 14:10:46 --> File loaded: application/views/admin/layouts/footer.php
+DEBUG - 2023-03-01 14:10:46 --> Final output sent to browser
+DEBUG - 2023-03-01 14:10:46 --> Total execution time: 0.0734
+DEBUG - 2023-03-01 14:10:46 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:46 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:46 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:46 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:46 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:46 --> Router Class Initialized
+ERROR - 2023-03-01 14:10:46 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:47 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:47 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:47 --> Router Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> URI Class Initialized
+ERROR - 2023-03-01 14:10:47 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:47 --> Router Class Initialized
+ERROR - 2023-03-01 14:10:47 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:47 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:47 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:47 --> Router Class Initialized
+ERROR - 2023-03-01 14:10:47 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:47 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Router Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:47 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:47 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> URI Class Initialized
+ERROR - 2023-03-01 14:10:47 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:47 --> Router Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Router Class Initialized
+ERROR - 2023-03-01 14:10:47 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:10:47 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:47 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:47 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:47 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Router Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Router Class Initialized
+ERROR - 2023-03-01 14:10:47 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:10:47 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:47 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:47 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:47 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Router Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:10:47 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:47 --> Router Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> URI Class Initialized
+ERROR - 2023-03-01 14:10:47 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:47 --> Router Class Initialized
+ERROR - 2023-03-01 14:10:47 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:47 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:47 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Router Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:10:47 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:47 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:47 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:47 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Router Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Router Class Initialized
+ERROR - 2023-03-01 14:10:47 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:10:47 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:47 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:47 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:47 --> Router Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> URI Class Initialized
+ERROR - 2023-03-01 14:10:47 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:47 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Router Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:10:47 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:47 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Router Class Initialized
+ERROR - 2023-03-01 14:10:47 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:47 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:47 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Router Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Config Class Initialized
+ERROR - 2023-03-01 14:10:47 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:47 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:47 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Router Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:47 --> URI Class Initialized
+ERROR - 2023-03-01 14:10:47 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:47 --> Router Class Initialized
+ERROR - 2023-03-01 14:10:47 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:47 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:47 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:47 --> Router Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> URI Class Initialized
+ERROR - 2023-03-01 14:10:47 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:47 --> Router Class Initialized
+ERROR - 2023-03-01 14:10:47 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:47 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:47 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Router Class Initialized
+ERROR - 2023-03-01 14:10:47 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:47 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:47 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:47 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:47 --> Router Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> URI Class Initialized
+ERROR - 2023-03-01 14:10:47 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:47 --> Router Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Router Class Initialized
+ERROR - 2023-03-01 14:10:47 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:10:47 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:47 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:47 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:47 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:47 --> Router Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Router Class Initialized
+ERROR - 2023-03-01 14:10:47 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:10:47 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:47 --> Router Class Initialized
+ERROR - 2023-03-01 14:10:47 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:47 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:47 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Router Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Utf8 Class Initialized
+ERROR - 2023-03-01 14:10:47 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:47 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:47 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:47 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Router Class Initialized
+ERROR - 2023-03-01 14:10:47 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:47 --> Router Class Initialized
+ERROR - 2023-03-01 14:10:47 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:47 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:47 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:47 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Router Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Router Class Initialized
+ERROR - 2023-03-01 14:10:47 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:10:47 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:47 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:47 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:47 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:47 --> Router Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> URI Class Initialized
+ERROR - 2023-03-01 14:10:47 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:47 --> Router Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Router Class Initialized
+ERROR - 2023-03-01 14:10:47 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:10:47 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:47 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:47 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:47 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Router Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:10:47 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:47 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Router Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Router Class Initialized
+ERROR - 2023-03-01 14:10:47 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:10:47 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:47 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:47 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Router Class Initialized
+ERROR - 2023-03-01 14:10:47 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:47 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:47 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Router Class Initialized
+ERROR - 2023-03-01 14:10:47 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:10:47 --> Config Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:10:47 --> URI Class Initialized
+DEBUG - 2023-03-01 14:10:47 --> Router Class Initialized
+ERROR - 2023-03-01 14:10:47 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:11:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:11:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Output Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Security Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Input Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-01 14:11:37 --> Language Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Language Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Loader Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-01 14:11:37 --> Helper loaded: url_helper
+DEBUG - 2023-03-01 14:11:37 --> User Agent Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Template Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-01 14:11:37 --> Email Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-01 14:11:37 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-01 14:11:37 --> Session Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Helper loaded: string_helper
+DEBUG - 2023-03-01 14:11:37 --> Encrypt Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Database Driver Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Session routines successfully run
+DEBUG - 2023-03-01 14:11:37 --> Model Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Model Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Helper loaded: date_helper
+DEBUG - 2023-03-01 14:11:37 --> Helper loaded: form_helper
+DEBUG - 2023-03-01 14:11:37 --> Form Validation Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Controller Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> File loaded: application/views/admin/layouts/header.php
+DEBUG - 2023-03-01 14:11:37 --> File loaded: application/views/admin/manage_event.php
+DEBUG - 2023-03-01 14:11:37 --> File loaded: application/views/admin/layouts/footer.php
+DEBUG - 2023-03-01 14:11:37 --> Final output sent to browser
+DEBUG - 2023-03-01 14:11:37 --> Total execution time: 0.0639
+DEBUG - 2023-03-01 14:11:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:11:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:11:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:11:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:11:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:11:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:11:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:11:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:11:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:11:37 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:11:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:11:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:11:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:11:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:11:37 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:11:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:11:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:11:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:11:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:11:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:11:37 --> URI Class Initialized
+ERROR - 2023-03-01 14:11:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:11:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:11:37 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:11:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:11:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:11:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:11:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:11:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:11:37 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:11:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:11:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:11:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:11:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:11:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:11:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:11:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:11:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:11:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:11:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:11:37 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:11:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:11:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Utf8 Class Initialized
+ERROR - 2023-03-01 14:11:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:11:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:11:37 --> URI Class Initialized
+ERROR - 2023-03-01 14:11:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:11:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:11:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:11:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:11:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:11:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:11:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:11:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:11:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:11:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> URI Class Initialized
+ERROR - 2023-03-01 14:11:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:11:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:11:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:11:37 --> URI Class Initialized
+ERROR - 2023-03-01 14:11:37 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:11:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:11:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:11:37 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:11:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:11:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:11:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:11:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:11:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:11:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:11:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:11:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:11:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:11:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:11:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:11:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:11:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:11:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:11:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> URI Class Initialized
+ERROR - 2023-03-01 14:11:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:11:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Utf8 Class Initialized
+ERROR - 2023-03-01 14:11:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:11:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:11:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:11:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:11:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> URI Class Initialized
+ERROR - 2023-03-01 14:11:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:11:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:11:37 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:11:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:11:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:11:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:11:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:11:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:11:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:11:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:11:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:11:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:11:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:11:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Utf8 Class Initialized
+ERROR - 2023-03-01 14:11:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:11:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:11:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:11:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:11:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:11:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Config Class Initialized
+ERROR - 2023-03-01 14:11:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:11:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:11:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:11:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:11:37 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:11:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:11:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:11:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:11:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:11:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:11:38 --> Config Class Initialized
+DEBUG - 2023-03-01 14:11:38 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:11:38 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:11:38 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:11:38 --> URI Class Initialized
+DEBUG - 2023-03-01 14:11:38 --> Router Class Initialized
+ERROR - 2023-03-01 14:11:38 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:24:36 --> Config Class Initialized
+DEBUG - 2023-03-01 14:24:36 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:24:36 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:24:36 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:24:36 --> URI Class Initialized
+DEBUG - 2023-03-01 14:24:36 --> Router Class Initialized
+DEBUG - 2023-03-01 14:24:36 --> Output Class Initialized
+DEBUG - 2023-03-01 14:24:36 --> Security Class Initialized
+DEBUG - 2023-03-01 14:24:36 --> Input Class Initialized
+DEBUG - 2023-03-01 14:24:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-01 14:24:36 --> Language Class Initialized
+DEBUG - 2023-03-01 14:24:36 --> Language Class Initialized
+DEBUG - 2023-03-01 14:24:36 --> Config Class Initialized
+DEBUG - 2023-03-01 14:24:36 --> Loader Class Initialized
+DEBUG - 2023-03-01 14:24:36 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-01 14:24:36 --> Helper loaded: url_helper
+DEBUG - 2023-03-01 14:24:36 --> User Agent Class Initialized
+DEBUG - 2023-03-01 14:24:36 --> Template Class Initialized
+DEBUG - 2023-03-01 14:24:36 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-01 14:24:36 --> Email Class Initialized
+DEBUG - 2023-03-01 14:24:36 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-01 14:24:36 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-01 14:24:36 --> Session Class Initialized
+DEBUG - 2023-03-01 14:24:36 --> Helper loaded: string_helper
+DEBUG - 2023-03-01 14:24:36 --> Encrypt Class Initialized
+DEBUG - 2023-03-01 14:24:36 --> Database Driver Class Initialized
+DEBUG - 2023-03-01 14:24:36 --> Session routines successfully run
+DEBUG - 2023-03-01 14:24:36 --> Model Class Initialized
+DEBUG - 2023-03-01 14:24:36 --> Model Class Initialized
+DEBUG - 2023-03-01 14:24:36 --> Helper loaded: date_helper
+DEBUG - 2023-03-01 14:24:36 --> Helper loaded: form_helper
+DEBUG - 2023-03-01 14:24:36 --> Form Validation Class Initialized
+DEBUG - 2023-03-01 14:24:36 --> Controller Class Initialized
+DEBUG - 2023-03-01 14:24:36 --> File loaded: application/views/admin/layouts/header.php
+DEBUG - 2023-03-01 14:24:36 --> File loaded: application/views/admin/manage_event.php
+DEBUG - 2023-03-01 14:24:36 --> File loaded: application/views/admin/layouts/footer.php
+DEBUG - 2023-03-01 14:24:36 --> Final output sent to browser
+DEBUG - 2023-03-01 14:24:36 --> Total execution time: 0.2347
+DEBUG - 2023-03-01 14:24:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:24:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:24:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:24:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:24:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:24:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:24:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:24:37 --> Config Class Initialized
+ERROR - 2023-03-01 14:24:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:24:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:24:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:24:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:24:37 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:24:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:24:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:24:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:24:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:24:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:24:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:24:37 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:24:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:24:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:24:37 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:24:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:24:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:24:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:24:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:24:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:24:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:24:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:24:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:24:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:24:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:24:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Utf8 Class Initialized
+ERROR - 2023-03-01 14:24:37 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:24:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:24:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:24:37 --> URI Class Initialized
+ERROR - 2023-03-01 14:24:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:24:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:24:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:24:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:24:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:24:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:24:37 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:24:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:24:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:24:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:24:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:24:37 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:24:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:24:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:24:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:24:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:24:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:24:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:24:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:24:37 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:24:37 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:24:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:24:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:24:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:24:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:24:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:24:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:24:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:24:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:24:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> URI Class Initialized
+ERROR - 2023-03-01 14:24:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:24:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:24:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> URI Class Initialized
+ERROR - 2023-03-01 14:24:37 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:24:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:24:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:24:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:24:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:24:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:24:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:24:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:24:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:24:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:24:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:24:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:24:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:24:37 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:24:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:24:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:24:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:24:37 --> URI Class Initialized
+ERROR - 2023-03-01 14:24:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:24:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:24:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:24:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:24:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:24:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:24:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:24:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:24:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:24:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:24:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:24:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:24:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:24:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:24:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:24:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:24:37 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:24:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:24:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:24:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:24:37 --> Router Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> URI Class Initialized
+ERROR - 2023-03-01 14:24:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:24:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:24:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:24:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:24:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:24:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:24:37 --> Config Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:24:37 --> URI Class Initialized
+DEBUG - 2023-03-01 14:24:37 --> Router Class Initialized
+ERROR - 2023-03-01 14:24:37 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:25:39 --> Config Class Initialized
+DEBUG - 2023-03-01 14:25:39 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:25:39 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:25:39 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:25:39 --> URI Class Initialized
+DEBUG - 2023-03-01 14:25:39 --> Router Class Initialized
+DEBUG - 2023-03-01 14:25:39 --> Output Class Initialized
+DEBUG - 2023-03-01 14:25:39 --> Security Class Initialized
+DEBUG - 2023-03-01 14:25:39 --> Input Class Initialized
+DEBUG - 2023-03-01 14:25:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-01 14:25:39 --> Language Class Initialized
+DEBUG - 2023-03-01 14:25:39 --> Language Class Initialized
+DEBUG - 2023-03-01 14:25:39 --> Config Class Initialized
+DEBUG - 2023-03-01 14:25:39 --> Loader Class Initialized
+DEBUG - 2023-03-01 14:25:39 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-01 14:25:39 --> Helper loaded: url_helper
+DEBUG - 2023-03-01 14:25:39 --> User Agent Class Initialized
+DEBUG - 2023-03-01 14:25:39 --> Template Class Initialized
+DEBUG - 2023-03-01 14:25:39 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-01 14:25:39 --> Email Class Initialized
+DEBUG - 2023-03-01 14:25:39 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-01 14:25:39 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-01 14:25:39 --> Session Class Initialized
+DEBUG - 2023-03-01 14:25:39 --> Helper loaded: string_helper
+DEBUG - 2023-03-01 14:25:39 --> Encrypt Class Initialized
+DEBUG - 2023-03-01 14:25:39 --> Database Driver Class Initialized
+DEBUG - 2023-03-01 14:25:39 --> Session routines successfully run
+DEBUG - 2023-03-01 14:25:39 --> Model Class Initialized
+DEBUG - 2023-03-01 14:25:39 --> Model Class Initialized
+DEBUG - 2023-03-01 14:25:39 --> Helper loaded: date_helper
+DEBUG - 2023-03-01 14:25:39 --> Helper loaded: form_helper
+DEBUG - 2023-03-01 14:25:39 --> Form Validation Class Initialized
+DEBUG - 2023-03-01 14:25:39 --> Controller Class Initialized
+DEBUG - 2023-03-01 14:25:39 --> File loaded: application/views/admin/layouts/header.php
+DEBUG - 2023-03-01 14:25:39 --> File loaded: application/views/admin/manage_event.php
+DEBUG - 2023-03-01 14:25:39 --> File loaded: application/views/admin/layouts/footer.php
+DEBUG - 2023-03-01 14:25:39 --> Final output sent to browser
+DEBUG - 2023-03-01 14:25:39 --> Total execution time: 0.0918
+DEBUG - 2023-03-01 14:25:39 --> Config Class Initialized
+DEBUG - 2023-03-01 14:25:39 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:25:39 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:25:39 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:25:39 --> URI Class Initialized
+DEBUG - 2023-03-01 14:25:39 --> Router Class Initialized
+ERROR - 2023-03-01 14:25:39 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:25:39 --> Config Class Initialized
+DEBUG - 2023-03-01 14:25:39 --> Config Class Initialized
+DEBUG - 2023-03-01 14:25:39 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:25:39 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:25:39 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:25:39 --> URI Class Initialized
+DEBUG - 2023-03-01 14:25:39 --> Config Class Initialized
+DEBUG - 2023-03-01 14:25:39 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:25:39 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:25:39 --> Router Class Initialized
+DEBUG - 2023-03-01 14:25:39 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:25:39 --> URI Class Initialized
+ERROR - 2023-03-01 14:25:39 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:25:40 --> Router Class Initialized
+ERROR - 2023-03-01 14:25:40 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:25:40 --> Config Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:25:40 --> URI Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Config Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Router Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:25:40 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:25:40 --> URI Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Router Class Initialized
+ERROR - 2023-03-01 14:25:40 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:25:40 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:25:40 --> URI Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Config Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:25:40 --> URI Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Config Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Config Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Router Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:25:40 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> URI Class Initialized
+ERROR - 2023-03-01 14:25:40 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:25:40 --> Config Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:25:40 --> Router Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> URI Class Initialized
+ERROR - 2023-03-01 14:25:40 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:25:40 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:25:40 --> Router Class Initialized
+ERROR - 2023-03-01 14:25:40 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:25:40 --> Config Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:25:40 --> URI Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> URI Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Router Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Config Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:25:40 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:25:40 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:25:40 --> Router Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Router Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> URI Class Initialized
+ERROR - 2023-03-01 14:25:40 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:25:40 --> Router Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Config Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Utf8 Class Initialized
+ERROR - 2023-03-01 14:25:40 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:25:40 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:25:40 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:25:40 --> URI Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Router Class Initialized
+ERROR - 2023-03-01 14:25:40 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:25:40 --> Config Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:25:40 --> URI Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Router Class Initialized
+ERROR - 2023-03-01 14:25:40 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:25:40 --> Config Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:25:40 --> URI Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Config Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Config Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:25:40 --> Router Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:25:40 --> URI Class Initialized
+ERROR - 2023-03-01 14:25:40 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:25:40 --> URI Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Router Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Router Class Initialized
+ERROR - 2023-03-01 14:25:40 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:25:40 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:25:40 --> Config Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:25:40 --> URI Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Router Class Initialized
+ERROR - 2023-03-01 14:25:40 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:25:40 --> Config Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:25:40 --> URI Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Router Class Initialized
+ERROR - 2023-03-01 14:25:40 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:25:40 --> Config Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:25:40 --> URI Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Router Class Initialized
+ERROR - 2023-03-01 14:25:40 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:25:40 --> Config Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:25:40 --> URI Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Router Class Initialized
+ERROR - 2023-03-01 14:25:40 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:25:40 --> Config Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Config Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:25:40 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> URI Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:25:40 --> Config Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> URI Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Router Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:25:40 --> URI Class Initialized
+ERROR - 2023-03-01 14:25:40 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:25:40 --> Router Class Initialized
+ERROR - 2023-03-01 14:25:40 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:25:40 --> Router Class Initialized
+ERROR - 2023-03-01 14:25:40 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:25:40 --> Config Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:25:40 --> URI Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Config Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:25:40 --> Router Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> URI Class Initialized
+ERROR - 2023-03-01 14:25:40 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:25:40 --> Router Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Config Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:25:40 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:25:40 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:25:40 --> URI Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Router Class Initialized
+ERROR - 2023-03-01 14:25:40 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:25:40 --> Config Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:25:40 --> URI Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Config Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Router Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:25:40 --> URI Class Initialized
+ERROR - 2023-03-01 14:25:40 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:25:40 --> Config Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:25:40 --> Router Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> URI Class Initialized
+ERROR - 2023-03-01 14:25:40 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:25:40 --> Router Class Initialized
+ERROR - 2023-03-01 14:25:40 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:25:40 --> Config Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:25:40 --> URI Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Router Class Initialized
+ERROR - 2023-03-01 14:25:40 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:25:40 --> Config Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:25:40 --> URI Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Config Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Config Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Router Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:25:40 --> Config Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> URI Class Initialized
+ERROR - 2023-03-01 14:25:40 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:25:40 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:25:40 --> URI Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Router Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Utf8 Class Initialized
+ERROR - 2023-03-01 14:25:40 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:25:40 --> Router Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:25:40 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:25:40 --> URI Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Config Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Router Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:25:40 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:25:40 --> URI Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Router Class Initialized
+ERROR - 2023-03-01 14:25:40 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:25:40 --> Config Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Config Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Config Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:25:40 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:25:40 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Config Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:25:40 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> URI Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> URI Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:25:40 --> URI Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> URI Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Router Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Router Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Router Class Initialized
+ERROR - 2023-03-01 14:25:40 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:25:40 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:25:40 --> Router Class Initialized
+ERROR - 2023-03-01 14:25:40 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:25:40 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:25:40 --> Config Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:25:40 --> URI Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Config Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:25:40 --> Router Class Initialized
+DEBUG - 2023-03-01 14:25:40 --> URI Class Initialized
+ERROR - 2023-03-01 14:25:40 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:25:40 --> Router Class Initialized
+ERROR - 2023-03-01 14:25:40 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:26:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:26:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:26:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:26:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:26:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:26:35 --> Router Class Initialized
+DEBUG - 2023-03-01 14:26:35 --> Output Class Initialized
+DEBUG - 2023-03-01 14:26:35 --> Security Class Initialized
+DEBUG - 2023-03-01 14:26:35 --> Input Class Initialized
+DEBUG - 2023-03-01 14:26:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-01 14:26:35 --> Language Class Initialized
+DEBUG - 2023-03-01 14:26:35 --> Language Class Initialized
+DEBUG - 2023-03-01 14:26:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:26:35 --> Loader Class Initialized
+DEBUG - 2023-03-01 14:26:35 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-01 14:26:35 --> Helper loaded: url_helper
+DEBUG - 2023-03-01 14:26:35 --> User Agent Class Initialized
+DEBUG - 2023-03-01 14:26:35 --> Template Class Initialized
+DEBUG - 2023-03-01 14:26:35 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-01 14:26:35 --> Email Class Initialized
+DEBUG - 2023-03-01 14:26:35 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-01 14:26:35 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-01 14:26:35 --> Session Class Initialized
+DEBUG - 2023-03-01 14:26:35 --> Helper loaded: string_helper
+DEBUG - 2023-03-01 14:26:35 --> Encrypt Class Initialized
+DEBUG - 2023-03-01 14:26:35 --> Database Driver Class Initialized
+DEBUG - 2023-03-01 14:26:35 --> Session routines successfully run
+DEBUG - 2023-03-01 14:26:35 --> Model Class Initialized
+DEBUG - 2023-03-01 14:26:35 --> Model Class Initialized
+DEBUG - 2023-03-01 14:26:35 --> Helper loaded: date_helper
+DEBUG - 2023-03-01 14:26:35 --> Helper loaded: form_helper
+DEBUG - 2023-03-01 14:26:35 --> Form Validation Class Initialized
+DEBUG - 2023-03-01 14:26:35 --> Controller Class Initialized
+DEBUG - 2023-03-01 14:26:35 --> File loaded: application/views/admin/layouts/header.php
+DEBUG - 2023-03-01 14:26:35 --> File loaded: application/views/admin/manage_event.php
+DEBUG - 2023-03-01 14:26:35 --> File loaded: application/views/admin/layouts/footer.php
+DEBUG - 2023-03-01 14:26:35 --> Final output sent to browser
+DEBUG - 2023-03-01 14:26:35 --> Total execution time: 0.0690
+DEBUG - 2023-03-01 14:26:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:26:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:26:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:26:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:26:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:26:35 --> Router Class Initialized
+ERROR - 2023-03-01 14:26:35 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:26:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:26:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:26:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:26:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:26:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:26:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:26:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:26:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:26:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:26:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:26:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:26:36 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:26:36 --> URI Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Router Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> URI Class Initialized
+ERROR - 2023-03-01 14:26:36 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:26:36 --> Router Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Router Class Initialized
+ERROR - 2023-03-01 14:26:36 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:26:36 --> Config Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:26:36 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:26:36 --> Config Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:26:36 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:26:36 --> URI Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> URI Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Router Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Router Class Initialized
+ERROR - 2023-03-01 14:26:36 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:26:36 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:26:36 --> Config Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:26:36 --> URI Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Config Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Config Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:26:36 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Router Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> URI Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:26:36 --> Config Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> URI Class Initialized
+ERROR - 2023-03-01 14:26:36 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:26:36 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:26:36 --> Router Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> URI Class Initialized
+ERROR - 2023-03-01 14:26:36 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:26:36 --> Router Class Initialized
+ERROR - 2023-03-01 14:26:36 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:26:36 --> Config Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:26:36 --> URI Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Config Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Router Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:26:36 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:26:36 --> URI Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Config Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Config Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:26:36 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:26:36 --> URI Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Config Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Router Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Router Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:26:36 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:26:36 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:26:36 --> URI Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> URI Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Router Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Config Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Router Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Utf8 Class Initialized
+ERROR - 2023-03-01 14:26:36 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:26:36 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:26:36 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:26:36 --> URI Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Router Class Initialized
+ERROR - 2023-03-01 14:26:36 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:26:36 --> Config Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Config Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:26:36 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Config Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:26:36 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> URI Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> URI Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:26:36 --> Config Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> URI Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Router Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Router Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Router Class Initialized
+ERROR - 2023-03-01 14:26:36 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:26:36 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:26:36 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:26:36 --> URI Class Initialized
+ERROR - 2023-03-01 14:26:36 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:26:36 --> Router Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Config Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:26:36 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:26:36 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:26:36 --> URI Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Router Class Initialized
+ERROR - 2023-03-01 14:26:36 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:26:36 --> Config Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Config Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:26:36 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:26:36 --> Config Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> URI Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> URI Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:26:36 --> URI Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Router Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Router Class Initialized
+ERROR - 2023-03-01 14:26:36 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:26:36 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:26:36 --> Router Class Initialized
+ERROR - 2023-03-01 14:26:36 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:26:36 --> Config Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:26:36 --> URI Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Router Class Initialized
+ERROR - 2023-03-01 14:26:36 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:26:36 --> Config Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:26:36 --> URI Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Config Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:26:36 --> Config Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> URI Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Router Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:26:36 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:26:36 --> URI Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Router Class Initialized
+ERROR - 2023-03-01 14:26:36 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:26:36 --> Router Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Config Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Utf8 Class Initialized
+ERROR - 2023-03-01 14:26:36 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:26:36 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:26:36 --> URI Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Router Class Initialized
+ERROR - 2023-03-01 14:26:36 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:26:36 --> Config Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:26:36 --> URI Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Router Class Initialized
+ERROR - 2023-03-01 14:26:36 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:26:36 --> Config Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:26:36 --> Config Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> URI Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Router Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Config Class Initialized
+ERROR - 2023-03-01 14:26:36 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:26:36 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:26:36 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Config Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:26:36 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> URI Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Config Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> URI Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:26:36 --> Router Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> URI Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Router Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Router Class Initialized
+ERROR - 2023-03-01 14:26:36 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:26:36 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:26:36 --> Router Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:26:36 --> URI Class Initialized
+ERROR - 2023-03-01 14:26:36 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:26:36 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:26:36 --> Router Class Initialized
+ERROR - 2023-03-01 14:26:36 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:26:36 --> Config Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:26:36 --> URI Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Router Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Config Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Config Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:26:36 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> URI Class Initialized
+ERROR - 2023-03-01 14:26:36 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:26:36 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:26:36 --> Config Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Config Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> URI Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:26:36 --> Router Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Router Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Config Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Config Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> URI Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:26:36 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:26:36 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:26:36 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:26:36 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:26:36 --> Router Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> URI Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> URI Class Initialized
+ERROR - 2023-03-01 14:26:36 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:26:36 --> Router Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Router Class Initialized
+ERROR - 2023-03-01 14:26:36 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:26:36 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:26:36 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:26:36 --> URI Class Initialized
+DEBUG - 2023-03-01 14:26:36 --> Router Class Initialized
+ERROR - 2023-03-01 14:26:36 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:27:17 --> Config Class Initialized
+DEBUG - 2023-03-01 14:27:17 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:27:17 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:27:17 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:27:17 --> URI Class Initialized
+DEBUG - 2023-03-01 14:27:17 --> Router Class Initialized
+DEBUG - 2023-03-01 14:27:17 --> Output Class Initialized
+DEBUG - 2023-03-01 14:27:17 --> Security Class Initialized
+DEBUG - 2023-03-01 14:27:17 --> Input Class Initialized
+DEBUG - 2023-03-01 14:27:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-01 14:27:17 --> Language Class Initialized
+DEBUG - 2023-03-01 14:27:17 --> Language Class Initialized
+DEBUG - 2023-03-01 14:27:17 --> Config Class Initialized
+DEBUG - 2023-03-01 14:27:17 --> Loader Class Initialized
+DEBUG - 2023-03-01 14:27:17 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-01 14:27:17 --> Helper loaded: url_helper
+DEBUG - 2023-03-01 14:27:17 --> User Agent Class Initialized
+DEBUG - 2023-03-01 14:27:17 --> Template Class Initialized
+DEBUG - 2023-03-01 14:27:17 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-01 14:27:17 --> Email Class Initialized
+DEBUG - 2023-03-01 14:27:17 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-01 14:27:17 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-01 14:27:17 --> Session Class Initialized
+DEBUG - 2023-03-01 14:27:17 --> Helper loaded: string_helper
+DEBUG - 2023-03-01 14:27:17 --> Encrypt Class Initialized
+DEBUG - 2023-03-01 14:27:17 --> Database Driver Class Initialized
+DEBUG - 2023-03-01 14:27:17 --> Session routines successfully run
+DEBUG - 2023-03-01 14:27:17 --> Model Class Initialized
+DEBUG - 2023-03-01 14:27:17 --> Model Class Initialized
+DEBUG - 2023-03-01 14:27:17 --> Helper loaded: date_helper
+DEBUG - 2023-03-01 14:27:17 --> Helper loaded: form_helper
+DEBUG - 2023-03-01 14:27:17 --> Form Validation Class Initialized
+DEBUG - 2023-03-01 14:27:17 --> Controller Class Initialized
+DEBUG - 2023-03-01 14:27:17 --> File loaded: application/views/admin/layouts/header.php
+DEBUG - 2023-03-01 14:27:17 --> File loaded: application/views/admin/manage_event.php
+DEBUG - 2023-03-01 14:27:17 --> File loaded: application/views/admin/layouts/footer.php
+DEBUG - 2023-03-01 14:27:17 --> Final output sent to browser
+DEBUG - 2023-03-01 14:27:17 --> Total execution time: 0.0694
+DEBUG - 2023-03-01 14:27:18 --> Config Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:27:18 --> URI Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Router Class Initialized
+ERROR - 2023-03-01 14:27:18 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:27:18 --> Config Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:27:18 --> Config Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> URI Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Config Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:27:18 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:27:18 --> URI Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Router Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> URI Class Initialized
+ERROR - 2023-03-01 14:27:18 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:27:18 --> Router Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Router Class Initialized
+ERROR - 2023-03-01 14:27:18 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:27:18 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:27:18 --> Config Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:27:18 --> URI Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Router Class Initialized
+ERROR - 2023-03-01 14:27:18 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:27:18 --> Config Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Config Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:27:18 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:27:18 --> URI Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Config Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> URI Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:27:18 --> Router Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> URI Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Router Class Initialized
+ERROR - 2023-03-01 14:27:18 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:27:18 --> Router Class Initialized
+ERROR - 2023-03-01 14:27:18 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:27:18 --> Config Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:27:18 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:27:18 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:27:18 --> URI Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Config Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:27:18 --> URI Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Config Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Config Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Router Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Config Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:27:18 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:27:18 --> Utf8 Class Initialized
+ERROR - 2023-03-01 14:27:18 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:27:18 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:27:18 --> URI Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> URI Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> URI Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Router Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Router Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Router Class Initialized
+ERROR - 2023-03-01 14:27:18 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:27:18 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:27:18 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:27:18 --> Config Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:27:18 --> URI Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Config Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Config Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:27:18 --> Router Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:27:18 --> URI Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> URI Class Initialized
+ERROR - 2023-03-01 14:27:18 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:27:18 --> Router Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Router Class Initialized
+ERROR - 2023-03-01 14:27:18 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:27:18 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:27:18 --> Config Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Config Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Config Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:27:18 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:27:18 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:27:18 --> URI Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> URI Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> URI Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Router Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Router Class Initialized
+ERROR - 2023-03-01 14:27:18 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:27:18 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:27:18 --> Router Class Initialized
+ERROR - 2023-03-01 14:27:18 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:27:18 --> Config Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:27:18 --> Config Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> URI Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:27:18 --> URI Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Router Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Router Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Router Class Initialized
+ERROR - 2023-03-01 14:27:18 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:27:18 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:27:18 --> Config Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:27:18 --> URI Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Config Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:27:18 --> Router Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> URI Class Initialized
+ERROR - 2023-03-01 14:27:18 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:27:18 --> Router Class Initialized
+ERROR - 2023-03-01 14:27:18 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:27:18 --> Config Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Config Class Initialized
+ERROR - 2023-03-01 14:27:18 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:27:18 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:27:18 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> URI Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:27:18 --> URI Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Config Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Router Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Config Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Router Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:27:18 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:27:18 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> URI Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:27:18 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:27:18 --> Router Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> URI Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Config Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Utf8 Class Initialized
+ERROR - 2023-03-01 14:27:18 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:27:18 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:27:18 --> URI Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Router Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Router Class Initialized
+ERROR - 2023-03-01 14:27:18 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:27:18 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:27:18 --> Config Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Config Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:27:18 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:27:18 --> URI Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> URI Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Router Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Router Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Config Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:27:18 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:27:18 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:27:18 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:27:18 --> URI Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Config Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Router Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:27:18 --> URI Class Initialized
+ERROR - 2023-03-01 14:27:18 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:27:18 --> Config Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Router Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:27:18 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:27:18 --> URI Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Router Class Initialized
+ERROR - 2023-03-01 14:27:18 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:27:18 --> Config Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Config Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:27:18 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:27:18 --> URI Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> URI Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Router Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Config Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:27:18 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:27:18 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:27:18 --> Router Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> URI Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Config Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:27:18 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:27:18 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:27:18 --> Router Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> URI Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Config Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Utf8 Class Initialized
+ERROR - 2023-03-01 14:27:18 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:27:18 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:27:18 --> Router Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> URI Class Initialized
+ERROR - 2023-03-01 14:27:18 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:27:18 --> Router Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Config Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:27:18 --> URI Class Initialized
+ERROR - 2023-03-01 14:27:18 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:27:18 --> Config Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Router Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Config Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:27:18 --> Config Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Utf8 Class Initialized
+ERROR - 2023-03-01 14:27:18 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:27:18 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:27:18 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> URI Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:27:18 --> Router Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> URI Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> URI Class Initialized
+ERROR - 2023-03-01 14:27:18 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:27:18 --> Router Class Initialized
+DEBUG - 2023-03-01 14:27:18 --> Router Class Initialized
+ERROR - 2023-03-01 14:27:18 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:27:18 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:09 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:09 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Router Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Output Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Security Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Input Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-01 14:30:09 --> Language Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Language Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Loader Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-01 14:30:09 --> Helper loaded: url_helper
+DEBUG - 2023-03-01 14:30:09 --> User Agent Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Template Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-01 14:30:09 --> Email Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-01 14:30:09 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-01 14:30:09 --> Session Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Helper loaded: string_helper
+DEBUG - 2023-03-01 14:30:09 --> Encrypt Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Database Driver Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Session routines successfully run
+DEBUG - 2023-03-01 14:30:09 --> Model Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Model Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Helper loaded: date_helper
+DEBUG - 2023-03-01 14:30:09 --> Helper loaded: form_helper
+DEBUG - 2023-03-01 14:30:09 --> Form Validation Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Controller Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> File loaded: application/views/admin/layouts/header.php
+DEBUG - 2023-03-01 14:30:09 --> File loaded: application/views/admin/manage_event.php
+DEBUG - 2023-03-01 14:30:09 --> File loaded: application/views/admin/layouts/footer.php
+DEBUG - 2023-03-01 14:30:09 --> Final output sent to browser
+DEBUG - 2023-03-01 14:30:09 --> Total execution time: 0.0902
+DEBUG - 2023-03-01 14:30:09 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:09 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Router Class Initialized
+ERROR - 2023-03-01 14:30:09 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:09 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:09 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Router Class Initialized
+ERROR - 2023-03-01 14:30:09 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:09 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:09 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Router Class Initialized
+ERROR - 2023-03-01 14:30:09 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:09 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:09 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Router Class Initialized
+ERROR - 2023-03-01 14:30:09 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:09 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:09 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Router Class Initialized
+ERROR - 2023-03-01 14:30:09 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:09 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:09 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Router Class Initialized
+ERROR - 2023-03-01 14:30:09 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:09 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:09 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Router Class Initialized
+ERROR - 2023-03-01 14:30:09 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:09 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:09 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Router Class Initialized
+ERROR - 2023-03-01 14:30:09 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:09 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:09 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Router Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:30:09 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:09 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:09 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:09 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Router Class Initialized
+ERROR - 2023-03-01 14:30:09 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:09 --> Router Class Initialized
+ERROR - 2023-03-01 14:30:09 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:09 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:09 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Router Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Utf8 Class Initialized
+ERROR - 2023-03-01 14:30:09 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:09 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:09 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Router Class Initialized
+ERROR - 2023-03-01 14:30:09 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:09 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:09 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Router Class Initialized
+ERROR - 2023-03-01 14:30:09 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:09 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:09 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Router Class Initialized
+ERROR - 2023-03-01 14:30:09 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:09 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:09 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Router Class Initialized
+ERROR - 2023-03-01 14:30:09 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:09 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:09 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:09 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Router Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Router Class Initialized
+ERROR - 2023-03-01 14:30:09 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:30:09 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:09 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:09 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:09 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Router Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Router Class Initialized
+ERROR - 2023-03-01 14:30:09 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:30:09 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:09 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:09 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:09 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Router Class Initialized
+ERROR - 2023-03-01 14:30:09 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:09 --> Router Class Initialized
+ERROR - 2023-03-01 14:30:09 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:09 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:09 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:09 --> Router Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> URI Class Initialized
+ERROR - 2023-03-01 14:30:09 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:09 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:09 --> Router Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:09 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:09 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> URI Class Initialized
+ERROR - 2023-03-01 14:30:09 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:09 --> Router Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Router Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Router Class Initialized
+ERROR - 2023-03-01 14:30:09 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:30:09 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:30:09 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:09 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:09 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Router Class Initialized
+ERROR - 2023-03-01 14:30:09 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:09 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:09 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:09 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Router Class Initialized
+ERROR - 2023-03-01 14:30:09 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:09 --> Router Class Initialized
+ERROR - 2023-03-01 14:30:09 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:09 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:09 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Router Class Initialized
+ERROR - 2023-03-01 14:30:09 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:09 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:09 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:09 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Router Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Router Class Initialized
+ERROR - 2023-03-01 14:30:09 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:30:09 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:09 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:09 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:09 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Router Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:09 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:09 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> URI Class Initialized
+ERROR - 2023-03-01 14:30:09 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:09 --> Router Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Router Class Initialized
+ERROR - 2023-03-01 14:30:09 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:30:09 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:09 --> Router Class Initialized
+ERROR - 2023-03-01 14:30:09 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:09 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:09 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:09 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Router Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Router Class Initialized
+ERROR - 2023-03-01 14:30:09 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:09 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:30:09 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:09 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Router Class Initialized
+ERROR - 2023-03-01 14:30:09 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:09 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:09 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:09 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:09 --> Router Class Initialized
+ERROR - 2023-03-01 14:30:09 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:09 --> Router Class Initialized
+ERROR - 2023-03-01 14:30:09 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:30:28 --> Output Class Initialized
+DEBUG - 2023-03-01 14:30:28 --> Security Class Initialized
+DEBUG - 2023-03-01 14:30:28 --> Input Class Initialized
+DEBUG - 2023-03-01 14:30:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-01 14:30:28 --> Language Class Initialized
+DEBUG - 2023-03-01 14:30:28 --> Language Class Initialized
+DEBUG - 2023-03-01 14:30:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:28 --> Loader Class Initialized
+DEBUG - 2023-03-01 14:30:28 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-01 14:30:28 --> Helper loaded: url_helper
+DEBUG - 2023-03-01 14:30:29 --> User Agent Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Template Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-01 14:30:29 --> Email Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-01 14:30:29 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-01 14:30:29 --> Session Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Helper loaded: string_helper
+DEBUG - 2023-03-01 14:30:29 --> Encrypt Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Database Driver Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Session routines successfully run
+DEBUG - 2023-03-01 14:30:29 --> Model Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Model Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Helper loaded: date_helper
+DEBUG - 2023-03-01 14:30:29 --> Helper loaded: form_helper
+DEBUG - 2023-03-01 14:30:29 --> Form Validation Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Controller Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> File loaded: application/views/admin/layouts/header.php
+DEBUG - 2023-03-01 14:30:29 --> File loaded: application/views/admin/manage_event.php
+DEBUG - 2023-03-01 14:30:29 --> File loaded: application/views/admin/layouts/footer.php
+DEBUG - 2023-03-01 14:30:29 --> Final output sent to browser
+DEBUG - 2023-03-01 14:30:29 --> Total execution time: 0.0543
+DEBUG - 2023-03-01 14:30:29 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:29 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Router Class Initialized
+ERROR - 2023-03-01 14:30:29 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:29 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:29 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:29 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:29 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Router Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Router Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Router Class Initialized
+ERROR - 2023-03-01 14:30:29 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:30:29 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:30:29 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:29 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:29 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Router Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:29 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:30:29 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:29 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:29 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Router Class Initialized
+ERROR - 2023-03-01 14:30:29 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:29 --> Router Class Initialized
+ERROR - 2023-03-01 14:30:29 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:29 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:29 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:29 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Router Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Router Class Initialized
+ERROR - 2023-03-01 14:30:29 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:30:29 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:29 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:29 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:29 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Router Class Initialized
+ERROR - 2023-03-01 14:30:29 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:29 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Router Class Initialized
+ERROR - 2023-03-01 14:30:29 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:29 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:29 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:29 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Router Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Router Class Initialized
+ERROR - 2023-03-01 14:30:29 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:29 --> Config Class Initialized
+ERROR - 2023-03-01 14:30:29 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:29 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:29 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:29 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:29 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Router Class Initialized
+ERROR - 2023-03-01 14:30:29 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:29 --> Router Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Router Class Initialized
+ERROR - 2023-03-01 14:30:29 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:29 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:30:29 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:29 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:29 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:29 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Router Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Router Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:30:29 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:30:29 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:29 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Router Class Initialized
+ERROR - 2023-03-01 14:30:29 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:29 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:29 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Router Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:30:29 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:29 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Router Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:29 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:30:29 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:29 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Router Class Initialized
+ERROR - 2023-03-01 14:30:29 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:29 --> Router Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Config Class Initialized
+ERROR - 2023-03-01 14:30:29 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:29 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:29 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Router Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Config Class Initialized
+ERROR - 2023-03-01 14:30:29 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:29 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:29 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:29 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Router Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:29 --> Router Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> URI Class Initialized
+ERROR - 2023-03-01 14:30:29 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:30:29 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:29 --> Router Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:29 --> URI Class Initialized
+ERROR - 2023-03-01 14:30:29 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:29 --> Router Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:30:29 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:29 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:29 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:29 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:29 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Router Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Router Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Router Class Initialized
+ERROR - 2023-03-01 14:30:29 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:30:29 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:30:29 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:29 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:29 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Router Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:30:29 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:29 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:29 --> Router Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> URI Class Initialized
+ERROR - 2023-03-01 14:30:29 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:29 --> Router Class Initialized
+ERROR - 2023-03-01 14:30:29 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:29 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:29 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Router Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:30:29 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:29 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:29 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Router Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:30:29 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:29 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Router Class Initialized
+ERROR - 2023-03-01 14:30:29 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:29 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:29 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:29 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:29 --> Router Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> URI Class Initialized
+ERROR - 2023-03-01 14:30:29 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:29 --> Router Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Router Class Initialized
+ERROR - 2023-03-01 14:30:29 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:30:29 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:29 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:29 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Router Class Initialized
+ERROR - 2023-03-01 14:30:29 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:30:29 --> Config Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:30:29 --> URI Class Initialized
+DEBUG - 2023-03-01 14:30:29 --> Router Class Initialized
+ERROR - 2023-03-01 14:30:29 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:31:22 --> Config Class Initialized
+DEBUG - 2023-03-01 14:31:22 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:31:22 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:31:22 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:31:22 --> URI Class Initialized
+DEBUG - 2023-03-01 14:31:22 --> Router Class Initialized
+DEBUG - 2023-03-01 14:31:22 --> Output Class Initialized
+DEBUG - 2023-03-01 14:31:22 --> Security Class Initialized
+DEBUG - 2023-03-01 14:31:22 --> Input Class Initialized
+DEBUG - 2023-03-01 14:31:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-01 14:31:22 --> Language Class Initialized
+DEBUG - 2023-03-01 14:31:22 --> Language Class Initialized
+DEBUG - 2023-03-01 14:31:22 --> Config Class Initialized
+DEBUG - 2023-03-01 14:31:22 --> Loader Class Initialized
+DEBUG - 2023-03-01 14:31:22 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-01 14:31:22 --> Helper loaded: url_helper
+DEBUG - 2023-03-01 14:31:22 --> User Agent Class Initialized
+DEBUG - 2023-03-01 14:31:22 --> Template Class Initialized
+DEBUG - 2023-03-01 14:31:22 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-01 14:31:22 --> Email Class Initialized
+DEBUG - 2023-03-01 14:31:22 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-01 14:31:22 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-01 14:31:22 --> Session Class Initialized
+DEBUG - 2023-03-01 14:31:22 --> Helper loaded: string_helper
+DEBUG - 2023-03-01 14:31:22 --> Encrypt Class Initialized
+DEBUG - 2023-03-01 14:31:22 --> Database Driver Class Initialized
+DEBUG - 2023-03-01 14:31:22 --> Session routines successfully run
+DEBUG - 2023-03-01 14:31:22 --> Model Class Initialized
+DEBUG - 2023-03-01 14:31:22 --> Model Class Initialized
+DEBUG - 2023-03-01 14:31:22 --> Helper loaded: date_helper
+DEBUG - 2023-03-01 14:31:22 --> Helper loaded: form_helper
+DEBUG - 2023-03-01 14:31:22 --> Form Validation Class Initialized
+DEBUG - 2023-03-01 14:31:22 --> Controller Class Initialized
+DEBUG - 2023-03-01 14:31:22 --> File loaded: application/views/admin/layouts/header.php
+DEBUG - 2023-03-01 14:31:22 --> File loaded: application/views/admin/manage_event.php
+DEBUG - 2023-03-01 14:31:22 --> File loaded: application/views/admin/layouts/footer.php
+DEBUG - 2023-03-01 14:31:22 --> Final output sent to browser
+DEBUG - 2023-03-01 14:31:22 --> Total execution time: 0.0765
+DEBUG - 2023-03-01 14:31:23 --> Config Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:31:23 --> URI Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Router Class Initialized
+ERROR - 2023-03-01 14:31:23 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:31:23 --> Config Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:31:23 --> Config Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> URI Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:31:23 --> URI Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Router Class Initialized
+ERROR - 2023-03-01 14:31:23 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:31:23 --> Router Class Initialized
+ERROR - 2023-03-01 14:31:23 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:31:23 --> Config Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:31:23 --> URI Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Config Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Router Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:31:23 --> URI Class Initialized
+ERROR - 2023-03-01 14:31:23 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:31:23 --> Config Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:31:23 --> Router Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> URI Class Initialized
+ERROR - 2023-03-01 14:31:23 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:31:23 --> Router Class Initialized
+ERROR - 2023-03-01 14:31:23 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:31:23 --> Config Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Config Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:31:23 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:31:23 --> URI Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> URI Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Router Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Router Class Initialized
+ERROR - 2023-03-01 14:31:23 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:31:23 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:31:23 --> Config Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:31:23 --> Config Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:31:23 --> URI Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Config Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:31:23 --> URI Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Router Class Initialized
+ERROR - 2023-03-01 14:31:23 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:31:23 --> Router Class Initialized
+ERROR - 2023-03-01 14:31:23 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:31:23 --> Config Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:31:23 --> URI Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> URI Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Config Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Config Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Router Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:31:23 --> URI Class Initialized
+ERROR - 2023-03-01 14:31:23 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:31:23 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:31:23 --> Router Class Initialized
+ERROR - 2023-03-01 14:31:23 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:31:23 --> Router Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Config Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> URI Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:31:23 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:31:23 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:31:23 --> URI Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Config Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:31:23 --> URI Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Router Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Router Class Initialized
+ERROR - 2023-03-01 14:31:23 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:31:23 --> Router Class Initialized
+ERROR - 2023-03-01 14:31:23 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:31:23 --> Config Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:31:23 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:31:23 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:31:23 --> URI Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Router Class Initialized
+ERROR - 2023-03-01 14:31:23 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:31:23 --> Config Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:31:23 --> URI Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Config Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:31:23 --> Router Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> URI Class Initialized
+ERROR - 2023-03-01 14:31:23 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:31:23 --> Router Class Initialized
+ERROR - 2023-03-01 14:31:23 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:31:23 --> Config Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Config Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Config Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:31:23 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:31:23 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:31:23 --> URI Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> URI Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> URI Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Router Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Router Class Initialized
+ERROR - 2023-03-01 14:31:23 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:31:23 --> Router Class Initialized
+ERROR - 2023-03-01 14:31:23 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:31:23 --> Config Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:31:23 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:31:23 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:31:23 --> URI Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Router Class Initialized
+ERROR - 2023-03-01 14:31:23 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:31:23 --> Config Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Config Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:31:23 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:31:23 --> URI Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Router Class Initialized
+ERROR - 2023-03-01 14:31:23 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:31:23 --> Config Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Config Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:31:23 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:31:23 --> URI Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> URI Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> URI Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Config Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:31:23 --> Router Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Router Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> URI Class Initialized
+ERROR - 2023-03-01 14:31:23 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:31:23 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:31:23 --> Router Class Initialized
+ERROR - 2023-03-01 14:31:23 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:31:23 --> Config Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:31:23 --> URI Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Router Class Initialized
+ERROR - 2023-03-01 14:31:23 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:31:23 --> Config Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Config Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:31:23 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:31:23 --> URI Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> URI Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Router Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Router Class Initialized
+ERROR - 2023-03-01 14:31:23 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:31:23 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:31:23 --> Config Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:31:23 --> URI Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Router Class Initialized
+ERROR - 2023-03-01 14:31:23 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:31:23 --> Router Class Initialized
+ERROR - 2023-03-01 14:31:23 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:31:23 --> Config Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:31:23 --> Config Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> URI Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:31:23 --> URI Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Router Class Initialized
+ERROR - 2023-03-01 14:31:23 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:31:23 --> Router Class Initialized
+ERROR - 2023-03-01 14:31:23 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:31:23 --> Config Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Config Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Config Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Config Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:31:23 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:31:23 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:31:23 --> URI Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> URI Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> URI Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Router Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Router Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Router Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Config Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:31:23 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:31:23 --> Utf8 Class Initialized
+ERROR - 2023-03-01 14:31:23 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:31:23 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:31:23 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:31:23 --> URI Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Router Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Config Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:31:23 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:31:23 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:31:23 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> URI Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Router Class Initialized
+ERROR - 2023-03-01 14:31:23 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:31:23 --> Config Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:31:23 --> Config Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:31:23 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> URI Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:31:23 --> URI Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> URI Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Router Class Initialized
+DEBUG - 2023-03-01 14:31:23 --> Router Class Initialized
+ERROR - 2023-03-01 14:31:23 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:31:23 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:31:23 --> Router Class Initialized
+ERROR - 2023-03-01 14:31:23 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:16 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:16 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:16 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:16 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:16 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:16 --> Router Class Initialized
+DEBUG - 2023-03-01 14:32:16 --> Output Class Initialized
+DEBUG - 2023-03-01 14:32:16 --> Security Class Initialized
+DEBUG - 2023-03-01 14:32:16 --> Input Class Initialized
+DEBUG - 2023-03-01 14:32:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-01 14:32:16 --> Language Class Initialized
+DEBUG - 2023-03-01 14:32:16 --> Language Class Initialized
+DEBUG - 2023-03-01 14:32:16 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:16 --> Loader Class Initialized
+DEBUG - 2023-03-01 14:32:16 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-01 14:32:16 --> Helper loaded: url_helper
+DEBUG - 2023-03-01 14:32:16 --> User Agent Class Initialized
+DEBUG - 2023-03-01 14:32:16 --> Template Class Initialized
+DEBUG - 2023-03-01 14:32:16 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-01 14:32:16 --> Email Class Initialized
+DEBUG - 2023-03-01 14:32:16 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-01 14:32:16 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-01 14:32:16 --> Session Class Initialized
+DEBUG - 2023-03-01 14:32:16 --> Helper loaded: string_helper
+DEBUG - 2023-03-01 14:32:16 --> Encrypt Class Initialized
+DEBUG - 2023-03-01 14:32:16 --> Database Driver Class Initialized
+DEBUG - 2023-03-01 14:32:16 --> Session routines successfully run
+DEBUG - 2023-03-01 14:32:16 --> Model Class Initialized
+DEBUG - 2023-03-01 14:32:16 --> Model Class Initialized
+DEBUG - 2023-03-01 14:32:16 --> Helper loaded: date_helper
+DEBUG - 2023-03-01 14:32:16 --> Helper loaded: form_helper
+DEBUG - 2023-03-01 14:32:16 --> Form Validation Class Initialized
+DEBUG - 2023-03-01 14:32:16 --> Controller Class Initialized
+DEBUG - 2023-03-01 14:32:16 --> File loaded: application/views/admin/layouts/header.php
+DEBUG - 2023-03-01 14:32:16 --> File loaded: application/views/admin/manage_event.php
+DEBUG - 2023-03-01 14:32:16 --> File loaded: application/views/admin/layouts/footer.php
+DEBUG - 2023-03-01 14:32:16 --> Final output sent to browser
+DEBUG - 2023-03-01 14:32:16 --> Total execution time: 0.0812
+DEBUG - 2023-03-01 14:32:17 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:17 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Router Class Initialized
+ERROR - 2023-03-01 14:32:17 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:17 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:17 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Router Class Initialized
+ERROR - 2023-03-01 14:32:17 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:17 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:17 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Router Class Initialized
+ERROR - 2023-03-01 14:32:17 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:17 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:17 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:17 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:17 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Router Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Router Class Initialized
+ERROR - 2023-03-01 14:32:17 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:17 --> Router Class Initialized
+ERROR - 2023-03-01 14:32:17 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:32:17 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:17 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:17 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Router Class Initialized
+ERROR - 2023-03-01 14:32:17 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:17 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:17 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:17 --> Router Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> URI Class Initialized
+ERROR - 2023-03-01 14:32:17 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:17 --> Router Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:32:17 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:17 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:17 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Router Class Initialized
+ERROR - 2023-03-01 14:32:17 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:17 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:17 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:17 --> Router Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> URI Class Initialized
+ERROR - 2023-03-01 14:32:17 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:17 --> Router Class Initialized
+ERROR - 2023-03-01 14:32:17 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:17 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:17 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:17 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Router Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:17 --> URI Class Initialized
+ERROR - 2023-03-01 14:32:17 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:17 --> Router Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:32:17 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:17 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Router Class Initialized
+ERROR - 2023-03-01 14:32:17 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:17 --> Router Class Initialized
+ERROR - 2023-03-01 14:32:17 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:17 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:17 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:17 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Router Class Initialized
+ERROR - 2023-03-01 14:32:17 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:17 --> Router Class Initialized
+ERROR - 2023-03-01 14:32:17 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:17 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:17 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:17 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:17 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:17 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Router Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Router Class Initialized
+ERROR - 2023-03-01 14:32:17 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:32:17 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:17 --> Router Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Router Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:32:17 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:32:17 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:17 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:17 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Router Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Router Class Initialized
+ERROR - 2023-03-01 14:32:17 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:32:17 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:17 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:17 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:17 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Router Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Router Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:17 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:32:17 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:17 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> URI Class Initialized
+ERROR - 2023-03-01 14:32:17 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:17 --> Router Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Router Class Initialized
+ERROR - 2023-03-01 14:32:17 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:32:17 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:17 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:17 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:17 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Router Class Initialized
+ERROR - 2023-03-01 14:32:17 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:17 --> Router Class Initialized
+ERROR - 2023-03-01 14:32:17 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:17 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:17 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:17 --> Router Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:32:17 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:17 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:17 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:17 --> Router Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> URI Class Initialized
+ERROR - 2023-03-01 14:32:17 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:17 --> Router Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Router Class Initialized
+ERROR - 2023-03-01 14:32:17 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:32:17 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:17 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:17 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:17 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Router Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Router Class Initialized
+ERROR - 2023-03-01 14:32:17 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:32:17 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:17 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:17 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:17 --> Router Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:32:17 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:17 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:17 --> Router Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:32:17 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:17 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:17 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Router Class Initialized
+ERROR - 2023-03-01 14:32:17 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:17 --> Router Class Initialized
+ERROR - 2023-03-01 14:32:17 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:17 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:17 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Router Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:32:17 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:17 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:17 --> Router Class Initialized
+ERROR - 2023-03-01 14:32:17 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:24 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:24 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:24 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:24 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:24 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:24 --> Router Class Initialized
+DEBUG - 2023-03-01 14:32:24 --> Output Class Initialized
+DEBUG - 2023-03-01 14:32:24 --> Security Class Initialized
+DEBUG - 2023-03-01 14:32:24 --> Input Class Initialized
+DEBUG - 2023-03-01 14:32:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-01 14:32:24 --> Language Class Initialized
+DEBUG - 2023-03-01 14:32:24 --> Language Class Initialized
+DEBUG - 2023-03-01 14:32:24 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:24 --> Loader Class Initialized
+DEBUG - 2023-03-01 14:32:24 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-01 14:32:24 --> Helper loaded: url_helper
+DEBUG - 2023-03-01 14:32:24 --> User Agent Class Initialized
+DEBUG - 2023-03-01 14:32:24 --> Template Class Initialized
+DEBUG - 2023-03-01 14:32:24 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-01 14:32:24 --> Email Class Initialized
+DEBUG - 2023-03-01 14:32:24 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-01 14:32:24 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-01 14:32:24 --> Session Class Initialized
+DEBUG - 2023-03-01 14:32:24 --> Helper loaded: string_helper
+DEBUG - 2023-03-01 14:32:24 --> Encrypt Class Initialized
+DEBUG - 2023-03-01 14:32:24 --> Database Driver Class Initialized
+DEBUG - 2023-03-01 14:32:24 --> Session routines successfully run
+DEBUG - 2023-03-01 14:32:24 --> Model Class Initialized
+DEBUG - 2023-03-01 14:32:24 --> Model Class Initialized
+DEBUG - 2023-03-01 14:32:24 --> Helper loaded: date_helper
+DEBUG - 2023-03-01 14:32:24 --> Helper loaded: form_helper
+DEBUG - 2023-03-01 14:32:24 --> Form Validation Class Initialized
+DEBUG - 2023-03-01 14:32:24 --> Controller Class Initialized
+DEBUG - 2023-03-01 14:32:24 --> File loaded: application/views/admin/layouts/header.php
+DEBUG - 2023-03-01 14:32:24 --> File loaded: application/views/admin/manage_event.php
+DEBUG - 2023-03-01 14:32:24 --> File loaded: application/views/admin/layouts/footer.php
+DEBUG - 2023-03-01 14:32:24 --> Final output sent to browser
+DEBUG - 2023-03-01 14:32:24 --> Total execution time: 0.0708
+DEBUG - 2023-03-01 14:32:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Router Class Initialized
+ERROR - 2023-03-01 14:32:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Router Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:25 --> Router Class Initialized
+ERROR - 2023-03-01 14:32:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:25 --> URI Class Initialized
+ERROR - 2023-03-01 14:32:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:25 --> Router Class Initialized
+ERROR - 2023-03-01 14:32:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Router Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Router Class Initialized
+ERROR - 2023-03-01 14:32:25 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:32:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Router Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Router Class Initialized
+ERROR - 2023-03-01 14:32:25 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:32:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Router Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Config Class Initialized
+ERROR - 2023-03-01 14:32:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Router Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:32:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Router Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Router Class Initialized
+ERROR - 2023-03-01 14:32:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:32:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Router Class Initialized
+ERROR - 2023-03-01 14:32:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Router Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> URI Class Initialized
+ERROR - 2023-03-01 14:32:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Router Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Router Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:32:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:32:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Router Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:32:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Router Class Initialized
+ERROR - 2023-03-01 14:32:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Router Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:32:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:25 --> Router Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> URI Class Initialized
+ERROR - 2023-03-01 14:32:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:25 --> Router Class Initialized
+ERROR - 2023-03-01 14:32:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:25 --> Router Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:32:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Router Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:32:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Router Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:32:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Router Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Config Class Initialized
+ERROR - 2023-03-01 14:32:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:25 --> Router Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> URI Class Initialized
+ERROR - 2023-03-01 14:32:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:25 --> Router Class Initialized
+ERROR - 2023-03-01 14:32:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Router Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:32:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:25 --> Router Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> URI Class Initialized
+ERROR - 2023-03-01 14:32:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:25 --> Router Class Initialized
+ERROR - 2023-03-01 14:32:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Router Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Router Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Router Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Router Class Initialized
+ERROR - 2023-03-01 14:32:25 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:32:25 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:32:25 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:32:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Router Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Router Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:25 --> Config Class Initialized
+ERROR - 2023-03-01 14:32:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:32:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Router Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Router Class Initialized
+ERROR - 2023-03-01 14:32:25 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:32:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Router Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Router Class Initialized
+ERROR - 2023-03-01 14:32:25 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:32:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:25 --> Router Class Initialized
+ERROR - 2023-03-01 14:32:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:32:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:32:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:32:25 --> Router Class Initialized
+ERROR - 2023-03-01 14:32:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:33:34 --> Config Class Initialized
+DEBUG - 2023-03-01 14:33:34 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:33:34 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:33:34 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:33:34 --> URI Class Initialized
+DEBUG - 2023-03-01 14:33:34 --> Router Class Initialized
+DEBUG - 2023-03-01 14:33:34 --> Output Class Initialized
+DEBUG - 2023-03-01 14:33:34 --> Security Class Initialized
+DEBUG - 2023-03-01 14:33:34 --> Input Class Initialized
+DEBUG - 2023-03-01 14:33:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-01 14:33:34 --> Language Class Initialized
+DEBUG - 2023-03-01 14:33:34 --> Language Class Initialized
+DEBUG - 2023-03-01 14:33:34 --> Config Class Initialized
+DEBUG - 2023-03-01 14:33:34 --> Loader Class Initialized
+DEBUG - 2023-03-01 14:33:34 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-01 14:33:34 --> Helper loaded: url_helper
+DEBUG - 2023-03-01 14:33:34 --> User Agent Class Initialized
+DEBUG - 2023-03-01 14:33:34 --> Template Class Initialized
+DEBUG - 2023-03-01 14:33:34 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-01 14:33:34 --> Email Class Initialized
+DEBUG - 2023-03-01 14:33:34 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-01 14:33:34 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-01 14:33:34 --> Session Class Initialized
+DEBUG - 2023-03-01 14:33:34 --> Helper loaded: string_helper
+DEBUG - 2023-03-01 14:33:34 --> Encrypt Class Initialized
+DEBUG - 2023-03-01 14:33:34 --> Database Driver Class Initialized
+DEBUG - 2023-03-01 14:33:34 --> Session garbage collection performed.
+DEBUG - 2023-03-01 14:33:34 --> Session routines successfully run
+DEBUG - 2023-03-01 14:33:34 --> Model Class Initialized
+DEBUG - 2023-03-01 14:33:34 --> Model Class Initialized
+DEBUG - 2023-03-01 14:33:34 --> Helper loaded: date_helper
+DEBUG - 2023-03-01 14:33:34 --> Helper loaded: form_helper
+DEBUG - 2023-03-01 14:33:34 --> Form Validation Class Initialized
+DEBUG - 2023-03-01 14:33:34 --> Controller Class Initialized
+DEBUG - 2023-03-01 14:33:34 --> File loaded: application/views/admin/layouts/header.php
+DEBUG - 2023-03-01 14:33:34 --> File loaded: application/views/admin/manage_event.php
+DEBUG - 2023-03-01 14:33:34 --> File loaded: application/views/admin/layouts/footer.php
+DEBUG - 2023-03-01 14:33:34 --> Final output sent to browser
+DEBUG - 2023-03-01 14:33:34 --> Total execution time: 0.0641
+DEBUG - 2023-03-01 14:33:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:33:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Router Class Initialized
+ERROR - 2023-03-01 14:33:35 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:33:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:33:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:33:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Router Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Router Class Initialized
+ERROR - 2023-03-01 14:33:35 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:33:35 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:33:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:33:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Router Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:33:35 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:33:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:33:35 --> Router Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> URI Class Initialized
+ERROR - 2023-03-01 14:33:35 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:33:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Router Class Initialized
+ERROR - 2023-03-01 14:33:35 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:33:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:33:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:33:35 --> Router Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> URI Class Initialized
+ERROR - 2023-03-01 14:33:35 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:33:35 --> Router Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:33:35 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:33:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:33:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:33:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:33:35 --> Router Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> URI Class Initialized
+ERROR - 2023-03-01 14:33:35 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:33:35 --> Router Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Router Class Initialized
+ERROR - 2023-03-01 14:33:35 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:33:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:33:35 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:33:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:33:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Router Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:33:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Config Class Initialized
+ERROR - 2023-03-01 14:33:35 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:33:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:33:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Router Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:33:35 --> Router Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> URI Class Initialized
+ERROR - 2023-03-01 14:33:35 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:33:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Router Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:33:35 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:33:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Router Class Initialized
+ERROR - 2023-03-01 14:33:35 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:33:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:33:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:33:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Router Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Utf8 Class Initialized
+ERROR - 2023-03-01 14:33:35 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:33:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:33:35 --> Router Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> URI Class Initialized
+ERROR - 2023-03-01 14:33:35 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:33:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Router Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:33:35 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:33:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Router Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Config Class Initialized
+ERROR - 2023-03-01 14:33:35 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:33:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:33:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Router Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:33:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Utf8 Class Initialized
+ERROR - 2023-03-01 14:33:35 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:33:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:33:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Router Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Router Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Utf8 Class Initialized
+ERROR - 2023-03-01 14:33:35 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:33:35 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:33:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:33:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Router Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:33:35 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:33:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:33:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Router Class Initialized
+ERROR - 2023-03-01 14:33:35 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:33:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:33:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:33:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:33:35 --> Router Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Router Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> URI Class Initialized
+ERROR - 2023-03-01 14:33:35 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:33:35 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:33:35 --> Router Class Initialized
+ERROR - 2023-03-01 14:33:35 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:33:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:33:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:33:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:33:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:33:35 --> Router Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Router Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Router Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> URI Class Initialized
+ERROR - 2023-03-01 14:33:35 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:33:35 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:33:35 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:33:35 --> Router Class Initialized
+ERROR - 2023-03-01 14:33:35 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:33:35 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:33:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:33:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:33:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:33:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:33:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Router Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Router Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Router Class Initialized
+ERROR - 2023-03-01 14:33:35 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:33:35 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:33:35 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:33:35 --> Router Class Initialized
+ERROR - 2023-03-01 14:33:35 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:33:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:33:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:33:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Router Class Initialized
+ERROR - 2023-03-01 14:33:35 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:33:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Router Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:33:35 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:33:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Router Class Initialized
+ERROR - 2023-03-01 14:33:35 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:33:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:33:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Router Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:33:35 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:33:35 --> Config Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:33:35 --> URI Class Initialized
+DEBUG - 2023-03-01 14:33:35 --> Router Class Initialized
+ERROR - 2023-03-01 14:33:35 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:33:35 --> Router Class Initialized
+ERROR - 2023-03-01 14:33:35 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:36:27 --> Config Class Initialized
+DEBUG - 2023-03-01 14:36:27 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:36:27 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:36:27 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:36:27 --> URI Class Initialized
+DEBUG - 2023-03-01 14:36:27 --> Router Class Initialized
+DEBUG - 2023-03-01 14:36:27 --> Output Class Initialized
+DEBUG - 2023-03-01 14:36:27 --> Security Class Initialized
+DEBUG - 2023-03-01 14:36:27 --> Input Class Initialized
+DEBUG - 2023-03-01 14:36:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-01 14:36:27 --> Language Class Initialized
+DEBUG - 2023-03-01 14:36:27 --> Language Class Initialized
+DEBUG - 2023-03-01 14:36:27 --> Config Class Initialized
+DEBUG - 2023-03-01 14:36:27 --> Loader Class Initialized
+DEBUG - 2023-03-01 14:36:27 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-01 14:36:27 --> Helper loaded: url_helper
+DEBUG - 2023-03-01 14:36:27 --> User Agent Class Initialized
+DEBUG - 2023-03-01 14:36:27 --> Template Class Initialized
+DEBUG - 2023-03-01 14:36:27 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-01 14:36:27 --> Email Class Initialized
+DEBUG - 2023-03-01 14:36:27 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-01 14:36:27 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-01 14:36:27 --> Session Class Initialized
+DEBUG - 2023-03-01 14:36:27 --> Helper loaded: string_helper
+DEBUG - 2023-03-01 14:36:27 --> Encrypt Class Initialized
+DEBUG - 2023-03-01 14:36:27 --> Database Driver Class Initialized
+DEBUG - 2023-03-01 14:36:27 --> Session garbage collection performed.
+DEBUG - 2023-03-01 14:36:27 --> Session routines successfully run
+DEBUG - 2023-03-01 14:36:27 --> Model Class Initialized
+DEBUG - 2023-03-01 14:36:27 --> Model Class Initialized
+DEBUG - 2023-03-01 14:36:27 --> Helper loaded: date_helper
+DEBUG - 2023-03-01 14:36:27 --> Helper loaded: form_helper
+DEBUG - 2023-03-01 14:36:27 --> Form Validation Class Initialized
+DEBUG - 2023-03-01 14:36:27 --> Controller Class Initialized
+DEBUG - 2023-03-01 14:36:27 --> File loaded: application/views/admin/layouts/header.php
+DEBUG - 2023-03-01 14:36:27 --> File loaded: application/views/admin/manage_event.php
+DEBUG - 2023-03-01 14:36:27 --> File loaded: application/views/admin/layouts/footer.php
+DEBUG - 2023-03-01 14:36:27 --> Final output sent to browser
+DEBUG - 2023-03-01 14:36:27 --> Total execution time: 0.1446
+DEBUG - 2023-03-01 14:36:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:36:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:36:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:36:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:36:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:36:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:36:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:36:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:36:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:36:28 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:36:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:36:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:36:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:36:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:36:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:36:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:36:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:36:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:36:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:36:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:36:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:36:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:36:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:36:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:36:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:36:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:36:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:36:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:36:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:36:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:36:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:36:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:36:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:36:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:36:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:36:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:36:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Config Class Initialized
+ERROR - 2023-03-01 14:36:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:36:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:36:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:36:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:36:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:36:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:36:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:36:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:36:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:36:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:36:28 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:36:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:36:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:36:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:36:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:36:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:36:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:36:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:36:28 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:36:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:36:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:36:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:36:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:36:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:36:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:36:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:36:28 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:36:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:36:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:36:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:36:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Config Class Initialized
+ERROR - 2023-03-01 14:36:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:36:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:36:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> URI Class Initialized
+ERROR - 2023-03-01 14:36:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:36:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:36:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:36:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:36:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:36:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:36:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:36:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:36:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:36:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> URI Class Initialized
+ERROR - 2023-03-01 14:36:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:36:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:36:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:36:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:36:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:36:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:36:28 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:36:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:36:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:36:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Config Class Initialized
+ERROR - 2023-03-01 14:36:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:36:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:36:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Utf8 Class Initialized
+ERROR - 2023-03-01 14:36:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:36:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:36:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:36:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:36:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:36:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> URI Class Initialized
+ERROR - 2023-03-01 14:36:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:36:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:36:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:36:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:36:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:36:28 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:36:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:36:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Config Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:36:28 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:36:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:36:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Router Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:36:28 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:36:28 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:36:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:36:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:36:28 --> URI Class Initialized
+DEBUG - 2023-03-01 14:36:28 --> Router Class Initialized
+ERROR - 2023-03-01 14:36:28 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:37:05 --> Config Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:37:05 --> URI Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Router Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Output Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Security Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Input Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-01 14:37:05 --> Language Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Language Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Config Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Loader Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-01 14:37:05 --> Helper loaded: url_helper
+DEBUG - 2023-03-01 14:37:05 --> User Agent Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Template Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-01 14:37:05 --> Email Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-01 14:37:05 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-01 14:37:05 --> Session Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Helper loaded: string_helper
+DEBUG - 2023-03-01 14:37:05 --> Encrypt Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Database Driver Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Session routines successfully run
+DEBUG - 2023-03-01 14:37:05 --> Model Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Model Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Helper loaded: date_helper
+DEBUG - 2023-03-01 14:37:05 --> Helper loaded: form_helper
+DEBUG - 2023-03-01 14:37:05 --> Form Validation Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Controller Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> File loaded: application/views/admin/layouts/header.php
+DEBUG - 2023-03-01 14:37:05 --> File loaded: application/views/admin/manage_event.php
+DEBUG - 2023-03-01 14:37:05 --> File loaded: application/views/admin/layouts/footer.php
+DEBUG - 2023-03-01 14:37:05 --> Final output sent to browser
+DEBUG - 2023-03-01 14:37:05 --> Total execution time: 0.0754
+DEBUG - 2023-03-01 14:37:05 --> Config Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:37:05 --> URI Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Router Class Initialized
+ERROR - 2023-03-01 14:37:05 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:37:05 --> Config Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Config Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:37:05 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:37:05 --> URI Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> URI Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Config Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Router Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:37:05 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:37:05 --> URI Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Router Class Initialized
+ERROR - 2023-03-01 14:37:05 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:37:05 --> Config Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Config Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Config Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:37:05 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:37:05 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:37:05 --> URI Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> URI Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> URI Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Router Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Router Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Router Class Initialized
+ERROR - 2023-03-01 14:37:05 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:37:05 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:37:05 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:37:05 --> Config Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:37:05 --> Config Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> URI Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:37:05 --> Router Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> URI Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Router Class Initialized
+ERROR - 2023-03-01 14:37:05 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:37:05 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:37:05 --> Router Class Initialized
+ERROR - 2023-03-01 14:37:05 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:37:05 --> Config Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:37:05 --> Config Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> URI Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:37:05 --> URI Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Config Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Router Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:37:05 --> Router Class Initialized
+ERROR - 2023-03-01 14:37:05 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:37:05 --> URI Class Initialized
+ERROR - 2023-03-01 14:37:05 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:37:05 --> Router Class Initialized
+ERROR - 2023-03-01 14:37:05 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:37:05 --> Config Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:37:05 --> Config Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> URI Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:37:05 --> URI Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Router Class Initialized
+ERROR - 2023-03-01 14:37:05 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:37:05 --> Router Class Initialized
+ERROR - 2023-03-01 14:37:05 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:37:05 --> Config Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:37:05 --> URI Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Config Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Router Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Config Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:37:05 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Config Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Utf8 Class Initialized
+ERROR - 2023-03-01 14:37:05 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:37:05 --> URI Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:37:05 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:37:05 --> URI Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> URI Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Router Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Router Class Initialized
+ERROR - 2023-03-01 14:37:05 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:37:05 --> Router Class Initialized
+ERROR - 2023-03-01 14:37:05 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:37:05 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:37:05 --> Config Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Config Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:37:05 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:37:05 --> URI Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> URI Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Router Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Router Class Initialized
+ERROR - 2023-03-01 14:37:05 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:37:05 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:37:05 --> Config Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Config Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Config Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Config Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:37:05 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:37:05 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:37:05 --> URI Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> URI Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> URI Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:37:05 --> Router Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Router Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Router Class Initialized
+ERROR - 2023-03-01 14:37:05 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:37:05 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:37:05 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:37:05 --> URI Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Router Class Initialized
+ERROR - 2023-03-01 14:37:05 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:37:05 --> Config Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:37:05 --> URI Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Config Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Router Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:37:05 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:37:05 --> URI Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Router Class Initialized
+ERROR - 2023-03-01 14:37:05 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:37:05 --> Config Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Config Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Config Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:37:05 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:37:05 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:37:05 --> URI Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> URI Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> URI Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Config Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:37:05 --> Router Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Router Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> URI Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Router Class Initialized
+ERROR - 2023-03-01 14:37:05 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:37:05 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:37:05 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:37:05 --> Router Class Initialized
+ERROR - 2023-03-01 14:37:05 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:37:05 --> Config Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Config Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:37:05 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:37:05 --> URI Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> URI Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Router Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Router Class Initialized
+ERROR - 2023-03-01 14:37:05 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:37:05 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:37:05 --> Config Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:37:05 --> URI Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Router Class Initialized
+ERROR - 2023-03-01 14:37:05 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:37:05 --> Config Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Config Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Config Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:37:05 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:37:05 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:37:05 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:37:06 --> URI Class Initialized
+DEBUG - 2023-03-01 14:37:06 --> URI Class Initialized
+DEBUG - 2023-03-01 14:37:06 --> URI Class Initialized
+DEBUG - 2023-03-01 14:37:06 --> Router Class Initialized
+DEBUG - 2023-03-01 14:37:06 --> Router Class Initialized
+DEBUG - 2023-03-01 14:37:06 --> Router Class Initialized
+ERROR - 2023-03-01 14:37:06 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:37:06 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:37:06 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:37:06 --> Config Class Initialized
+DEBUG - 2023-03-01 14:37:06 --> Config Class Initialized
+DEBUG - 2023-03-01 14:37:06 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:37:06 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:37:06 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:37:06 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:37:06 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:37:06 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:37:06 --> URI Class Initialized
+DEBUG - 2023-03-01 14:37:06 --> URI Class Initialized
+DEBUG - 2023-03-01 14:37:06 --> Router Class Initialized
+DEBUG - 2023-03-01 14:37:06 --> Router Class Initialized
+ERROR - 2023-03-01 14:37:06 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:37:06 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:37:06 --> Config Class Initialized
+DEBUG - 2023-03-01 14:37:06 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:37:06 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:37:06 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:37:06 --> URI Class Initialized
+DEBUG - 2023-03-01 14:37:06 --> Router Class Initialized
+ERROR - 2023-03-01 14:37:06 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:37:06 --> Config Class Initialized
+DEBUG - 2023-03-01 14:37:06 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:37:06 --> Config Class Initialized
+DEBUG - 2023-03-01 14:37:06 --> Config Class Initialized
+DEBUG - 2023-03-01 14:37:06 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:37:06 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:37:06 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:37:06 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:37:06 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:37:06 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:37:06 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:37:06 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:37:06 --> URI Class Initialized
+DEBUG - 2023-03-01 14:37:06 --> URI Class Initialized
+DEBUG - 2023-03-01 14:37:06 --> URI Class Initialized
+DEBUG - 2023-03-01 14:37:06 --> Router Class Initialized
+DEBUG - 2023-03-01 14:37:06 --> Router Class Initialized
+ERROR - 2023-03-01 14:37:06 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:37:06 --> Router Class Initialized
+ERROR - 2023-03-01 14:37:06 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:37:06 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:38:24 --> Config Class Initialized
+DEBUG - 2023-03-01 14:38:24 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:38:24 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:38:24 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:38:24 --> URI Class Initialized
+DEBUG - 2023-03-01 14:38:24 --> Router Class Initialized
+DEBUG - 2023-03-01 14:38:24 --> Output Class Initialized
+DEBUG - 2023-03-01 14:38:24 --> Security Class Initialized
+DEBUG - 2023-03-01 14:38:24 --> Input Class Initialized
+DEBUG - 2023-03-01 14:38:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-01 14:38:24 --> Language Class Initialized
+DEBUG - 2023-03-01 14:38:24 --> Language Class Initialized
+DEBUG - 2023-03-01 14:38:24 --> Config Class Initialized
+DEBUG - 2023-03-01 14:38:24 --> Loader Class Initialized
+DEBUG - 2023-03-01 14:38:24 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-01 14:38:24 --> Helper loaded: url_helper
+DEBUG - 2023-03-01 14:38:24 --> User Agent Class Initialized
+DEBUG - 2023-03-01 14:38:24 --> Template Class Initialized
+DEBUG - 2023-03-01 14:38:24 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-01 14:38:24 --> Email Class Initialized
+DEBUG - 2023-03-01 14:38:24 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-01 14:38:24 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-01 14:38:24 --> Session Class Initialized
+DEBUG - 2023-03-01 14:38:24 --> Helper loaded: string_helper
+DEBUG - 2023-03-01 14:38:24 --> Encrypt Class Initialized
+DEBUG - 2023-03-01 14:38:24 --> Database Driver Class Initialized
+DEBUG - 2023-03-01 14:38:24 --> Session routines successfully run
+DEBUG - 2023-03-01 14:38:24 --> Model Class Initialized
+DEBUG - 2023-03-01 14:38:24 --> Model Class Initialized
+DEBUG - 2023-03-01 14:38:24 --> Helper loaded: date_helper
+DEBUG - 2023-03-01 14:38:24 --> Helper loaded: form_helper
+DEBUG - 2023-03-01 14:38:24 --> Form Validation Class Initialized
+DEBUG - 2023-03-01 14:38:24 --> Controller Class Initialized
+DEBUG - 2023-03-01 14:38:24 --> File loaded: application/views/admin/layouts/header.php
+DEBUG - 2023-03-01 14:38:24 --> File loaded: application/views/admin/manage_event.php
+DEBUG - 2023-03-01 14:38:24 --> File loaded: application/views/admin/layouts/footer.php
+DEBUG - 2023-03-01 14:38:24 --> Final output sent to browser
+DEBUG - 2023-03-01 14:38:24 --> Total execution time: 0.0723
+DEBUG - 2023-03-01 14:38:24 --> Config Class Initialized
+DEBUG - 2023-03-01 14:38:24 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:38:24 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:38:24 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:38:24 --> URI Class Initialized
+DEBUG - 2023-03-01 14:38:24 --> Router Class Initialized
+ERROR - 2023-03-01 14:38:24 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:38:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:38:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:38:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Router Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Router Class Initialized
+ERROR - 2023-03-01 14:38:25 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:38:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:38:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:38:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:38:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:38:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Router Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Router Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:38:25 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:38:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:38:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:38:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Router Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Router Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Router Class Initialized
+ERROR - 2023-03-01 14:38:25 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:38:25 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:38:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:38:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:38:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:38:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:38:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:38:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Router Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:38:25 --> Router Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Router Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:38:25 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:38:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:38:25 --> Utf8 Class Initialized
+ERROR - 2023-03-01 14:38:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:38:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:38:25 --> Router Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> URI Class Initialized
+ERROR - 2023-03-01 14:38:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:38:25 --> Router Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Router Class Initialized
+ERROR - 2023-03-01 14:38:25 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:38:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:38:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:38:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:38:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:38:25 --> Router Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Router Class Initialized
+ERROR - 2023-03-01 14:38:25 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:38:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:38:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:38:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:38:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Router Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Router Class Initialized
+ERROR - 2023-03-01 14:38:25 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:38:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:38:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:38:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Router Class Initialized
+ERROR - 2023-03-01 14:38:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:38:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:38:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:38:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Router Class Initialized
+ERROR - 2023-03-01 14:38:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:38:25 --> Router Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Utf8 Class Initialized
+ERROR - 2023-03-01 14:38:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:38:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:38:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Router Class Initialized
+ERROR - 2023-03-01 14:38:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:38:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:38:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Router Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Hooks Class Initialized
+ERROR - 2023-03-01 14:38:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:38:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:38:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Router Class Initialized
+ERROR - 2023-03-01 14:38:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:38:25 --> Router Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:38:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:38:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Router Class Initialized
+ERROR - 2023-03-01 14:38:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:38:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:38:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Router Class Initialized
+ERROR - 2023-03-01 14:38:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:38:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:38:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:38:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:38:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:38:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Router Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Router Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Router Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Router Class Initialized
+ERROR - 2023-03-01 14:38:25 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:38:25 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:38:25 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:38:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:38:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:38:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:38:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Router Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Router Class Initialized
+ERROR - 2023-03-01 14:38:25 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:38:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:38:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:38:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:38:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Router Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Router Class Initialized
+ERROR - 2023-03-01 14:38:25 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:38:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:38:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:38:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Router Class Initialized
+ERROR - 2023-03-01 14:38:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:38:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:38:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Router Class Initialized
+ERROR - 2023-03-01 14:38:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:38:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:38:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:38:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:38:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Router Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Router Class Initialized
+ERROR - 2023-03-01 14:38:25 --> 404 Page Not Found --> 
+ERROR - 2023-03-01 14:38:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:38:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Router Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> UTF-8 Support Enabled
+ERROR - 2023-03-01 14:38:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:38:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Config Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:38:25 --> Router Class Initialized
+ERROR - 2023-03-01 14:38:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:38:25 --> URI Class Initialized
+DEBUG - 2023-03-01 14:38:25 --> Router Class Initialized
+ERROR - 2023-03-01 14:38:25 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:39:15 --> Config Class Initialized
+DEBUG - 2023-03-01 14:39:15 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:39:15 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:39:15 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:39:15 --> URI Class Initialized
+DEBUG - 2023-03-01 14:39:15 --> Router Class Initialized
+DEBUG - 2023-03-01 14:39:15 --> Output Class Initialized
+DEBUG - 2023-03-01 14:39:15 --> Security Class Initialized
+DEBUG - 2023-03-01 14:39:15 --> Input Class Initialized
+DEBUG - 2023-03-01 14:39:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-01 14:39:15 --> Language Class Initialized
+DEBUG - 2023-03-01 14:39:15 --> Language Class Initialized
+DEBUG - 2023-03-01 14:39:15 --> Config Class Initialized
+DEBUG - 2023-03-01 14:39:15 --> Loader Class Initialized
+DEBUG - 2023-03-01 14:39:15 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-01 14:39:15 --> Helper loaded: url_helper
+DEBUG - 2023-03-01 14:39:15 --> User Agent Class Initialized
+DEBUG - 2023-03-01 14:39:15 --> Template Class Initialized
+DEBUG - 2023-03-01 14:39:15 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-01 14:39:15 --> Email Class Initialized
+DEBUG - 2023-03-01 14:39:15 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-01 14:39:15 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-01 14:39:15 --> Session Class Initialized
+DEBUG - 2023-03-01 14:39:15 --> Helper loaded: string_helper
+DEBUG - 2023-03-01 14:39:15 --> Encrypt Class Initialized
+DEBUG - 2023-03-01 14:39:15 --> Database Driver Class Initialized
+DEBUG - 2023-03-01 14:39:15 --> Session routines successfully run
+DEBUG - 2023-03-01 14:39:15 --> Model Class Initialized
+DEBUG - 2023-03-01 14:39:15 --> Model Class Initialized
+DEBUG - 2023-03-01 14:39:15 --> Helper loaded: date_helper
+DEBUG - 2023-03-01 14:39:15 --> Helper loaded: form_helper
+DEBUG - 2023-03-01 14:39:15 --> Form Validation Class Initialized
+DEBUG - 2023-03-01 14:39:15 --> Controller Class Initialized
+DEBUG - 2023-03-01 14:39:15 --> File loaded: application/views/admin/layouts/header.php
+DEBUG - 2023-03-01 14:39:15 --> File loaded: application/views/admin/manage_event.php
+DEBUG - 2023-03-01 14:39:15 --> File loaded: application/views/admin/layouts/footer.php
+DEBUG - 2023-03-01 14:39:15 --> Final output sent to browser
+DEBUG - 2023-03-01 14:39:15 --> Total execution time: 0.0802
+DEBUG - 2023-03-01 14:39:15 --> Config Class Initialized
+DEBUG - 2023-03-01 14:39:15 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:39:15 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:39:15 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:39:15 --> URI Class Initialized
+DEBUG - 2023-03-01 14:39:15 --> Router Class Initialized
+ERROR - 2023-03-01 14:39:15 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:45:45 --> Config Class Initialized
+DEBUG - 2023-03-01 14:45:45 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:45:45 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:45:45 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:45:45 --> URI Class Initialized
+DEBUG - 2023-03-01 14:45:45 --> Router Class Initialized
+DEBUG - 2023-03-01 14:45:45 --> Output Class Initialized
+DEBUG - 2023-03-01 14:45:45 --> Security Class Initialized
+DEBUG - 2023-03-01 14:45:45 --> Input Class Initialized
+DEBUG - 2023-03-01 14:45:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-01 14:45:45 --> Language Class Initialized
+DEBUG - 2023-03-01 14:45:45 --> Language Class Initialized
+DEBUG - 2023-03-01 14:45:45 --> Config Class Initialized
+DEBUG - 2023-03-01 14:45:45 --> Loader Class Initialized
+DEBUG - 2023-03-01 14:45:45 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-01 14:45:45 --> Helper loaded: url_helper
+DEBUG - 2023-03-01 14:45:45 --> User Agent Class Initialized
+DEBUG - 2023-03-01 14:45:45 --> Template Class Initialized
+DEBUG - 2023-03-01 14:45:45 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-01 14:45:45 --> Email Class Initialized
+DEBUG - 2023-03-01 14:45:45 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-01 14:45:45 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-01 14:45:45 --> Session Class Initialized
+DEBUG - 2023-03-01 14:45:45 --> Helper loaded: string_helper
+DEBUG - 2023-03-01 14:45:45 --> Encrypt Class Initialized
+DEBUG - 2023-03-01 14:45:45 --> Database Driver Class Initialized
+DEBUG - 2023-03-01 14:45:45 --> Session routines successfully run
+DEBUG - 2023-03-01 14:45:45 --> Model Class Initialized
+DEBUG - 2023-03-01 14:45:45 --> Model Class Initialized
+DEBUG - 2023-03-01 14:45:45 --> Helper loaded: date_helper
+DEBUG - 2023-03-01 14:45:45 --> Helper loaded: form_helper
+DEBUG - 2023-03-01 14:45:45 --> Form Validation Class Initialized
+DEBUG - 2023-03-01 14:45:45 --> Controller Class Initialized
+DEBUG - 2023-03-01 14:45:45 --> File loaded: application/views/admin/layouts/header.php
+DEBUG - 2023-03-01 14:45:45 --> File loaded: application/views/admin/manage_event.php
+DEBUG - 2023-03-01 14:45:45 --> File loaded: application/views/admin/layouts/footer.php
+DEBUG - 2023-03-01 14:45:45 --> Final output sent to browser
+DEBUG - 2023-03-01 14:45:45 --> Total execution time: 0.0806
+DEBUG - 2023-03-01 14:45:45 --> Config Class Initialized
+DEBUG - 2023-03-01 14:45:45 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:45:45 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:45:45 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:45:45 --> URI Class Initialized
+DEBUG - 2023-03-01 14:45:45 --> Router Class Initialized
+ERROR - 2023-03-01 14:45:45 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:47:39 --> Config Class Initialized
+DEBUG - 2023-03-01 14:47:39 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:47:39 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:47:39 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:47:39 --> URI Class Initialized
+DEBUG - 2023-03-01 14:47:39 --> Router Class Initialized
+DEBUG - 2023-03-01 14:47:39 --> Output Class Initialized
+DEBUG - 2023-03-01 14:47:39 --> Security Class Initialized
+DEBUG - 2023-03-01 14:47:39 --> Input Class Initialized
+DEBUG - 2023-03-01 14:47:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-01 14:47:39 --> Language Class Initialized
+DEBUG - 2023-03-01 14:47:39 --> Language Class Initialized
+DEBUG - 2023-03-01 14:47:39 --> Config Class Initialized
+DEBUG - 2023-03-01 14:47:39 --> Loader Class Initialized
+DEBUG - 2023-03-01 14:47:39 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-01 14:47:39 --> Helper loaded: url_helper
+DEBUG - 2023-03-01 14:47:39 --> User Agent Class Initialized
+DEBUG - 2023-03-01 14:47:39 --> Template Class Initialized
+DEBUG - 2023-03-01 14:47:39 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-01 14:47:39 --> Email Class Initialized
+DEBUG - 2023-03-01 14:47:39 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-01 14:47:39 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-01 14:47:39 --> Session Class Initialized
+DEBUG - 2023-03-01 14:47:39 --> Helper loaded: string_helper
+DEBUG - 2023-03-01 14:47:39 --> Encrypt Class Initialized
+DEBUG - 2023-03-01 14:47:39 --> Database Driver Class Initialized
+DEBUG - 2023-03-01 14:47:39 --> Session routines successfully run
+DEBUG - 2023-03-01 14:47:39 --> Model Class Initialized
+DEBUG - 2023-03-01 14:47:39 --> Model Class Initialized
+DEBUG - 2023-03-01 14:47:39 --> Helper loaded: date_helper
+DEBUG - 2023-03-01 14:47:39 --> Helper loaded: form_helper
+DEBUG - 2023-03-01 14:47:39 --> Form Validation Class Initialized
+DEBUG - 2023-03-01 14:47:39 --> Controller Class Initialized
+DEBUG - 2023-03-01 14:47:39 --> File loaded: application/views/admin/layouts/header.php
+DEBUG - 2023-03-01 14:47:39 --> File loaded: application/views/admin/manage_event.php
+DEBUG - 2023-03-01 14:47:39 --> File loaded: application/views/admin/layouts/footer.php
+DEBUG - 2023-03-01 14:47:39 --> Final output sent to browser
+DEBUG - 2023-03-01 14:47:39 --> Total execution time: 0.0921
+DEBUG - 2023-03-01 14:47:39 --> Config Class Initialized
+DEBUG - 2023-03-01 14:47:39 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:47:39 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:47:39 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:47:39 --> URI Class Initialized
+DEBUG - 2023-03-01 14:47:39 --> Router Class Initialized
+ERROR - 2023-03-01 14:47:39 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:48:03 --> Config Class Initialized
+DEBUG - 2023-03-01 14:48:03 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:48:03 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:48:03 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:48:03 --> URI Class Initialized
+DEBUG - 2023-03-01 14:48:03 --> Router Class Initialized
+DEBUG - 2023-03-01 14:48:03 --> Output Class Initialized
+DEBUG - 2023-03-01 14:48:03 --> Security Class Initialized
+DEBUG - 2023-03-01 14:48:03 --> Input Class Initialized
+DEBUG - 2023-03-01 14:48:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-01 14:48:03 --> Language Class Initialized
+DEBUG - 2023-03-01 14:48:03 --> Language Class Initialized
+DEBUG - 2023-03-01 14:48:03 --> Config Class Initialized
+DEBUG - 2023-03-01 14:48:03 --> Loader Class Initialized
+DEBUG - 2023-03-01 14:48:03 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-01 14:48:03 --> Helper loaded: url_helper
+DEBUG - 2023-03-01 14:48:03 --> User Agent Class Initialized
+DEBUG - 2023-03-01 14:48:03 --> Template Class Initialized
+DEBUG - 2023-03-01 14:48:03 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-01 14:48:03 --> Email Class Initialized
+DEBUG - 2023-03-01 14:48:03 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-01 14:48:03 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-01 14:48:03 --> Session Class Initialized
+DEBUG - 2023-03-01 14:48:03 --> Helper loaded: string_helper
+DEBUG - 2023-03-01 14:48:03 --> Encrypt Class Initialized
+DEBUG - 2023-03-01 14:48:03 --> Database Driver Class Initialized
+DEBUG - 2023-03-01 14:48:03 --> Session routines successfully run
+DEBUG - 2023-03-01 14:48:03 --> Model Class Initialized
+DEBUG - 2023-03-01 14:48:03 --> Model Class Initialized
+DEBUG - 2023-03-01 14:48:03 --> Helper loaded: date_helper
+DEBUG - 2023-03-01 14:48:03 --> Helper loaded: form_helper
+DEBUG - 2023-03-01 14:48:03 --> Form Validation Class Initialized
+DEBUG - 2023-03-01 14:48:03 --> Controller Class Initialized
+DEBUG - 2023-03-01 14:48:03 --> File loaded: application/views/admin/layouts/header.php
+DEBUG - 2023-03-01 14:48:03 --> File loaded: application/views/admin/manage_event.php
+DEBUG - 2023-03-01 14:48:03 --> File loaded: application/views/admin/layouts/footer.php
+DEBUG - 2023-03-01 14:48:03 --> Final output sent to browser
+DEBUG - 2023-03-01 14:48:03 --> Total execution time: 0.0824
+DEBUG - 2023-03-01 14:48:04 --> Config Class Initialized
+DEBUG - 2023-03-01 14:48:04 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:48:04 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:48:04 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:48:04 --> URI Class Initialized
+DEBUG - 2023-03-01 14:48:04 --> Router Class Initialized
+ERROR - 2023-03-01 14:48:04 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 14:48:15 --> Config Class Initialized
+DEBUG - 2023-03-01 14:48:15 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:48:15 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:48:15 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:48:15 --> URI Class Initialized
+DEBUG - 2023-03-01 14:48:15 --> Router Class Initialized
+DEBUG - 2023-03-01 14:48:15 --> Output Class Initialized
+DEBUG - 2023-03-01 14:48:15 --> Security Class Initialized
+DEBUG - 2023-03-01 14:48:15 --> Input Class Initialized
+DEBUG - 2023-03-01 14:48:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-01 14:48:15 --> Language Class Initialized
+DEBUG - 2023-03-01 14:48:15 --> Language Class Initialized
+DEBUG - 2023-03-01 14:48:15 --> Config Class Initialized
+DEBUG - 2023-03-01 14:48:15 --> Loader Class Initialized
+DEBUG - 2023-03-01 14:48:15 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-01 14:48:15 --> Helper loaded: url_helper
+DEBUG - 2023-03-01 14:48:15 --> User Agent Class Initialized
+DEBUG - 2023-03-01 14:48:15 --> Template Class Initialized
+DEBUG - 2023-03-01 14:48:15 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-01 14:48:15 --> Email Class Initialized
+DEBUG - 2023-03-01 14:48:15 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-01 14:48:15 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-01 14:48:15 --> Session Class Initialized
+DEBUG - 2023-03-01 14:48:15 --> Helper loaded: string_helper
+DEBUG - 2023-03-01 14:48:15 --> Encrypt Class Initialized
+DEBUG - 2023-03-01 14:48:15 --> Database Driver Class Initialized
+DEBUG - 2023-03-01 14:48:15 --> Session routines successfully run
+DEBUG - 2023-03-01 14:48:15 --> Model Class Initialized
+DEBUG - 2023-03-01 14:48:15 --> Model Class Initialized
+DEBUG - 2023-03-01 14:48:15 --> Helper loaded: date_helper
+DEBUG - 2023-03-01 14:48:15 --> Helper loaded: form_helper
+DEBUG - 2023-03-01 14:48:15 --> Form Validation Class Initialized
+DEBUG - 2023-03-01 14:48:15 --> Controller Class Initialized
+DEBUG - 2023-03-01 14:48:15 --> File loaded: application/views/admin/layouts/header.php
+DEBUG - 2023-03-01 14:48:15 --> File loaded: application/views/admin/manage_event.php
+DEBUG - 2023-03-01 14:48:15 --> File loaded: application/views/admin/layouts/footer.php
+DEBUG - 2023-03-01 14:48:15 --> Final output sent to browser
+DEBUG - 2023-03-01 14:48:15 --> Total execution time: 0.0615
+DEBUG - 2023-03-01 14:48:15 --> Config Class Initialized
+DEBUG - 2023-03-01 14:48:15 --> Hooks Class Initialized
+DEBUG - 2023-03-01 14:48:15 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 14:48:15 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 14:48:15 --> URI Class Initialized
+DEBUG - 2023-03-01 14:48:15 --> Router Class Initialized
+ERROR - 2023-03-01 14:48:15 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 15:16:02 --> Config Class Initialized
+DEBUG - 2023-03-01 15:16:02 --> Hooks Class Initialized
+DEBUG - 2023-03-01 15:16:02 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 15:16:02 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 15:16:02 --> URI Class Initialized
+DEBUG - 2023-03-01 15:16:02 --> Router Class Initialized
+DEBUG - 2023-03-01 15:16:02 --> Output Class Initialized
+DEBUG - 2023-03-01 15:16:02 --> Security Class Initialized
+DEBUG - 2023-03-01 15:16:02 --> Input Class Initialized
+DEBUG - 2023-03-01 15:16:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-01 15:16:02 --> Language Class Initialized
+DEBUG - 2023-03-01 15:16:02 --> Language Class Initialized
+DEBUG - 2023-03-01 15:16:02 --> Config Class Initialized
+DEBUG - 2023-03-01 15:16:02 --> Loader Class Initialized
+DEBUG - 2023-03-01 15:16:02 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-01 15:16:02 --> Helper loaded: url_helper
+DEBUG - 2023-03-01 15:16:02 --> User Agent Class Initialized
+DEBUG - 2023-03-01 15:16:02 --> Template Class Initialized
+DEBUG - 2023-03-01 15:16:02 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-01 15:16:02 --> Email Class Initialized
+DEBUG - 2023-03-01 15:16:02 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-01 15:16:02 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-01 15:16:02 --> Session Class Initialized
+DEBUG - 2023-03-01 15:16:02 --> Helper loaded: string_helper
+DEBUG - 2023-03-01 15:16:02 --> Encrypt Class Initialized
+DEBUG - 2023-03-01 15:16:02 --> Database Driver Class Initialized
+DEBUG - 2023-03-01 15:16:02 --> Session routines successfully run
+DEBUG - 2023-03-01 15:16:02 --> Model Class Initialized
+DEBUG - 2023-03-01 15:16:02 --> Model Class Initialized
+DEBUG - 2023-03-01 15:16:02 --> Helper loaded: date_helper
+DEBUG - 2023-03-01 15:16:02 --> Helper loaded: form_helper
+DEBUG - 2023-03-01 15:16:02 --> Form Validation Class Initialized
+DEBUG - 2023-03-01 15:16:02 --> Controller Class Initialized
+DEBUG - 2023-03-01 15:16:02 --> File loaded: application/views/admin/layouts/header.php
+DEBUG - 2023-03-01 15:16:02 --> File loaded: application/views/admin/manage_event.php
+DEBUG - 2023-03-01 15:16:02 --> File loaded: application/views/admin/layouts/footer.php
+DEBUG - 2023-03-01 15:16:02 --> Final output sent to browser
+DEBUG - 2023-03-01 15:16:02 --> Total execution time: 0.0877
+DEBUG - 2023-03-01 15:16:03 --> Config Class Initialized
+DEBUG - 2023-03-01 15:16:03 --> Hooks Class Initialized
+DEBUG - 2023-03-01 15:16:03 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 15:16:03 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 15:16:03 --> URI Class Initialized
+DEBUG - 2023-03-01 15:16:03 --> Router Class Initialized
+ERROR - 2023-03-01 15:16:03 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 15:16:49 --> Config Class Initialized
+DEBUG - 2023-03-01 15:16:49 --> Hooks Class Initialized
+DEBUG - 2023-03-01 15:16:49 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 15:16:49 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 15:16:49 --> URI Class Initialized
+DEBUG - 2023-03-01 15:16:49 --> Router Class Initialized
+DEBUG - 2023-03-01 15:16:49 --> Output Class Initialized
+DEBUG - 2023-03-01 15:16:49 --> Security Class Initialized
+DEBUG - 2023-03-01 15:16:49 --> Input Class Initialized
+DEBUG - 2023-03-01 15:16:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-01 15:16:49 --> Language Class Initialized
+DEBUG - 2023-03-01 15:16:49 --> Language Class Initialized
+DEBUG - 2023-03-01 15:16:49 --> Config Class Initialized
+DEBUG - 2023-03-01 15:16:49 --> Loader Class Initialized
+DEBUG - 2023-03-01 15:16:49 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-01 15:16:49 --> Helper loaded: url_helper
+DEBUG - 2023-03-01 15:16:49 --> User Agent Class Initialized
+DEBUG - 2023-03-01 15:16:49 --> Template Class Initialized
+DEBUG - 2023-03-01 15:16:49 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-01 15:16:49 --> Email Class Initialized
+DEBUG - 2023-03-01 15:16:49 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-01 15:16:49 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-01 15:16:49 --> Session Class Initialized
+DEBUG - 2023-03-01 15:16:49 --> Helper loaded: string_helper
+DEBUG - 2023-03-01 15:16:49 --> Encrypt Class Initialized
+DEBUG - 2023-03-01 15:16:49 --> Database Driver Class Initialized
+DEBUG - 2023-03-01 15:16:49 --> Session routines successfully run
+DEBUG - 2023-03-01 15:16:49 --> Model Class Initialized
+DEBUG - 2023-03-01 15:16:49 --> Model Class Initialized
+DEBUG - 2023-03-01 15:16:49 --> Helper loaded: date_helper
+DEBUG - 2023-03-01 15:16:49 --> Helper loaded: form_helper
+DEBUG - 2023-03-01 15:16:49 --> Form Validation Class Initialized
+DEBUG - 2023-03-01 15:16:49 --> Controller Class Initialized
+DEBUG - 2023-03-01 15:16:49 --> File loaded: application/views/admin/layouts/header.php
+DEBUG - 2023-03-01 15:16:49 --> File loaded: application/views/admin/manage_event.php
+DEBUG - 2023-03-01 15:16:49 --> File loaded: application/views/admin/layouts/footer.php
+DEBUG - 2023-03-01 15:16:49 --> Final output sent to browser
+DEBUG - 2023-03-01 15:16:49 --> Total execution time: 0.0531
+DEBUG - 2023-03-01 15:17:06 --> Config Class Initialized
+DEBUG - 2023-03-01 15:17:06 --> Hooks Class Initialized
+DEBUG - 2023-03-01 15:17:06 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 15:17:06 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 15:17:06 --> URI Class Initialized
+DEBUG - 2023-03-01 15:17:06 --> Router Class Initialized
+DEBUG - 2023-03-01 15:17:06 --> Output Class Initialized
+DEBUG - 2023-03-01 15:17:06 --> Security Class Initialized
+DEBUG - 2023-03-01 15:17:06 --> Input Class Initialized
+DEBUG - 2023-03-01 15:17:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-01 15:17:06 --> Language Class Initialized
+DEBUG - 2023-03-01 15:17:06 --> Language Class Initialized
+DEBUG - 2023-03-01 15:17:06 --> Config Class Initialized
+DEBUG - 2023-03-01 15:17:06 --> Loader Class Initialized
+DEBUG - 2023-03-01 15:17:06 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-01 15:17:06 --> Helper loaded: url_helper
+DEBUG - 2023-03-01 15:17:06 --> User Agent Class Initialized
+DEBUG - 2023-03-01 15:17:06 --> Template Class Initialized
+DEBUG - 2023-03-01 15:17:06 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-01 15:17:06 --> Email Class Initialized
+DEBUG - 2023-03-01 15:17:06 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-01 15:17:06 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-01 15:17:06 --> Session Class Initialized
+DEBUG - 2023-03-01 15:17:06 --> Helper loaded: string_helper
+DEBUG - 2023-03-01 15:17:06 --> Encrypt Class Initialized
+DEBUG - 2023-03-01 15:17:06 --> Database Driver Class Initialized
+DEBUG - 2023-03-01 15:17:06 --> Session routines successfully run
+DEBUG - 2023-03-01 15:17:06 --> Model Class Initialized
+DEBUG - 2023-03-01 15:17:06 --> Model Class Initialized
+DEBUG - 2023-03-01 15:17:06 --> Helper loaded: date_helper
+DEBUG - 2023-03-01 15:17:06 --> Helper loaded: form_helper
+DEBUG - 2023-03-01 15:17:06 --> Form Validation Class Initialized
+DEBUG - 2023-03-01 15:17:06 --> Controller Class Initialized
+DEBUG - 2023-03-01 15:17:06 --> File loaded: application/views/admin/layouts/header.php
+DEBUG - 2023-03-01 15:17:06 --> File loaded: application/views/admin/manage_event.php
+DEBUG - 2023-03-01 15:17:06 --> File loaded: application/views/admin/layouts/footer.php
+DEBUG - 2023-03-01 15:17:06 --> Final output sent to browser
+DEBUG - 2023-03-01 15:17:06 --> Total execution time: 0.0647
+DEBUG - 2023-03-01 15:18:11 --> Config Class Initialized
+DEBUG - 2023-03-01 15:18:11 --> Hooks Class Initialized
+DEBUG - 2023-03-01 15:18:11 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 15:18:11 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 15:18:11 --> URI Class Initialized
+DEBUG - 2023-03-01 15:18:11 --> Router Class Initialized
+DEBUG - 2023-03-01 15:18:11 --> Output Class Initialized
+DEBUG - 2023-03-01 15:18:11 --> Security Class Initialized
+DEBUG - 2023-03-01 15:18:11 --> Input Class Initialized
+DEBUG - 2023-03-01 15:18:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-01 15:18:11 --> Language Class Initialized
+DEBUG - 2023-03-01 15:18:11 --> Language Class Initialized
+DEBUG - 2023-03-01 15:18:11 --> Config Class Initialized
+DEBUG - 2023-03-01 15:18:11 --> Loader Class Initialized
+DEBUG - 2023-03-01 15:18:11 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-01 15:18:11 --> Helper loaded: url_helper
+DEBUG - 2023-03-01 15:18:11 --> User Agent Class Initialized
+DEBUG - 2023-03-01 15:18:11 --> Template Class Initialized
+DEBUG - 2023-03-01 15:18:11 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-01 15:18:11 --> Email Class Initialized
+DEBUG - 2023-03-01 15:18:11 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-01 15:18:11 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-01 15:18:11 --> Session Class Initialized
+DEBUG - 2023-03-01 15:18:11 --> Helper loaded: string_helper
+DEBUG - 2023-03-01 15:18:11 --> Encrypt Class Initialized
+DEBUG - 2023-03-01 15:18:11 --> Database Driver Class Initialized
+DEBUG - 2023-03-01 15:18:11 --> Session routines successfully run
+DEBUG - 2023-03-01 15:18:11 --> Model Class Initialized
+DEBUG - 2023-03-01 15:18:11 --> Model Class Initialized
+DEBUG - 2023-03-01 15:18:11 --> Helper loaded: date_helper
+DEBUG - 2023-03-01 15:18:11 --> Helper loaded: form_helper
+DEBUG - 2023-03-01 15:18:11 --> Form Validation Class Initialized
+DEBUG - 2023-03-01 15:18:11 --> Controller Class Initialized
+DEBUG - 2023-03-01 15:18:11 --> File loaded: application/views/admin/layouts/header.php
+DEBUG - 2023-03-01 15:18:11 --> File loaded: application/views/admin/manage_event.php
+DEBUG - 2023-03-01 15:18:11 --> File loaded: application/views/admin/layouts/footer.php
+DEBUG - 2023-03-01 15:18:11 --> Final output sent to browser
+DEBUG - 2023-03-01 15:18:11 --> Total execution time: 0.0690
+DEBUG - 2023-03-01 15:18:15 --> Config Class Initialized
+DEBUG - 2023-03-01 15:18:15 --> Hooks Class Initialized
+DEBUG - 2023-03-01 15:18:15 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 15:18:15 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 15:18:15 --> URI Class Initialized
+DEBUG - 2023-03-01 15:18:15 --> Router Class Initialized
+DEBUG - 2023-03-01 15:18:15 --> Output Class Initialized
+DEBUG - 2023-03-01 15:18:15 --> Security Class Initialized
+DEBUG - 2023-03-01 15:18:15 --> Input Class Initialized
+DEBUG - 2023-03-01 15:18:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-01 15:18:15 --> Language Class Initialized
+DEBUG - 2023-03-01 15:18:15 --> Language Class Initialized
+DEBUG - 2023-03-01 15:18:15 --> Config Class Initialized
+DEBUG - 2023-03-01 15:18:15 --> Loader Class Initialized
+DEBUG - 2023-03-01 15:18:15 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-01 15:18:15 --> Helper loaded: url_helper
+DEBUG - 2023-03-01 15:18:15 --> User Agent Class Initialized
+DEBUG - 2023-03-01 15:18:15 --> Template Class Initialized
+DEBUG - 2023-03-01 15:18:15 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-01 15:18:15 --> Email Class Initialized
+DEBUG - 2023-03-01 15:18:15 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-01 15:18:15 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-01 15:18:15 --> Session Class Initialized
+DEBUG - 2023-03-01 15:18:15 --> Helper loaded: string_helper
+DEBUG - 2023-03-01 15:18:15 --> Encrypt Class Initialized
+DEBUG - 2023-03-01 15:18:15 --> Database Driver Class Initialized
+DEBUG - 2023-03-01 15:18:15 --> Session routines successfully run
+DEBUG - 2023-03-01 15:18:15 --> Model Class Initialized
+DEBUG - 2023-03-01 15:18:15 --> Model Class Initialized
+DEBUG - 2023-03-01 15:18:15 --> Helper loaded: date_helper
+DEBUG - 2023-03-01 15:18:15 --> Helper loaded: form_helper
+DEBUG - 2023-03-01 15:18:15 --> Form Validation Class Initialized
+DEBUG - 2023-03-01 15:18:15 --> Controller Class Initialized
+DEBUG - 2023-03-01 15:18:15 --> File loaded: application/views/admin/layouts/header.php
+DEBUG - 2023-03-01 15:18:15 --> File loaded: application/views/admin/manage_event.php
+DEBUG - 2023-03-01 15:18:15 --> File loaded: application/views/admin/layouts/footer.php
+DEBUG - 2023-03-01 15:18:15 --> Final output sent to browser
+DEBUG - 2023-03-01 15:18:15 --> Total execution time: 0.0529
+DEBUG - 2023-03-01 15:19:21 --> Config Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Hooks Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 15:19:21 --> URI Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Router Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Output Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Security Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Input Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-01 15:19:21 --> Language Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Language Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Config Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Loader Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-01 15:19:21 --> Helper loaded: url_helper
+DEBUG - 2023-03-01 15:19:21 --> User Agent Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Template Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-01 15:19:21 --> Email Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-01 15:19:21 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-01 15:19:21 --> Session Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Helper loaded: string_helper
+DEBUG - 2023-03-01 15:19:21 --> Encrypt Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Database Driver Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Session garbage collection performed.
+DEBUG - 2023-03-01 15:19:21 --> Session routines successfully run
+DEBUG - 2023-03-01 15:19:21 --> Model Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Model Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Helper loaded: date_helper
+DEBUG - 2023-03-01 15:19:21 --> Helper loaded: form_helper
+DEBUG - 2023-03-01 15:19:21 --> Form Validation Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Controller Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Final output sent to browser
+DEBUG - 2023-03-01 15:19:21 --> Total execution time: 0.1377
+DEBUG - 2023-03-01 15:19:21 --> Config Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Hooks Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 15:19:21 --> URI Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Router Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> No URI present. Default controller set.
+DEBUG - 2023-03-01 15:19:21 --> Output Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Security Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Input Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-01 15:19:21 --> Language Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Language Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Config Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Loader Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-01 15:19:21 --> Helper loaded: url_helper
+DEBUG - 2023-03-01 15:19:21 --> User Agent Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Template Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-01 15:19:21 --> Email Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-01 15:19:21 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-01 15:19:21 --> Session Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Helper loaded: string_helper
+DEBUG - 2023-03-01 15:19:21 --> Encrypt Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Database Driver Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> A session cookie was not found.
+DEBUG - 2023-03-01 15:19:21 --> Session garbage collection performed.
+DEBUG - 2023-03-01 15:19:21 --> Session routines successfully run
+DEBUG - 2023-03-01 15:19:21 --> Model Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Model Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Helper loaded: date_helper
+DEBUG - 2023-03-01 15:19:21 --> Helper loaded: form_helper
+DEBUG - 2023-03-01 15:19:21 --> Form Validation Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Controller Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Config Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Hooks Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 15:19:21 --> URI Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Router Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Output Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Security Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Input Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-01 15:19:21 --> Language Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Language Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Config Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Loader Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-01 15:19:21 --> Helper loaded: url_helper
+DEBUG - 2023-03-01 15:19:21 --> User Agent Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Template Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-01 15:19:21 --> Email Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-01 15:19:21 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-01 15:19:21 --> Session Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Helper loaded: string_helper
+DEBUG - 2023-03-01 15:19:21 --> Encrypt Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Database Driver Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Session garbage collection performed.
+DEBUG - 2023-03-01 15:19:21 --> Session routines successfully run
+DEBUG - 2023-03-01 15:19:21 --> Model Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Model Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Helper loaded: date_helper
+DEBUG - 2023-03-01 15:19:21 --> Helper loaded: form_helper
+DEBUG - 2023-03-01 15:19:21 --> Form Validation Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Controller Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> File loaded: application/views/auth/layouts/header.php
+DEBUG - 2023-03-01 15:19:21 --> File loaded: application/views/auth/login.php
+DEBUG - 2023-03-01 15:19:21 --> File loaded: application/views/auth/layouts/footer.php
+DEBUG - 2023-03-01 15:19:21 --> Final output sent to browser
+DEBUG - 2023-03-01 15:19:21 --> Total execution time: 0.0563
+DEBUG - 2023-03-01 15:19:21 --> Config Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Hooks Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 15:19:21 --> URI Class Initialized
+DEBUG - 2023-03-01 15:19:21 --> Router Class Initialized
+ERROR - 2023-03-01 15:19:21 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 15:19:32 --> Config Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Hooks Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 15:19:32 --> URI Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Router Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Output Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Security Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Input Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-01 15:19:32 --> Language Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Language Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Config Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Loader Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-01 15:19:32 --> Helper loaded: url_helper
+DEBUG - 2023-03-01 15:19:32 --> User Agent Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Template Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-01 15:19:32 --> Email Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-01 15:19:32 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-01 15:19:32 --> Session Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Helper loaded: string_helper
+DEBUG - 2023-03-01 15:19:32 --> Encrypt Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Database Driver Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Session routines successfully run
+DEBUG - 2023-03-01 15:19:32 --> Model Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Model Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Helper loaded: date_helper
+DEBUG - 2023-03-01 15:19:32 --> Helper loaded: form_helper
+DEBUG - 2023-03-01 15:19:32 --> Form Validation Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Controller Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Config Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Hooks Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 15:19:32 --> URI Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Router Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> No URI present. Default controller set.
+DEBUG - 2023-03-01 15:19:32 --> Output Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Security Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Input Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-01 15:19:32 --> Language Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Language Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Config Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Loader Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-01 15:19:32 --> Helper loaded: url_helper
+DEBUG - 2023-03-01 15:19:32 --> User Agent Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Template Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-01 15:19:32 --> Email Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-01 15:19:32 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-01 15:19:32 --> Session Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Helper loaded: string_helper
+DEBUG - 2023-03-01 15:19:32 --> Encrypt Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Database Driver Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Session routines successfully run
+DEBUG - 2023-03-01 15:19:32 --> Model Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Model Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Helper loaded: date_helper
+DEBUG - 2023-03-01 15:19:32 --> Helper loaded: form_helper
+DEBUG - 2023-03-01 15:19:32 --> Form Validation Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Controller Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Config Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Hooks Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 15:19:32 --> URI Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Router Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Output Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Security Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Input Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-01 15:19:32 --> Language Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Language Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Config Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Loader Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-01 15:19:32 --> Helper loaded: url_helper
+DEBUG - 2023-03-01 15:19:32 --> User Agent Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Template Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-01 15:19:32 --> Email Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-01 15:19:32 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-01 15:19:32 --> Session Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Helper loaded: string_helper
+DEBUG - 2023-03-01 15:19:32 --> Encrypt Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Database Driver Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Session routines successfully run
+DEBUG - 2023-03-01 15:19:32 --> Model Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Model Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Helper loaded: date_helper
+DEBUG - 2023-03-01 15:19:32 --> Helper loaded: form_helper
+DEBUG - 2023-03-01 15:19:32 --> Form Validation Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Controller Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> File loaded: application/views/auth/layouts/header.php
+DEBUG - 2023-03-01 15:19:32 --> File loaded: application/views/auth/login.php
+DEBUG - 2023-03-01 15:19:32 --> File loaded: application/views/auth/layouts/footer.php
+DEBUG - 2023-03-01 15:19:32 --> Final output sent to browser
+DEBUG - 2023-03-01 15:19:32 --> Total execution time: 0.0645
+DEBUG - 2023-03-01 15:19:32 --> Config Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Hooks Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 15:19:32 --> URI Class Initialized
+DEBUG - 2023-03-01 15:19:32 --> Router Class Initialized
+ERROR - 2023-03-01 15:19:32 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 15:19:38 --> Config Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Hooks Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 15:19:38 --> URI Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Router Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Output Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Security Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Input Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-01 15:19:38 --> Language Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Language Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Config Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Loader Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-01 15:19:38 --> Helper loaded: url_helper
+DEBUG - 2023-03-01 15:19:38 --> User Agent Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Template Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-01 15:19:38 --> Email Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-01 15:19:38 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-01 15:19:38 --> Session Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Helper loaded: string_helper
+DEBUG - 2023-03-01 15:19:38 --> Encrypt Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Database Driver Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Session routines successfully run
+DEBUG - 2023-03-01 15:19:38 --> Model Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Model Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Helper loaded: date_helper
+DEBUG - 2023-03-01 15:19:38 --> Helper loaded: form_helper
+DEBUG - 2023-03-01 15:19:38 --> Form Validation Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Controller Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2023-03-01 15:19:38 --> Final output sent to browser
+DEBUG - 2023-03-01 15:19:38 --> Total execution time: 0.1399
+DEBUG - 2023-03-01 15:19:38 --> Config Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Hooks Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 15:19:38 --> URI Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Router Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Output Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Security Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Input Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-01 15:19:38 --> Language Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Language Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Config Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Loader Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-01 15:19:38 --> Helper loaded: url_helper
+DEBUG - 2023-03-01 15:19:38 --> User Agent Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Template Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-01 15:19:38 --> Email Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-01 15:19:38 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-01 15:19:38 --> Session Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Helper loaded: string_helper
+DEBUG - 2023-03-01 15:19:38 --> Encrypt Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Database Driver Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Session routines successfully run
+DEBUG - 2023-03-01 15:19:38 --> Model Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Model Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Helper loaded: date_helper
+DEBUG - 2023-03-01 15:19:38 --> Helper loaded: form_helper
+DEBUG - 2023-03-01 15:19:38 --> Form Validation Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Controller Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Config Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Hooks Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 15:19:38 --> URI Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Router Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> No URI present. Default controller set.
+DEBUG - 2023-03-01 15:19:38 --> Output Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Security Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Input Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-01 15:19:38 --> Language Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Language Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Config Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Loader Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-01 15:19:38 --> Helper loaded: url_helper
+DEBUG - 2023-03-01 15:19:38 --> User Agent Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Template Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-01 15:19:38 --> Email Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-01 15:19:38 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-01 15:19:38 --> Session Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Helper loaded: string_helper
+DEBUG - 2023-03-01 15:19:38 --> Encrypt Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Database Driver Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Session routines successfully run
+DEBUG - 2023-03-01 15:19:38 --> Model Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Model Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Helper loaded: date_helper
+DEBUG - 2023-03-01 15:19:38 --> Helper loaded: form_helper
+DEBUG - 2023-03-01 15:19:38 --> Form Validation Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Controller Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Config Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Hooks Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 15:19:38 --> URI Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Router Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Output Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Security Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Input Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-01 15:19:38 --> Language Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Language Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Config Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Loader Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-01 15:19:38 --> Helper loaded: url_helper
+DEBUG - 2023-03-01 15:19:38 --> User Agent Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Template Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-01 15:19:38 --> Email Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-01 15:19:38 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-01 15:19:38 --> Session Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Helper loaded: string_helper
+DEBUG - 2023-03-01 15:19:38 --> Encrypt Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Database Driver Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Session routines successfully run
+DEBUG - 2023-03-01 15:19:38 --> Model Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Model Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Helper loaded: date_helper
+DEBUG - 2023-03-01 15:19:38 --> Helper loaded: form_helper
+DEBUG - 2023-03-01 15:19:38 --> Form Validation Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Controller Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> File loaded: application/views/auth/layouts/header.php
+DEBUG - 2023-03-01 15:19:38 --> File loaded: application/views/auth/login.php
+DEBUG - 2023-03-01 15:19:38 --> File loaded: application/views/auth/layouts/footer.php
+DEBUG - 2023-03-01 15:19:38 --> Final output sent to browser
+DEBUG - 2023-03-01 15:19:38 --> Total execution time: 0.0644
+DEBUG - 2023-03-01 15:19:38 --> Config Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Hooks Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 15:19:38 --> URI Class Initialized
+DEBUG - 2023-03-01 15:19:38 --> Router Class Initialized
+ERROR - 2023-03-01 15:19:38 --> 404 Page Not Found --> 
+DEBUG - 2023-03-01 15:19:44 --> Config Class Initialized
+DEBUG - 2023-03-01 15:19:44 --> Hooks Class Initialized
+DEBUG - 2023-03-01 15:19:44 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 15:19:44 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 15:19:44 --> URI Class Initialized
+DEBUG - 2023-03-01 15:19:44 --> Router Class Initialized
+DEBUG - 2023-03-01 15:19:44 --> Output Class Initialized
+DEBUG - 2023-03-01 15:19:44 --> Security Class Initialized
+DEBUG - 2023-03-01 15:19:44 --> Input Class Initialized
+DEBUG - 2023-03-01 15:19:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-01 15:19:44 --> Language Class Initialized
+DEBUG - 2023-03-01 15:19:44 --> Language Class Initialized
+DEBUG - 2023-03-01 15:19:44 --> Config Class Initialized
+DEBUG - 2023-03-01 15:19:44 --> Loader Class Initialized
+DEBUG - 2023-03-01 15:19:44 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-01 15:19:44 --> Helper loaded: url_helper
+DEBUG - 2023-03-01 15:19:44 --> User Agent Class Initialized
+DEBUG - 2023-03-01 15:19:44 --> Template Class Initialized
+DEBUG - 2023-03-01 15:19:44 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-01 15:19:44 --> Email Class Initialized
+DEBUG - 2023-03-01 15:19:44 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-01 15:19:44 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-01 15:19:44 --> Session Class Initialized
+DEBUG - 2023-03-01 15:19:44 --> Helper loaded: string_helper
+DEBUG - 2023-03-01 15:19:44 --> Encrypt Class Initialized
+DEBUG - 2023-03-01 15:19:44 --> Database Driver Class Initialized
+DEBUG - 2023-03-01 15:19:44 --> Session routines successfully run
+DEBUG - 2023-03-01 15:19:44 --> Model Class Initialized
+DEBUG - 2023-03-01 15:19:44 --> Model Class Initialized
+DEBUG - 2023-03-01 15:19:44 --> Helper loaded: date_helper
+DEBUG - 2023-03-01 15:19:44 --> Helper loaded: form_helper
+DEBUG - 2023-03-01 15:19:44 --> Form Validation Class Initialized
+DEBUG - 2023-03-01 15:19:44 --> Controller Class Initialized
+DEBUG - 2023-03-01 15:19:44 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2023-03-01 15:19:44 --> Final output sent to browser
+DEBUG - 2023-03-01 15:19:44 --> Total execution time: 0.0654
+DEBUG - 2023-03-01 15:19:44 --> Config Class Initialized
+DEBUG - 2023-03-01 15:19:44 --> Hooks Class Initialized
+DEBUG - 2023-03-01 15:19:44 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 15:19:44 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 15:19:44 --> URI Class Initialized
+DEBUG - 2023-03-01 15:19:44 --> Router Class Initialized
+DEBUG - 2023-03-01 15:19:44 --> Output Class Initialized
+DEBUG - 2023-03-01 15:19:44 --> Security Class Initialized
+DEBUG - 2023-03-01 15:19:44 --> Input Class Initialized
+DEBUG - 2023-03-01 15:19:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-01 15:19:44 --> Language Class Initialized
+DEBUG - 2023-03-01 15:19:44 --> Language Class Initialized
+DEBUG - 2023-03-01 15:19:44 --> Config Class Initialized
+DEBUG - 2023-03-01 15:19:44 --> Loader Class Initialized
+DEBUG - 2023-03-01 15:19:44 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-01 15:19:44 --> Helper loaded: url_helper
+DEBUG - 2023-03-01 15:19:44 --> User Agent Class Initialized
+DEBUG - 2023-03-01 15:19:44 --> Template Class Initialized
+DEBUG - 2023-03-01 15:19:44 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-01 15:19:44 --> Email Class Initialized
+DEBUG - 2023-03-01 15:19:44 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-01 15:19:44 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-01 15:19:44 --> Session Class Initialized
+DEBUG - 2023-03-01 15:19:44 --> Helper loaded: string_helper
+DEBUG - 2023-03-01 15:19:44 --> Encrypt Class Initialized
+DEBUG - 2023-03-01 15:19:44 --> Database Driver Class Initialized
+DEBUG - 2023-03-01 15:19:44 --> Session routines successfully run
+DEBUG - 2023-03-01 15:19:44 --> Model Class Initialized
+DEBUG - 2023-03-01 15:19:44 --> Model Class Initialized
+DEBUG - 2023-03-01 15:19:44 --> Helper loaded: date_helper
+DEBUG - 2023-03-01 15:19:44 --> Helper loaded: form_helper
+DEBUG - 2023-03-01 15:19:44 --> Form Validation Class Initialized
+DEBUG - 2023-03-01 15:19:44 --> Controller Class Initialized
+DEBUG - 2023-03-01 15:19:44 --> File loaded: application/views/admin/layouts/header.php
+DEBUG - 2023-03-01 15:19:44 --> File loaded: application/views/admin/manage_event.php
+DEBUG - 2023-03-01 15:19:44 --> File loaded: application/views/admin/layouts/footer.php
+DEBUG - 2023-03-01 15:19:44 --> Final output sent to browser
+DEBUG - 2023-03-01 15:19:44 --> Total execution time: 0.0489
+DEBUG - 2023-03-01 15:21:48 --> Config Class Initialized
+DEBUG - 2023-03-01 15:21:48 --> Hooks Class Initialized
+DEBUG - 2023-03-01 15:21:48 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 15:21:48 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 15:21:48 --> URI Class Initialized
+DEBUG - 2023-03-01 15:21:48 --> Router Class Initialized
+DEBUG - 2023-03-01 15:21:48 --> Output Class Initialized
+DEBUG - 2023-03-01 15:21:48 --> Security Class Initialized
+DEBUG - 2023-03-01 15:21:48 --> Input Class Initialized
+DEBUG - 2023-03-01 15:21:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-01 15:21:48 --> Language Class Initialized
+DEBUG - 2023-03-01 15:21:48 --> Language Class Initialized
+DEBUG - 2023-03-01 15:21:48 --> Config Class Initialized
+DEBUG - 2023-03-01 15:21:48 --> Loader Class Initialized
+DEBUG - 2023-03-01 15:21:48 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-01 15:21:48 --> Helper loaded: url_helper
+DEBUG - 2023-03-01 15:21:48 --> User Agent Class Initialized
+DEBUG - 2023-03-01 15:21:48 --> Template Class Initialized
+DEBUG - 2023-03-01 15:21:48 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-01 15:21:48 --> Email Class Initialized
+DEBUG - 2023-03-01 15:21:48 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-01 15:21:48 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-01 15:21:48 --> Session Class Initialized
+DEBUG - 2023-03-01 15:21:48 --> Helper loaded: string_helper
+DEBUG - 2023-03-01 15:21:48 --> Encrypt Class Initialized
+DEBUG - 2023-03-01 15:21:48 --> Database Driver Class Initialized
+DEBUG - 2023-03-01 15:21:48 --> Session routines successfully run
+DEBUG - 2023-03-01 15:21:48 --> Model Class Initialized
+DEBUG - 2023-03-01 15:21:48 --> Model Class Initialized
+DEBUG - 2023-03-01 15:21:48 --> Helper loaded: date_helper
+DEBUG - 2023-03-01 15:21:48 --> Helper loaded: form_helper
+DEBUG - 2023-03-01 15:21:48 --> Form Validation Class Initialized
+DEBUG - 2023-03-01 15:21:48 --> Controller Class Initialized
+DEBUG - 2023-03-01 15:21:48 --> File loaded: application/views/admin/layouts/header.php
+DEBUG - 2023-03-01 15:21:48 --> File loaded: application/views/admin/manage_event.php
+DEBUG - 2023-03-01 15:21:48 --> File loaded: application/views/admin/layouts/footer.php
+DEBUG - 2023-03-01 15:21:48 --> Final output sent to browser
+DEBUG - 2023-03-01 15:21:48 --> Total execution time: 0.0847
+DEBUG - 2023-03-01 15:22:03 --> Config Class Initialized
+DEBUG - 2023-03-01 15:22:03 --> Hooks Class Initialized
+DEBUG - 2023-03-01 15:22:03 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 15:22:03 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 15:22:03 --> URI Class Initialized
+DEBUG - 2023-03-01 15:22:03 --> Router Class Initialized
+DEBUG - 2023-03-01 15:22:03 --> Output Class Initialized
+DEBUG - 2023-03-01 15:22:03 --> Security Class Initialized
+DEBUG - 2023-03-01 15:22:03 --> Input Class Initialized
+DEBUG - 2023-03-01 15:22:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-01 15:22:03 --> Language Class Initialized
+DEBUG - 2023-03-01 15:22:03 --> Language Class Initialized
+DEBUG - 2023-03-01 15:22:03 --> Config Class Initialized
+DEBUG - 2023-03-01 15:22:03 --> Loader Class Initialized
+DEBUG - 2023-03-01 15:22:03 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-01 15:22:03 --> Helper loaded: url_helper
+DEBUG - 2023-03-01 15:22:03 --> User Agent Class Initialized
+DEBUG - 2023-03-01 15:22:03 --> Template Class Initialized
+DEBUG - 2023-03-01 15:22:03 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-01 15:22:03 --> Email Class Initialized
+DEBUG - 2023-03-01 15:22:03 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-01 15:22:03 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-01 15:22:03 --> Session Class Initialized
+DEBUG - 2023-03-01 15:22:03 --> Helper loaded: string_helper
+DEBUG - 2023-03-01 15:22:03 --> Encrypt Class Initialized
+DEBUG - 2023-03-01 15:22:03 --> Database Driver Class Initialized
+DEBUG - 2023-03-01 15:22:03 --> Session routines successfully run
+DEBUG - 2023-03-01 15:22:03 --> Model Class Initialized
+DEBUG - 2023-03-01 15:22:03 --> Model Class Initialized
+DEBUG - 2023-03-01 15:22:03 --> Helper loaded: date_helper
+DEBUG - 2023-03-01 15:22:03 --> Helper loaded: form_helper
+DEBUG - 2023-03-01 15:22:03 --> Form Validation Class Initialized
+DEBUG - 2023-03-01 15:22:03 --> Controller Class Initialized
+DEBUG - 2023-03-01 15:22:03 --> File loaded: application/views/admin/layouts/header.php
+DEBUG - 2023-03-01 15:22:03 --> File loaded: application/views/admin/manage_event.php
+DEBUG - 2023-03-01 15:22:03 --> File loaded: application/views/admin/layouts/footer.php
+DEBUG - 2023-03-01 15:22:03 --> Final output sent to browser
+DEBUG - 2023-03-01 15:22:03 --> Total execution time: 0.0578
+DEBUG - 2023-03-01 15:22:20 --> Config Class Initialized
+DEBUG - 2023-03-01 15:22:20 --> Hooks Class Initialized
+DEBUG - 2023-03-01 15:22:20 --> Utf8 Class Initialized
+DEBUG - 2023-03-01 15:22:20 --> UTF-8 Support Enabled
+DEBUG - 2023-03-01 15:22:20 --> URI Class Initialized
+DEBUG - 2023-03-01 15:22:20 --> Router Class Initialized
+DEBUG - 2023-03-01 15:22:20 --> Output Class Initialized
+DEBUG - 2023-03-01 15:22:20 --> Security Class Initialized
+DEBUG - 2023-03-01 15:22:20 --> Input Class Initialized
+DEBUG - 2023-03-01 15:22:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-01 15:22:20 --> Language Class Initialized
+DEBUG - 2023-03-01 15:22:20 --> Language Class Initialized
+DEBUG - 2023-03-01 15:22:20 --> Config Class Initialized
+DEBUG - 2023-03-01 15:22:20 --> Loader Class Initialized
+DEBUG - 2023-03-01 15:22:20 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-01 15:22:20 --> Helper loaded: url_helper
+DEBUG - 2023-03-01 15:22:20 --> User Agent Class Initialized
+DEBUG - 2023-03-01 15:22:20 --> Template Class Initialized
+DEBUG - 2023-03-01 15:22:20 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-01 15:22:20 --> Email Class Initialized
+DEBUG - 2023-03-01 15:22:20 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-01 15:22:20 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-01 15:22:20 --> Session Class Initialized
+DEBUG - 2023-03-01 15:22:20 --> Helper loaded: string_helper
+DEBUG - 2023-03-01 15:22:20 --> Encrypt Class Initialized
+DEBUG - 2023-03-01 15:22:20 --> Database Driver Class Initialized
+DEBUG - 2023-03-01 15:22:20 --> Session routines successfully run
+DEBUG - 2023-03-01 15:22:20 --> Model Class Initialized
+DEBUG - 2023-03-01 15:22:20 --> Model Class Initialized
+DEBUG - 2023-03-01 15:22:20 --> Helper loaded: date_helper
+DEBUG - 2023-03-01 15:22:20 --> Helper loaded: form_helper
+DEBUG - 2023-03-01 15:22:20 --> Form Validation Class Initialized
+DEBUG - 2023-03-01 15:22:20 --> Controller Class Initialized
+DEBUG - 2023-03-01 15:22:20 --> File loaded: application/views/admin/layouts/header.php
+DEBUG - 2023-03-01 15:22:20 --> File loaded: application/views/admin/manage_event.php
+DEBUG - 2023-03-01 15:22:20 --> File loaded: application/views/admin/layouts/footer.php
+DEBUG - 2023-03-01 15:22:20 --> Final output sent to browser
+DEBUG - 2023-03-01 15:22:20 --> Total execution time: 0.0541

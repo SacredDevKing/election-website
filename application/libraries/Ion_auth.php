@@ -340,30 +340,30 @@ class Ion_auth
 	 **/
 	public function logout()
 	{
-		$this->ion_auth_model->trigger_events('logout');
+		// $this->ion_auth_model->trigger_events('logout');
 
-		$identity = $this->config->item('identity', 'ion_auth');
-		$this->session->unset_userdata($identity);
-		$this->session->unset_userdata('id');
-		$this->session->unset_userdata('user_id');
+		// $identity = $this->config->item('identity', 'ion_auth');
+		// $this->session->unset_userdata($identity);
+		// $this->session->unset_userdata('id');
+		// $this->session->unset_userdata('user_id');
 
 		//delete the remember me cookies if they exist
-		if (get_cookie('identity')) {
-			delete_cookie('identity');
-		}
-		if (get_cookie('remember_code')) {
-			delete_cookie('remember_code');
-		}
+		// if (get_cookie('identity')) {
+		// 	delete_cookie('identity');
+		// }
+		// if (get_cookie('remember_code')) {
+		// 	delete_cookie('remember_code');
+		// }
 
 		//Destroy the session
 		$this->session->sess_destroy();
 
 		//Recreate the session
-		if (substr(CI_VERSION, 0, 1) == '2') {
-			$this->session->sess_create();
-		}
+		// if (substr(CI_VERSION, 0, 1) == '2') {
+		// 	$this->session->sess_create();
+		// }
 
-		$this->set_message('logout_successful');
+		// $this->set_message('logout_successful');
 		return TRUE;
 	}
 

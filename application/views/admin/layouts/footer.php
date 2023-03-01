@@ -1,22 +1,44 @@
 <!-- Global scripts -->
-<script src="js/jquery.js"></script>
-<script src="js/bootstrap.js"></script>
-<script src="js/jquery.ui.js"></script>
-<script src="js/nav.accordion.js"></script>
-<script src="js/hammerjs.js"></script>
-<script src="js/jquery.hammer.js"></script>
-<script src="js/scrollup.js"></script>
-<script src="js/jquery.slimscroll.js"></script>
-<script src="js/smart-resize.js"></script>
-<script src="js/blockui.min.js"></script>
-<script src="js/wow.min.js"></script>
-<script src="js/fancybox.min.js"></script>
-<script src="js/venobox.js"></script>
-<script src="js/forms/uniform.min.js"></script>
-<script src="js/forms/switchery.js"></script>
-<script src="js/forms/select2.min.js"></script>
-<script src="js/core.js"></script>
+<script src="<?php echo base_url('/assets/global/js/jquery.js?v=' . $randNum) ?>"></script>
+<script src="<?php echo base_url('/assets/global/js/bootstrap.js?v=' . $randNum) ?>"></script>
+<script src="<?php echo base_url('/assets/global/js/jquery.ui.js?v=' . $randNum) ?>"></script>
+<script src="<?php echo base_url('/assets/global/js/nav.accordion.js?v=' . $randNum) ?>"></script>
+<script src="<?php echo base_url('/assets/global/js/hammerjs.js?v=' . $randNum) ?>"></script>
+<script src="<?php echo base_url('/assets/global/js/jquery.hammer.js?v=' . $randNum) ?>"></script>
+<script src="<?php echo base_url('/assets/global/js/scrollup.js?v=' . $randNum) ?>"></script>
+<script src="<?php echo base_url('/assets/global/js/jquery.slimscroll.js?v=' . $randNum) ?>"></script>
+<script src="<?php echo base_url('/assets/global/js/smart-resize.js?v=' . $randNum) ?>"></script>
+<script src="<?php echo base_url('/assets/global/js/blockui.min.js?v=' . $randNum) ?>"></script>
+<script src="<?php echo base_url('/assets/global/js/wow.min.js?v=' . $randNum) ?>"></script>
+<script src="<?php echo base_url('/assets/global/js/fancybox.min.js?v=' . $randNum) ?>"></script>
+<script src="<?php echo base_url('/assets/global/js/venobox.js?v=' . $randNum) ?>"></script>
+<script src="<?php echo base_url('/assets/global/js/forms/uniform.min.js?v=' . $randNum) ?>"></script>
+<script src="<?php echo base_url('/assets/global/js/forms/switchery.js?v=' . $randNum) ?>"></script>
+<script src="<?php echo base_url('/assets/global/js/forms/select2.min.js?v=' . $randNum) ?>"></script>
+<script src="<?php echo base_url('/assets/global/js/core.js?v=' . $randNum) ?>"></script>
 <!-- /global scripts -->
+
+<!-- Global Constants -->
+<script type="text/javascript">
+    var BASE_URL = "<?php echo base_url() ?>";
+</script>
+<!-- /Global Constants -->
+
+<!-- Custom Scripts -->
+<script type="text/javascript"
+    src="<?php echo base_url('/assets/custom/js/global/constants.js?v=' . $randNum) ?>"></script>
+<script type="text/javascript"
+    src="<?php echo base_url('/assets/custom/js/global/cookie.js?v=' . $randNum) ?>"></script>
+<script type="text/javascript"
+    src="<?php echo base_url('/assets/custom/js/global/validator.js?v=' . $randNum) ?>"></script>
+<?php
+if (isset($pageJsArr)) {
+    foreach ($pageJsArr as $pageJs) { ?>
+        <script type="text/javascript" src="<?php echo base_url($pageJs . '?v=' . $randNum) ?>"></script>
+    <?php }
+}
+?>
+<!-- /Custom Scripts -->
 </body>
 
 </html>
