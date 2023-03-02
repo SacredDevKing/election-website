@@ -149,6 +149,29 @@
 							<h5 class="panel-title">Candidate</h5>
 						</div>
 						<div class="panel-body">
+							<ul id="candidate_list" class="media-list media-list-bordered">
+								<!-- <li class="media">
+									<div class="media-left">
+										<a><img src="assets/images/faces/face3.png" alt=""></a>
+									</div>
+
+									<div class="media-body">
+										<span>Number : x</span><br>
+										<span>Name : Mr.xxx</span><br>
+										<span>Campaign : xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</span>
+									</div>
+									<div class="media-right">
+										<span id="btn_candi_edit" class="btn btn-success btn-rounded">Edit</span>
+										<span id="btn_candi_delete" class="btn btn-danger btn-rounded">Delete</span>
+									</div>
+								</li> -->
+							</ul>
+
+							<div style="text-align: center;">
+								<button type="button" data-toggle="modal" data-target="#modal_add_candidate"
+									class="btn bg-blue btn-rounded">Add
+									Candidate</button>
+							</div>
 						</div>
 					</div>
 					<!-- /Candidate Info -->
@@ -157,5 +180,67 @@
 		</div>
 	</section>
 	<!--/Page Container-->
+
+	<!-- Create Modal -->
+	<div id="modal_add_candidate" class="modal fade">
+		<div class="modal-dialog" style="top: 250px;">
+			<div class="modal-content">
+				<div class="modal-body">
+					<div class="row">
+						<div class="col-sm-4 imgUp candidate-img">
+							<div class="imagePreview"></div>
+							<label class="btn btn-photo-upload">
+								Upload<input id="candi_add_photo" type="file" class="uploadFile img" value="Upload Photo"
+									style="width: 0px;height: 0px;overflow: hidden;">
+							</label>
+						</div>
+						<div class="col-sm-7 candidate-info">
+							<form class="form-horizontal">
+								<!-- No -->
+								<div class="form-group">
+									<select id="candi_add_no" class="form-control" style="width: 150px;">
+										<option value="1">No. 1</option>
+										<option value="2">No. 2</option>
+										<option value="3">No. 3</option>
+										<option value="4">No. 4</option>
+										<option value="5">No. 5</option>
+										<option value="6">No. 6</option>
+										<option value="7">No. 7</option>
+										<option value="8">No. 8</option>
+										<option value="9">No. 9</option>
+										<option value="10">No. 10</option>
+									</select>
+									<label id="error_candi_add_no" class="validation-error"
+										for="candi_add_no"></label>
+								</div>
+								<!-- /No -->
+								<!-- Candidate Campaign -->
+								<div class="form-group">
+									<input id="candi_add_campaign" type="text" class="form-control"
+										placeholder="Campaign">
+									<label id="error_candi_add_campaign" class="validation-error"
+										for="candi_add_campaign"></label>
+								</div>
+								<!-- /Candidate Campaign -->
+								<!-- Candidate Name -->
+								<div class="form-group">
+									<input id="candi_add_name" type="text" class="form-control" placeholder="Name">
+									<label id="error_candi_add_name" class="validation-error"
+										for="candi_add_name"></label>
+								</div>
+								<!-- /Candidate Name -->
+							</form>
+						</div>
+					</div>
+				</div>
+				<div class="modal-footer">
+					<button id="btn_candi_add_save" type="button" class="btn bg-indigo btn-rounded">Save</button>
+					<button id="btn_candi_add_cancel" type="button" class="btn btn-default btn-rounded"
+						data-dismiss="modal">Cancel</button>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- /Create Modal -->
 
 	<a id="scrollTop" href="page_support.htm#top"><i class="icon-arrow-up12"></i></a>

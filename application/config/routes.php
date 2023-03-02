@@ -62,6 +62,8 @@ $route['manage_event/delete_event'] = 'admin/ManageEventController/deleteEvent';
 $route['manage_event/active_event'] = 'admin/ManageEventController/activeEvent';
 $route['manage_event/get_all_events'] = 'admin/ManageEventController/getAllEvents';
 $route['manage_event/get_event'] = 'admin/ManageEventController/getEventById';
+
+$route['manage_event/create_candidate'] = 'admin/ManageEventController/createCandidate';
 // ------------------------ END ADMIN ROUTES -----------------------------
 
 // $route['my-account'] = 'user/account';
