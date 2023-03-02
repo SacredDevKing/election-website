@@ -11,7 +11,7 @@
             <div class="form-control-feedback">
                 <i class="icon-user text-muted"></i>
             </div>
-            <label class="validation-error" for="reg_name"></label>
+            <label id="error_reg_name" class="validation-error" for="reg_name"></label>
         </div>
 
         <div class="form-group has-feedback has-feedback-left">
@@ -20,7 +20,7 @@
             <div class="form-control-feedback">
                 <i class="icon-envelope text-muted"></i>
             </div>
-            <label class="validation-error" for="reg_email"></label>
+            <label id="error_reg_email" class="validation-error" for="reg_email"></label>
         </div>
 
         <div class="form-group has-feedback has-feedback-left">
@@ -29,7 +29,7 @@
             <div class="form-control-feedback">
                 <i class="icon-lock text-muted"></i>
             </div>
-            <label class="validation-error" for="reg_password"></label>
+            <label id="error_reg_password" class="validation-error" for="reg_password"></label>
         </div>
 
         <div class="form-group has-feedback has-feedback-left">
@@ -38,7 +38,7 @@
             <div class="form-control-feedback">
                 <i class="icon-lock text-muted"></i>
             </div>
-            <label class="validation-error" for="reg_conf_password"></label>
+            <label id="error_reg_conf_password" class="validation-error" for="reg_conf_password"></label>
         </div>
 
         <div class="form-group">

@@ -12,7 +12,7 @@
             <div class="form-control-feedback">
                 <i class="icon-envelope text-muted"></i>
             </div>
-            <label class="validation-error" for="log_email"></label>
+            <label id="error_log_email" class="validation-error" for="log_email"></label>
         </div>
 
         <div class="form-group has-feedback has-feedback-left">
@@ -21,7 +21,7 @@
             <div class="form-control-feedback">
                 <i class="icon-lock text-muted"></i>
             </div>
-            <label class="validation-error" for="log_password"></label>
+            <label id="error_log_password" class="validation-error" for="log_password"></label>
         </div>
 
         <div class="login-options">

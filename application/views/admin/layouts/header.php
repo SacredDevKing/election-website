@@ -43,4 +43,14 @@
     <link type="text/css" rel="stylesheet"
         href="<?php echo base_url('/assets/global/css/fancybox/jquery.fancybox.css?v=' . $randNum) ?>">
     <!-- /global stylesheets -->
+
+    <!-- Custom stylesheets -->
+    <?php
+    if (isset($pageCssArr)) {
+        foreach ($pageCssArr as $pageCss) { ?>
+            <link type="text/css" rel="stylesheet" href="<?php echo base_url($pageCss . '?v=' . $randNum) ?>">
+        <?php }
+    }
+    ?>
+    <!-- /Custom stylesheets -->
 </head>

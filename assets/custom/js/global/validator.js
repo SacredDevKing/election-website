@@ -57,5 +57,5 @@ function checkInputValidation(fieldOption) {
 function showValidError(tagId, error) {
     if (error == undefined)
         error = "";
-    $('#' + tagId).parent().children('label').html(error);
+    $('#error_' + tagId).html(error);
 }
