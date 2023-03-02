@@ -8,6 +8,7 @@ class ManageEventController extends AdminBaseController
         $this->load->helper('mydate');
 
         $this->load->model('eventModel');
+        $this->load->model('candidateModel');
     }
 
     public function index()
@@ -140,13 +141,44 @@ class ManageEventController extends AdminBaseController
     {
         $eventId = $this->input->post('eventId');
 
+        // Get event
         $event = $this->eventModel->getEventById($eventId);
         $event['opendate'] = parseDatetimeToDate($event['open_date']);
         $event['opentime'] = parseDatetimeToTime($event['open_date']);
         $event['closedate'] = parseDatetimeToDate($event['close_date']);
         $event['closetime'] = parseDatetimeToTime($event['close_date']);
 
+        // Get candidates
+        $candidates = $this->candidateModel->getCandidatesByEventId($eventId);
+
         $this->ajaxRes['event'] = $event;
+        $this->ajaxRes['candidates'] = $candidates;
+        echo json_encode($this->ajaxRes);
+    }
+
+
+
+    // ------------------------------ Candidate ----------------------------------------
+    public function createCandidate()
+    {
+        // Check Validation
+        $this->form_validation->set_rules('no', 'no', 'required');
+        $this->form_validation->set_rules('eventId', 'eventId', 'required');
+        $this->form_validation->set_rules('campaign', 'campaign', 'required');
+        $this->form_validation->set_rules('name', 'name', 'required');
+        $this->form_validation->set_rules('photo', 'photo', 'required');
+
+        // Create Candidate
+        $eventId = $this->input->post('eventId');
+        $no = $this->input->post('no');
+        $campaign = $this->input->post('campaign');
+        $name = $this->input->post('name');
+        $photo = $this->input->post('photo');
+
+        $candidate = $this->candidateModel->createCandidate($eventId, $no, $campaign, $name, $photo);
+
+        $this->ajaxRes['status'] = 'success';
+        $this->ajaxRes['candidate'] = $candidate;
         echo json_encode($this->ajaxRes);
     }
 }
