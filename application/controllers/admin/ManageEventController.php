@@ -181,4 +181,39 @@ class ManageEventController extends AdminBaseController
         $this->ajaxRes['candidate'] = $candidate;
         echo json_encode($this->ajaxRes);
     }
+
+    public function updateCandidate()
+    {
+        // Check Validation
+        $this->form_validation->set_rules('id', 'id', 'required');
+        $this->form_validation->set_rules('no', 'no', 'required');
+        $this->form_validation->set_rules('campaign', 'campaign', 'required');
+        $this->form_validation->set_rules('name', 'name', 'required');
+        $this->form_validation->set_rules('photo', 'photo', 'required');
+
+        // Update Candidate
+        $id = $this->input->post('id');
+        $no = $this->input->post('no');
+        $campaign = $this->input->post('campaign');
+        $name = $this->input->post('name');
+        $photo = $this->input->post('photo');
+
+        $candidate = $this->candidateModel->updateCandidate($id, $no, $campaign, $name, $photo);
+
+        $this->ajaxRes['status'] = 'success';
+        $this->ajaxRes['candidate'] = $candidate;
+        echo json_encode($this->ajaxRes);
+    }
+
+    public function deleteCandidate()
+    {
+        // Check Validation
+        $this->form_validation->set_rules('id', 'id', 'required');
+
+        $id = $this->input->post('id');
+        $this->candidateModel->deleteCandidate($id);
+
+        $this->ajaxRes['status'] = 'success';
+        echo json_encode($this->ajaxRes);
+    }
 }

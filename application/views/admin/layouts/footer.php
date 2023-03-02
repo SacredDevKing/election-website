@@ -42,6 +42,8 @@
 <script type="text/javascript"
     src="<?php echo base_url('/assets/custom/js/global/cookie.js?v=' . $randNum) ?>"></script>
 <script type="text/javascript"
+    src="<?php echo base_url('/assets/custom/js/global/utils.js?v=' . $randNum) ?>"></script>
+<script type="text/javascript"
     src="<?php echo base_url('/assets/custom/js/global/validator.js?v=' . $randNum) ?>"></script>
 <?php
 if (isset($pageJsArr)) {

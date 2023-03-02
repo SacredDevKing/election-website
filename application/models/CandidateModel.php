@@ -28,6 +28,36 @@ class CandidateModel extends CI_Model
         return $events[0];
     }
 
+    public function updateCandidate($id, $no, $campaign, $name, $photo)
+    {
+        if ($photo != null) {
+            $data = array(
+                'candi_no' => $no,
+                'candi_name' => $name,
+                'candi_campaign' => $campaign,
+                'candi_photo' => $photo,
+            );
+        } else {
+            $data = array(
+                'candi_no' => $no,
+                'candi_name' => $name,
+                'candi_campaign' => $campaign,
+            );
+        }
+
+        $this->db->where('id', $id);
+        $this->db->update($this->tblName, $data);
+
+        $event = $this->db->get_where($this->tblName, array('id' => $id))->result_array();
+        return $event[0];
+    }
+
+    public function deleteCandidate($id)
+    {
+        $this->db->where('id', $id);
+        $this->db->delete($this->tblName);
+    }
+
     public function getCandidatesByEventId($eventId)
     {
         $candidates = $this->db->select('*')->where('event_id', $eventId)->get($this->tblName)->result_array();
