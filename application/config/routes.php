@@ -66,6 +66,13 @@ $route['manage_event/get_event'] = 'admin/ManageEventController/getEventById';
 $route['manage_event/create_candidate'] = 'admin/ManageEventController/createCandidate';
 // ------------------------ END ADMIN ROUTES -----------------------------
 
+// ----------------------- BEGIN USER ROUTES ----------------------------
+$route['noevent'] = 'user/PageController/noEvent';
+$route['waiting-start'] = 'user/PageController/waitingStart';
+$route['waiting-end'] = 'user/PageController/waitingEnd';
+$route['vote'] = 'user/PageController/vote';
+// ------------------------ END USER ROUTES -----------------------------
+
 // $route['my-account'] = 'user/account';
 
 /* End of file routes.php */

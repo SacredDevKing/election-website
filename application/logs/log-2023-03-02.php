@@ -27547,3 +27547,548 @@ DEBUG - 2023-03-02 07:08:44 --> Model Class Initialized
 DEBUG - 2023-03-02 07:08:44 --> Model Class Initialized
 DEBUG - 2023-03-02 07:08:44 --> Final output sent to browser
 DEBUG - 2023-03-02 07:08:44 --> Total execution time: 0.0576
+DEBUG - 2023-03-02 08:14:11 --> Config Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> Hooks Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> Utf8 Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> UTF-8 Support Enabled
+DEBUG - 2023-03-02 08:14:11 --> URI Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> Router Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> Output Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> Security Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> Input Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-02 08:14:11 --> Language Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> Language Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> Config Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> Loader Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-02 08:14:11 --> Helper loaded: url_helper
+DEBUG - 2023-03-02 08:14:11 --> User Agent Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> Template Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-02 08:14:11 --> Email Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-02 08:14:11 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-02 08:14:11 --> Session Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> Helper loaded: string_helper
+DEBUG - 2023-03-02 08:14:11 --> Encrypt Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> Database Driver Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> Session routines successfully run
+DEBUG - 2023-03-02 08:14:11 --> Model Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> Model Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> Helper loaded: date_helper
+DEBUG - 2023-03-02 08:14:11 --> Helper loaded: form_helper
+DEBUG - 2023-03-02 08:14:11 --> Form Validation Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> Controller Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> Final output sent to browser
+DEBUG - 2023-03-02 08:14:11 --> Total execution time: 0.1420
+DEBUG - 2023-03-02 08:14:11 --> Config Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> Hooks Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> Utf8 Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> UTF-8 Support Enabled
+DEBUG - 2023-03-02 08:14:11 --> URI Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> Router Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> No URI present. Default controller set.
+DEBUG - 2023-03-02 08:14:11 --> Output Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> Security Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> Input Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-02 08:14:11 --> Language Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> Language Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> Config Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> Loader Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-02 08:14:11 --> Helper loaded: url_helper
+DEBUG - 2023-03-02 08:14:11 --> User Agent Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> Template Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-02 08:14:11 --> Email Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-02 08:14:11 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-02 08:14:11 --> Session Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> Helper loaded: string_helper
+DEBUG - 2023-03-02 08:14:11 --> Encrypt Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> Database Driver Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> A session cookie was not found.
+DEBUG - 2023-03-02 08:14:11 --> Session routines successfully run
+DEBUG - 2023-03-02 08:14:11 --> Model Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> Model Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> Helper loaded: date_helper
+DEBUG - 2023-03-02 08:14:11 --> Helper loaded: form_helper
+DEBUG - 2023-03-02 08:14:11 --> Form Validation Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> Controller Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> Config Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> Hooks Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> Utf8 Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> UTF-8 Support Enabled
+DEBUG - 2023-03-02 08:14:11 --> URI Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> Router Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> Output Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> Security Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> Input Class Initialized
+DEBUG - 2023-03-02 08:14:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-02 08:14:11 --> Language Class Initialized
+DEBUG - 2023-03-02 08:14:12 --> Language Class Initialized
+DEBUG - 2023-03-02 08:14:12 --> Config Class Initialized
+DEBUG - 2023-03-02 08:14:12 --> Loader Class Initialized
+DEBUG - 2023-03-02 08:14:12 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-02 08:14:12 --> Helper loaded: url_helper
+DEBUG - 2023-03-02 08:14:12 --> User Agent Class Initialized
+DEBUG - 2023-03-02 08:14:12 --> Template Class Initialized
+DEBUG - 2023-03-02 08:14:12 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-02 08:14:12 --> Email Class Initialized
+DEBUG - 2023-03-02 08:14:12 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-02 08:14:12 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-02 08:14:12 --> Session Class Initialized
+DEBUG - 2023-03-02 08:14:12 --> Helper loaded: string_helper
+DEBUG - 2023-03-02 08:14:12 --> Encrypt Class Initialized
+DEBUG - 2023-03-02 08:14:12 --> Database Driver Class Initialized
+DEBUG - 2023-03-02 08:14:12 --> Session routines successfully run
+DEBUG - 2023-03-02 08:14:12 --> Model Class Initialized
+DEBUG - 2023-03-02 08:14:12 --> Model Class Initialized
+DEBUG - 2023-03-02 08:14:12 --> Helper loaded: date_helper
+DEBUG - 2023-03-02 08:14:12 --> Helper loaded: form_helper
+DEBUG - 2023-03-02 08:14:12 --> Form Validation Class Initialized
+DEBUG - 2023-03-02 08:14:12 --> Controller Class Initialized
+DEBUG - 2023-03-02 08:14:12 --> File loaded: application/views/auth/layouts/header.php
+DEBUG - 2023-03-02 08:14:12 --> File loaded: application/views/auth/login.php
+DEBUG - 2023-03-02 08:14:12 --> File loaded: application/views/auth/layouts/footer.php
+DEBUG - 2023-03-02 08:14:12 --> Final output sent to browser
+DEBUG - 2023-03-02 08:14:12 --> Total execution time: 0.0617
+DEBUG - 2023-03-02 08:14:12 --> Config Class Initialized
+DEBUG - 2023-03-02 08:14:12 --> Hooks Class Initialized
+DEBUG - 2023-03-02 08:14:12 --> Utf8 Class Initialized
+DEBUG - 2023-03-02 08:14:12 --> UTF-8 Support Enabled
+DEBUG - 2023-03-02 08:14:12 --> URI Class Initialized
+DEBUG - 2023-03-02 08:14:12 --> Router Class Initialized
+ERROR - 2023-03-02 08:14:12 --> 404 Page Not Found --> 
+DEBUG - 2023-03-02 08:14:13 --> Config Class Initialized
+DEBUG - 2023-03-02 08:14:13 --> Hooks Class Initialized
+DEBUG - 2023-03-02 08:14:13 --> Utf8 Class Initialized
+DEBUG - 2023-03-02 08:14:13 --> UTF-8 Support Enabled
+DEBUG - 2023-03-02 08:14:13 --> URI Class Initialized
+DEBUG - 2023-03-02 08:14:13 --> Router Class Initialized
+DEBUG - 2023-03-02 08:14:13 --> Output Class Initialized
+DEBUG - 2023-03-02 08:14:13 --> Security Class Initialized
+DEBUG - 2023-03-02 08:14:13 --> Input Class Initialized
+DEBUG - 2023-03-02 08:14:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-02 08:14:13 --> Language Class Initialized
+DEBUG - 2023-03-02 08:14:13 --> Language Class Initialized
+DEBUG - 2023-03-02 08:14:13 --> Config Class Initialized
+DEBUG - 2023-03-02 08:14:13 --> Loader Class Initialized
+DEBUG - 2023-03-02 08:14:13 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-02 08:14:13 --> Helper loaded: url_helper
+DEBUG - 2023-03-02 08:14:13 --> User Agent Class Initialized
+DEBUG - 2023-03-02 08:14:13 --> Template Class Initialized
+DEBUG - 2023-03-02 08:14:13 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-02 08:14:13 --> Email Class Initialized
+DEBUG - 2023-03-02 08:14:13 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-02 08:14:13 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-02 08:14:13 --> Session Class Initialized
+DEBUG - 2023-03-02 08:14:13 --> Helper loaded: string_helper
+DEBUG - 2023-03-02 08:14:13 --> Encrypt Class Initialized
+DEBUG - 2023-03-02 08:14:13 --> Database Driver Class Initialized
+DEBUG - 2023-03-02 08:14:13 --> Session routines successfully run
+DEBUG - 2023-03-02 08:14:13 --> Model Class Initialized
+DEBUG - 2023-03-02 08:14:13 --> Model Class Initialized
+DEBUG - 2023-03-02 08:14:13 --> Helper loaded: date_helper
+DEBUG - 2023-03-02 08:14:13 --> Helper loaded: form_helper
+DEBUG - 2023-03-02 08:14:13 --> Form Validation Class Initialized
+DEBUG - 2023-03-02 08:14:13 --> Controller Class Initialized
+DEBUG - 2023-03-02 08:14:13 --> File loaded: application/views/auth/layouts/header.php
+DEBUG - 2023-03-02 08:14:13 --> File loaded: application/views/auth/login.php
+DEBUG - 2023-03-02 08:14:13 --> File loaded: application/views/auth/layouts/footer.php
+DEBUG - 2023-03-02 08:14:13 --> Final output sent to browser
+DEBUG - 2023-03-02 08:14:13 --> Total execution time: 0.0551
+DEBUG - 2023-03-02 08:14:13 --> Config Class Initialized
+DEBUG - 2023-03-02 08:14:13 --> Hooks Class Initialized
+DEBUG - 2023-03-02 08:14:13 --> Utf8 Class Initialized
+DEBUG - 2023-03-02 08:14:13 --> UTF-8 Support Enabled
+DEBUG - 2023-03-02 08:14:13 --> URI Class Initialized
+DEBUG - 2023-03-02 08:14:13 --> Router Class Initialized
+ERROR - 2023-03-02 08:14:13 --> 404 Page Not Found --> 
+DEBUG - 2023-03-02 08:14:28 --> Config Class Initialized
+DEBUG - 2023-03-02 08:14:28 --> Hooks Class Initialized
+DEBUG - 2023-03-02 08:14:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-02 08:14:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-02 08:14:28 --> URI Class Initialized
+DEBUG - 2023-03-02 08:14:28 --> Router Class Initialized
+DEBUG - 2023-03-02 08:14:28 --> Output Class Initialized
+DEBUG - 2023-03-02 08:14:28 --> Security Class Initialized
+DEBUG - 2023-03-02 08:14:28 --> Input Class Initialized
+DEBUG - 2023-03-02 08:14:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-02 08:14:28 --> Language Class Initialized
+DEBUG - 2023-03-02 08:14:28 --> Language Class Initialized
+DEBUG - 2023-03-02 08:14:28 --> Config Class Initialized
+DEBUG - 2023-03-02 08:14:28 --> Loader Class Initialized
+DEBUG - 2023-03-02 08:14:28 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-02 08:14:28 --> Helper loaded: url_helper
+DEBUG - 2023-03-02 08:14:28 --> User Agent Class Initialized
+DEBUG - 2023-03-02 08:14:28 --> Template Class Initialized
+DEBUG - 2023-03-02 08:14:28 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-02 08:14:28 --> Email Class Initialized
+DEBUG - 2023-03-02 08:14:28 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-02 08:14:28 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-02 08:14:28 --> Session Class Initialized
+DEBUG - 2023-03-02 08:14:28 --> Helper loaded: string_helper
+DEBUG - 2023-03-02 08:14:28 --> Encrypt Class Initialized
+DEBUG - 2023-03-02 08:14:28 --> Database Driver Class Initialized
+DEBUG - 2023-03-02 08:14:28 --> Session routines successfully run
+DEBUG - 2023-03-02 08:14:28 --> Model Class Initialized
+DEBUG - 2023-03-02 08:14:28 --> Model Class Initialized
+DEBUG - 2023-03-02 08:14:28 --> Helper loaded: date_helper
+DEBUG - 2023-03-02 08:14:28 --> Helper loaded: form_helper
+DEBUG - 2023-03-02 08:14:28 --> Form Validation Class Initialized
+DEBUG - 2023-03-02 08:14:28 --> Controller Class Initialized
+DEBUG - 2023-03-02 08:14:28 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2023-03-02 08:14:28 --> Final output sent to browser
+DEBUG - 2023-03-02 08:14:28 --> Total execution time: 0.1674
+DEBUG - 2023-03-02 08:14:33 --> Config Class Initialized
+DEBUG - 2023-03-02 08:14:33 --> Hooks Class Initialized
+DEBUG - 2023-03-02 08:14:33 --> Utf8 Class Initialized
+DEBUG - 2023-03-02 08:14:33 --> UTF-8 Support Enabled
+DEBUG - 2023-03-02 08:14:33 --> URI Class Initialized
+DEBUG - 2023-03-02 08:14:33 --> Router Class Initialized
+DEBUG - 2023-03-02 08:14:33 --> Output Class Initialized
+DEBUG - 2023-03-02 08:14:33 --> Security Class Initialized
+DEBUG - 2023-03-02 08:14:33 --> Input Class Initialized
+DEBUG - 2023-03-02 08:14:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-02 08:14:33 --> Language Class Initialized
+DEBUG - 2023-03-02 08:14:33 --> Language Class Initialized
+DEBUG - 2023-03-02 08:14:33 --> Config Class Initialized
+DEBUG - 2023-03-02 08:14:33 --> Loader Class Initialized
+DEBUG - 2023-03-02 08:14:33 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-02 08:14:33 --> Helper loaded: url_helper
+DEBUG - 2023-03-02 08:14:33 --> User Agent Class Initialized
+DEBUG - 2023-03-02 08:14:33 --> Template Class Initialized
+DEBUG - 2023-03-02 08:14:33 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-02 08:14:33 --> Email Class Initialized
+DEBUG - 2023-03-02 08:14:33 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-02 08:14:33 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-02 08:14:33 --> Session Class Initialized
+DEBUG - 2023-03-02 08:14:33 --> Helper loaded: string_helper
+DEBUG - 2023-03-02 08:14:33 --> Encrypt Class Initialized
+DEBUG - 2023-03-02 08:14:33 --> Database Driver Class Initialized
+DEBUG - 2023-03-02 08:14:33 --> Session routines successfully run
+DEBUG - 2023-03-02 08:14:33 --> Model Class Initialized
+DEBUG - 2023-03-02 08:14:33 --> Model Class Initialized
+DEBUG - 2023-03-02 08:14:33 --> Helper loaded: date_helper
+DEBUG - 2023-03-02 08:14:33 --> Helper loaded: form_helper
+DEBUG - 2023-03-02 08:14:33 --> Form Validation Class Initialized
+DEBUG - 2023-03-02 08:14:33 --> Controller Class Initialized
+DEBUG - 2023-03-02 08:14:33 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2023-03-02 08:14:33 --> Final output sent to browser
+DEBUG - 2023-03-02 08:14:33 --> Total execution time: 0.0483
+DEBUG - 2023-03-02 08:14:37 --> Config Class Initialized
+DEBUG - 2023-03-02 08:14:37 --> Hooks Class Initialized
+DEBUG - 2023-03-02 08:14:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-02 08:14:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-02 08:14:37 --> URI Class Initialized
+DEBUG - 2023-03-02 08:14:37 --> Router Class Initialized
+DEBUG - 2023-03-02 08:14:37 --> Output Class Initialized
+DEBUG - 2023-03-02 08:14:37 --> Security Class Initialized
+DEBUG - 2023-03-02 08:14:37 --> Input Class Initialized
+DEBUG - 2023-03-02 08:14:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-02 08:14:37 --> Language Class Initialized
+DEBUG - 2023-03-02 08:14:37 --> Language Class Initialized
+DEBUG - 2023-03-02 08:14:37 --> Config Class Initialized
+DEBUG - 2023-03-02 08:14:37 --> Loader Class Initialized
+DEBUG - 2023-03-02 08:14:37 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-02 08:14:37 --> Helper loaded: url_helper
+DEBUG - 2023-03-02 08:14:37 --> User Agent Class Initialized
+DEBUG - 2023-03-02 08:14:37 --> Template Class Initialized
+DEBUG - 2023-03-02 08:14:37 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-02 08:14:37 --> Email Class Initialized
+DEBUG - 2023-03-02 08:14:37 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-02 08:14:37 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-02 08:14:37 --> Session Class Initialized
+DEBUG - 2023-03-02 08:14:37 --> Helper loaded: string_helper
+DEBUG - 2023-03-02 08:14:37 --> Encrypt Class Initialized
+DEBUG - 2023-03-02 08:14:37 --> Database Driver Class Initialized
+DEBUG - 2023-03-02 08:14:37 --> Session routines successfully run
+DEBUG - 2023-03-02 08:14:37 --> Model Class Initialized
+DEBUG - 2023-03-02 08:14:37 --> Model Class Initialized
+DEBUG - 2023-03-02 08:14:37 --> Helper loaded: date_helper
+DEBUG - 2023-03-02 08:14:37 --> Helper loaded: form_helper
+DEBUG - 2023-03-02 08:14:37 --> Form Validation Class Initialized
+DEBUG - 2023-03-02 08:14:37 --> Controller Class Initialized
+DEBUG - 2023-03-02 08:14:37 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2023-03-02 08:14:37 --> Final output sent to browser
+DEBUG - 2023-03-02 08:14:37 --> Total execution time: 0.1317
+DEBUG - 2023-03-02 08:14:37 --> Config Class Initialized
+DEBUG - 2023-03-02 08:14:37 --> Hooks Class Initialized
+DEBUG - 2023-03-02 08:14:37 --> Utf8 Class Initialized
+DEBUG - 2023-03-02 08:14:37 --> UTF-8 Support Enabled
+DEBUG - 2023-03-02 08:14:37 --> URI Class Initialized
+DEBUG - 2023-03-02 08:14:37 --> Router Class Initialized
+DEBUG - 2023-03-02 08:14:37 --> Output Class Initialized
+DEBUG - 2023-03-02 08:14:37 --> Security Class Initialized
+DEBUG - 2023-03-02 08:14:37 --> Input Class Initialized
+DEBUG - 2023-03-02 08:14:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-02 08:14:37 --> Language Class Initialized
+DEBUG - 2023-03-02 08:14:37 --> Language Class Initialized
+DEBUG - 2023-03-02 08:14:37 --> Config Class Initialized
+DEBUG - 2023-03-02 08:14:37 --> Loader Class Initialized
+DEBUG - 2023-03-02 08:14:37 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-02 08:14:37 --> Helper loaded: url_helper
+DEBUG - 2023-03-02 08:14:37 --> User Agent Class Initialized
+DEBUG - 2023-03-02 08:14:37 --> Template Class Initialized
+DEBUG - 2023-03-02 08:14:37 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-02 08:14:37 --> Email Class Initialized
+DEBUG - 2023-03-02 08:14:37 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-02 08:14:37 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-02 08:14:37 --> Session Class Initialized
+DEBUG - 2023-03-02 08:14:37 --> Helper loaded: string_helper
+DEBUG - 2023-03-02 08:14:37 --> Encrypt Class Initialized
+DEBUG - 2023-03-02 08:14:37 --> Database Driver Class Initialized
+DEBUG - 2023-03-02 08:14:37 --> Session routines successfully run
+DEBUG - 2023-03-02 08:14:37 --> Model Class Initialized
+DEBUG - 2023-03-02 08:14:37 --> Model Class Initialized
+DEBUG - 2023-03-02 08:14:37 --> Helper loaded: date_helper
+DEBUG - 2023-03-02 08:14:37 --> Helper loaded: form_helper
+DEBUG - 2023-03-02 08:14:37 --> Form Validation Class Initialized
+DEBUG - 2023-03-02 08:14:37 --> Controller Class Initialized
+DEBUG - 2023-03-02 08:14:37 --> Helper loaded: mydate_helper
+DEBUG - 2023-03-02 08:14:37 --> Model Class Initialized
+DEBUG - 2023-03-02 08:14:37 --> Model Class Initialized
+DEBUG - 2023-03-02 08:14:37 --> File loaded: application/views/admin/layouts/header.php
+DEBUG - 2023-03-02 08:14:37 --> File loaded: application/views/admin/manage_event.php
+DEBUG - 2023-03-02 08:14:37 --> File loaded: application/views/admin/layouts/footer.php
+DEBUG - 2023-03-02 08:14:37 --> Final output sent to browser
+DEBUG - 2023-03-02 08:14:37 --> Total execution time: 0.0535
+DEBUG - 2023-03-02 08:14:38 --> Config Class Initialized
+DEBUG - 2023-03-02 08:14:38 --> Hooks Class Initialized
+DEBUG - 2023-03-02 08:14:38 --> Utf8 Class Initialized
+DEBUG - 2023-03-02 08:14:38 --> UTF-8 Support Enabled
+DEBUG - 2023-03-02 08:14:38 --> URI Class Initialized
+DEBUG - 2023-03-02 08:14:38 --> Router Class Initialized
+DEBUG - 2023-03-02 08:14:38 --> Output Class Initialized
+DEBUG - 2023-03-02 08:14:38 --> Security Class Initialized
+DEBUG - 2023-03-02 08:14:38 --> Input Class Initialized
+DEBUG - 2023-03-02 08:14:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-02 08:14:38 --> Language Class Initialized
+DEBUG - 2023-03-02 08:14:38 --> Language Class Initialized
+DEBUG - 2023-03-02 08:14:38 --> Config Class Initialized
+DEBUG - 2023-03-02 08:14:38 --> Loader Class Initialized
+DEBUG - 2023-03-02 08:14:38 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-02 08:14:38 --> Helper loaded: url_helper
+DEBUG - 2023-03-02 08:14:38 --> User Agent Class Initialized
+DEBUG - 2023-03-02 08:14:38 --> Template Class Initialized
+DEBUG - 2023-03-02 08:14:38 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-02 08:14:38 --> Email Class Initialized
+DEBUG - 2023-03-02 08:14:38 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-02 08:14:38 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-02 08:14:38 --> Session Class Initialized
+DEBUG - 2023-03-02 08:14:38 --> Helper loaded: string_helper
+DEBUG - 2023-03-02 08:14:38 --> Encrypt Class Initialized
+DEBUG - 2023-03-02 08:14:38 --> Database Driver Class Initialized
+DEBUG - 2023-03-02 08:14:38 --> Session routines successfully run
+DEBUG - 2023-03-02 08:14:38 --> Model Class Initialized
+DEBUG - 2023-03-02 08:14:38 --> Model Class Initialized
+DEBUG - 2023-03-02 08:14:38 --> Helper loaded: date_helper
+DEBUG - 2023-03-02 08:14:38 --> Helper loaded: form_helper
+DEBUG - 2023-03-02 08:14:38 --> Form Validation Class Initialized
+DEBUG - 2023-03-02 08:14:38 --> Controller Class Initialized
+DEBUG - 2023-03-02 08:14:38 --> Helper loaded: mydate_helper
+DEBUG - 2023-03-02 08:14:38 --> Model Class Initialized
+DEBUG - 2023-03-02 08:14:38 --> Model Class Initialized
+DEBUG - 2023-03-02 08:14:38 --> Final output sent to browser
+DEBUG - 2023-03-02 08:14:38 --> Total execution time: 0.0844
+DEBUG - 2023-03-02 08:14:59 --> Config Class Initialized
+DEBUG - 2023-03-02 08:14:59 --> Hooks Class Initialized
+DEBUG - 2023-03-02 08:14:59 --> Utf8 Class Initialized
+DEBUG - 2023-03-02 08:14:59 --> UTF-8 Support Enabled
+DEBUG - 2023-03-02 08:14:59 --> URI Class Initialized
+DEBUG - 2023-03-02 08:14:59 --> Router Class Initialized
+DEBUG - 2023-03-02 08:14:59 --> Output Class Initialized
+DEBUG - 2023-03-02 08:14:59 --> Security Class Initialized
+DEBUG - 2023-03-02 08:14:59 --> Input Class Initialized
+DEBUG - 2023-03-02 08:14:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-02 08:14:59 --> Language Class Initialized
+DEBUG - 2023-03-02 08:14:59 --> Language Class Initialized
+DEBUG - 2023-03-02 08:14:59 --> Config Class Initialized
+DEBUG - 2023-03-02 08:14:59 --> Loader Class Initialized
+DEBUG - 2023-03-02 08:14:59 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-02 08:14:59 --> Helper loaded: url_helper
+DEBUG - 2023-03-02 08:14:59 --> User Agent Class Initialized
+DEBUG - 2023-03-02 08:14:59 --> Template Class Initialized
+DEBUG - 2023-03-02 08:14:59 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-02 08:14:59 --> Email Class Initialized
+DEBUG - 2023-03-02 08:14:59 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-02 08:14:59 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-02 08:14:59 --> Session Class Initialized
+DEBUG - 2023-03-02 08:14:59 --> Helper loaded: string_helper
+DEBUG - 2023-03-02 08:14:59 --> Encrypt Class Initialized
+DEBUG - 2023-03-02 08:14:59 --> Database Driver Class Initialized
+DEBUG - 2023-03-02 08:14:59 --> Session routines successfully run
+DEBUG - 2023-03-02 08:14:59 --> Model Class Initialized
+DEBUG - 2023-03-02 08:14:59 --> Model Class Initialized
+DEBUG - 2023-03-02 08:14:59 --> Helper loaded: date_helper
+DEBUG - 2023-03-02 08:14:59 --> Helper loaded: form_helper
+DEBUG - 2023-03-02 08:14:59 --> Form Validation Class Initialized
+DEBUG - 2023-03-02 08:14:59 --> Controller Class Initialized
+DEBUG - 2023-03-02 08:14:59 --> Helper loaded: mydate_helper
+DEBUG - 2023-03-02 08:14:59 --> Model Class Initialized
+DEBUG - 2023-03-02 08:14:59 --> Model Class Initialized
+DEBUG - 2023-03-02 08:14:59 --> Final output sent to browser
+DEBUG - 2023-03-02 08:14:59 --> Total execution time: 0.0691
+DEBUG - 2023-03-02 08:16:14 --> Config Class Initialized
+DEBUG - 2023-03-02 08:16:14 --> Hooks Class Initialized
+DEBUG - 2023-03-02 08:16:14 --> Utf8 Class Initialized
+DEBUG - 2023-03-02 08:16:14 --> UTF-8 Support Enabled
+DEBUG - 2023-03-02 08:16:14 --> URI Class Initialized
+DEBUG - 2023-03-02 08:16:14 --> Router Class Initialized
+ERROR - 2023-03-02 08:16:14 --> 404 Page Not Found --> 
+DEBUG - 2023-03-02 08:16:21 --> Config Class Initialized
+DEBUG - 2023-03-02 08:16:21 --> Hooks Class Initialized
+DEBUG - 2023-03-02 08:16:21 --> Utf8 Class Initialized
+DEBUG - 2023-03-02 08:16:21 --> UTF-8 Support Enabled
+DEBUG - 2023-03-02 08:16:21 --> URI Class Initialized
+DEBUG - 2023-03-02 08:16:21 --> Router Class Initialized
+DEBUG - 2023-03-02 08:16:21 --> Output Class Initialized
+DEBUG - 2023-03-02 08:16:21 --> Security Class Initialized
+DEBUG - 2023-03-02 08:16:21 --> Input Class Initialized
+DEBUG - 2023-03-02 08:16:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-02 08:16:21 --> Language Class Initialized
+DEBUG - 2023-03-02 08:16:21 --> Language Class Initialized
+DEBUG - 2023-03-02 08:16:21 --> Config Class Initialized
+DEBUG - 2023-03-02 08:16:21 --> Loader Class Initialized
+DEBUG - 2023-03-02 08:16:21 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-02 08:16:21 --> Helper loaded: url_helper
+DEBUG - 2023-03-02 08:16:21 --> User Agent Class Initialized
+DEBUG - 2023-03-02 08:16:21 --> Template Class Initialized
+DEBUG - 2023-03-02 08:16:21 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-02 08:16:21 --> Email Class Initialized
+DEBUG - 2023-03-02 08:16:21 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-02 08:16:21 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-02 08:16:21 --> Session Class Initialized
+DEBUG - 2023-03-02 08:16:21 --> Helper loaded: string_helper
+DEBUG - 2023-03-02 08:16:21 --> Encrypt Class Initialized
+DEBUG - 2023-03-02 08:16:21 --> Database Driver Class Initialized
+DEBUG - 2023-03-02 08:16:21 --> Session routines successfully run
+DEBUG - 2023-03-02 08:16:21 --> Model Class Initialized
+DEBUG - 2023-03-02 08:16:21 --> Model Class Initialized
+DEBUG - 2023-03-02 08:16:21 --> Helper loaded: date_helper
+DEBUG - 2023-03-02 08:16:21 --> Helper loaded: form_helper
+DEBUG - 2023-03-02 08:16:21 --> Form Validation Class Initialized
+DEBUG - 2023-03-02 08:16:21 --> Controller Class Initialized
+DEBUG - 2023-03-02 08:16:21 --> File loaded: application/views/user/layouts/header.php
+DEBUG - 2023-03-02 08:16:21 --> File loaded: application/views/user/no_event.php
+DEBUG - 2023-03-02 08:16:21 --> File loaded: application/views/user/layouts/footer.php
+DEBUG - 2023-03-02 08:16:21 --> Final output sent to browser
+DEBUG - 2023-03-02 08:16:21 --> Total execution time: 0.0991
+DEBUG - 2023-03-02 08:17:18 --> Config Class Initialized
+DEBUG - 2023-03-02 08:17:18 --> Hooks Class Initialized
+DEBUG - 2023-03-02 08:17:18 --> Utf8 Class Initialized
+DEBUG - 2023-03-02 08:17:18 --> UTF-8 Support Enabled
+DEBUG - 2023-03-02 08:17:18 --> URI Class Initialized
+DEBUG - 2023-03-02 08:17:18 --> Router Class Initialized
+DEBUG - 2023-03-02 08:17:18 --> Output Class Initialized
+DEBUG - 2023-03-02 08:17:18 --> Security Class Initialized
+DEBUG - 2023-03-02 08:17:18 --> Input Class Initialized
+DEBUG - 2023-03-02 08:17:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-02 08:17:18 --> Language Class Initialized
+DEBUG - 2023-03-02 08:17:18 --> Language Class Initialized
+DEBUG - 2023-03-02 08:17:18 --> Config Class Initialized
+DEBUG - 2023-03-02 08:17:18 --> Loader Class Initialized
+DEBUG - 2023-03-02 08:17:18 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-02 08:17:18 --> Helper loaded: url_helper
+DEBUG - 2023-03-02 08:17:18 --> User Agent Class Initialized
+DEBUG - 2023-03-02 08:17:18 --> Template Class Initialized
+DEBUG - 2023-03-02 08:17:18 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-02 08:17:18 --> Email Class Initialized
+DEBUG - 2023-03-02 08:17:18 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-02 08:17:18 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-02 08:17:18 --> Session Class Initialized
+DEBUG - 2023-03-02 08:17:18 --> Helper loaded: string_helper
+DEBUG - 2023-03-02 08:17:18 --> Encrypt Class Initialized
+DEBUG - 2023-03-02 08:17:18 --> Database Driver Class Initialized
+DEBUG - 2023-03-02 08:17:18 --> Session routines successfully run
+DEBUG - 2023-03-02 08:17:18 --> Model Class Initialized
+DEBUG - 2023-03-02 08:17:18 --> Model Class Initialized
+DEBUG - 2023-03-02 08:17:18 --> Helper loaded: date_helper
+DEBUG - 2023-03-02 08:17:18 --> Helper loaded: form_helper
+DEBUG - 2023-03-02 08:17:18 --> Form Validation Class Initialized
+DEBUG - 2023-03-02 08:17:18 --> Controller Class Initialized
+DEBUG - 2023-03-02 08:17:18 --> File loaded: application/views/user/layouts/header.php
+DEBUG - 2023-03-02 08:17:18 --> File loaded: application/views/user/waiting_start.php
+DEBUG - 2023-03-02 08:17:18 --> File loaded: application/views/user/layouts/footer.php
+DEBUG - 2023-03-02 08:17:18 --> Final output sent to browser
+DEBUG - 2023-03-02 08:17:18 --> Total execution time: 0.0893
+DEBUG - 2023-03-02 08:17:28 --> Config Class Initialized
+DEBUG - 2023-03-02 08:17:28 --> Hooks Class Initialized
+DEBUG - 2023-03-02 08:17:28 --> Utf8 Class Initialized
+DEBUG - 2023-03-02 08:17:28 --> UTF-8 Support Enabled
+DEBUG - 2023-03-02 08:17:28 --> URI Class Initialized
+DEBUG - 2023-03-02 08:17:28 --> Router Class Initialized
+DEBUG - 2023-03-02 08:17:28 --> Output Class Initialized
+DEBUG - 2023-03-02 08:17:28 --> Security Class Initialized
+DEBUG - 2023-03-02 08:17:28 --> Input Class Initialized
+DEBUG - 2023-03-02 08:17:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-02 08:17:28 --> Language Class Initialized
+DEBUG - 2023-03-02 08:17:28 --> Language Class Initialized
+DEBUG - 2023-03-02 08:17:28 --> Config Class Initialized
+DEBUG - 2023-03-02 08:17:28 --> Loader Class Initialized
+DEBUG - 2023-03-02 08:17:28 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-02 08:17:28 --> Helper loaded: url_helper
+DEBUG - 2023-03-02 08:17:28 --> User Agent Class Initialized
+DEBUG - 2023-03-02 08:17:28 --> Template Class Initialized
+DEBUG - 2023-03-02 08:17:28 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-02 08:17:28 --> Email Class Initialized
+DEBUG - 2023-03-02 08:17:28 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-02 08:17:28 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-02 08:17:28 --> Session Class Initialized
+DEBUG - 2023-03-02 08:17:28 --> Helper loaded: string_helper
+DEBUG - 2023-03-02 08:17:28 --> Encrypt Class Initialized
+DEBUG - 2023-03-02 08:17:28 --> Database Driver Class Initialized
+DEBUG - 2023-03-02 08:17:28 --> Session garbage collection performed.
+DEBUG - 2023-03-02 08:17:28 --> Session routines successfully run
+DEBUG - 2023-03-02 08:17:28 --> Model Class Initialized
+DEBUG - 2023-03-02 08:17:28 --> Model Class Initialized
+DEBUG - 2023-03-02 08:17:28 --> Helper loaded: date_helper
+DEBUG - 2023-03-02 08:17:28 --> Helper loaded: form_helper
+DEBUG - 2023-03-02 08:17:28 --> Form Validation Class Initialized
+DEBUG - 2023-03-02 08:17:28 --> Controller Class Initialized
+DEBUG - 2023-03-02 08:17:28 --> File loaded: application/views/user/layouts/header.php
+DEBUG - 2023-03-02 08:17:28 --> File loaded: application/views/user/waiting_end.php
+DEBUG - 2023-03-02 08:17:28 --> File loaded: application/views/user/layouts/footer.php
+DEBUG - 2023-03-02 08:17:28 --> Final output sent to browser
+DEBUG - 2023-03-02 08:17:28 --> Total execution time: 0.0914
+DEBUG - 2023-03-02 08:17:34 --> Config Class Initialized
+DEBUG - 2023-03-02 08:17:34 --> Hooks Class Initialized
+DEBUG - 2023-03-02 08:17:34 --> Utf8 Class Initialized
+DEBUG - 2023-03-02 08:17:34 --> UTF-8 Support Enabled
+DEBUG - 2023-03-02 08:17:34 --> URI Class Initialized
+DEBUG - 2023-03-02 08:17:34 --> Router Class Initialized
+DEBUG - 2023-03-02 08:17:34 --> Output Class Initialized
+DEBUG - 2023-03-02 08:17:34 --> Security Class Initialized
+DEBUG - 2023-03-02 08:17:34 --> Input Class Initialized
+DEBUG - 2023-03-02 08:17:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2023-03-02 08:17:34 --> Language Class Initialized
+DEBUG - 2023-03-02 08:17:34 --> Language Class Initialized
+DEBUG - 2023-03-02 08:17:34 --> Config Class Initialized
+DEBUG - 2023-03-02 08:17:34 --> Loader Class Initialized
+DEBUG - 2023-03-02 08:17:34 --> Config file loaded: application/config/app.php
+DEBUG - 2023-03-02 08:17:34 --> Helper loaded: url_helper
+DEBUG - 2023-03-02 08:17:34 --> User Agent Class Initialized
+DEBUG - 2023-03-02 08:17:34 --> Template Class Initialized
+DEBUG - 2023-03-02 08:17:34 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2023-03-02 08:17:34 --> Email Class Initialized
+DEBUG - 2023-03-02 08:17:34 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2023-03-02 08:17:34 --> Helper loaded: cookie_helper
+DEBUG - 2023-03-02 08:17:34 --> Session Class Initialized
+DEBUG - 2023-03-02 08:17:34 --> Helper loaded: string_helper
+DEBUG - 2023-03-02 08:17:34 --> Encrypt Class Initialized
+DEBUG - 2023-03-02 08:17:34 --> Database Driver Class Initialized
+DEBUG - 2023-03-02 08:17:34 --> Session routines successfully run
+DEBUG - 2023-03-02 08:17:34 --> Model Class Initialized
+DEBUG - 2023-03-02 08:17:34 --> Model Class Initialized
+DEBUG - 2023-03-02 08:17:34 --> Helper loaded: date_helper
+DEBUG - 2023-03-02 08:17:34 --> Helper loaded: form_helper
+DEBUG - 2023-03-02 08:17:34 --> Form Validation Class Initialized
+DEBUG - 2023-03-02 08:17:34 --> Controller Class Initialized
+DEBUG - 2023-03-02 08:17:34 --> File loaded: application/views/user/layouts/header.php
+DEBUG - 2023-03-02 08:17:34 --> File loaded: application/views/user/vote.php
+DEBUG - 2023-03-02 08:17:34 --> File loaded: application/views/user/layouts/footer.php
+DEBUG - 2023-03-02 08:17:34 --> Final output sent to browser
+DEBUG - 2023-03-02 08:17:34 --> Total execution time: 0.1270
