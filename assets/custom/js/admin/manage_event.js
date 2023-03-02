@@ -54,6 +54,10 @@ $(document).ready(function () {
     $('#btn_candi_add_save').click(function () {
         createCandidate();
     });
+
+    $('#btn_candi_edit_save').click(function () {
+        updateCandidate();
+    })
 })
 
 /**
@@ -94,7 +98,7 @@ function addEventToList(id, name, isActive) {
     var electionTag = '<li id="electron_item_' + id + '" class="election-item" data-id=' + id + '>' +
         '<a id="electron_item_a_' + id + '" class="election-atag" href="javascript:void(0)">' +
         (isActive == "1" ? '<span class="label label-success pull-right"><i class="icon icon-checkmark4"></i></span>' : '') +
-        '<i class="icon-warning22 fa-fw"></i> <span id="electron_item_name_' + id + '">' + name + '</span>' +
+        '<i class="icon-stack-star fa-fw"></i> <span id="electron_item_name_' + id + '">' + name + '</span>' +
         '</a></li>';
     $('#event_list').append(electionTag);
 
@@ -141,29 +145,77 @@ function addEventToList(id, name, isActive) {
  *  Show candidate in list.
  */
 function addCandidateInPanel(id, photo, no, name, campaign) {
-    var candidateTag = '<li class="media">' +
-        '<div class="media-left">' +
-        '<a><img src="' + photo + '" alt=""></a>' +
+    var candidateTag = '<div id="candidate-item-' + id + '" class="candidate">' +
+        '<div class="panel panel-flat">' +
+        '<div class="panel-body">' +
+        '<div class="col-sm-12 no-padding">' +
+        '<div class="col-xs-12 col-sm-2">' +
+        '<figure id="candi-photo-' + id + '">' +
+        '<img src="' + photo + '" alt="" class="candi-photo img-circle img-responsive">' +
+        '</figure>' +
         '</div>' +
-        '<div class="media-body">' +
-        '<span>Number : ' + no + '</span><br>' +
-        '<span>Name : ' + name + '</span><br>' +
-        '<span>Campaign : ' + campaign + '</span>' +
+        '<div class="col-xs-12 col-sm-8">' +
+        '<h3 id="candi-span-num-' + id + '" class="no-margin"><strong>No:</strong> ' + no + '</h3>' +
+        '<h3 id="candi-span-name-' + id + '" class="no-margin"><strong>Name:</strong> ' + name + '</h3>' +
+        '<p id="candi-span-campaign-' + id + '"><strong>Campagin: </strong> ' + campaign + '</p>' +
         '</div>' +
-        '<div class="media-right">' +
-        '<span id="btn-candi-edit-' + id + '" class="btn btn-success btn-rounded btn-candi-edit btn-xs">Edit</span>' +
-        '<span id="btn-candi-delete-' + id + '" class="btn btn-danger btn-rounded btn-candi-delete btn-xs">Delete</span>' +
-        '</div>' +
-        '</li>';
+        '<div class="col-xs-12 col-sm-2">' +
+        '<div style="text-align: right;">' +
+        '<button  id="btn-candi-edit-' + id + '" class="btn border-success text-success btn-rounded btn-candi-edit btn-flat btn-xs"> <i class="icon icon-pencil7 position-left"></i> Edit</button>' +
+        '<button id="btn-candi-delete-' + id + '" class="btn border-danger text-danger btn-rounded btn-candi-edit btn-flat  btn-xs" >' +
+        '<i class="icon icon-eraser2 position-left"></i> Delete</button >' +
+        '</div > </div > </div > </div > </div > </div > ';
 
     $('#candidate_list').append(candidateTag);
 
     $('#btn-candi-edit-' + id).click(function () {
-        
+        $('#edit_candi_preview').css("background-image", "url(" + photo + ")");
+        $('#candi_edit_id').val(id);
+        $('#candi_edit_no').val(no);
+        $('#candi_edit_campaign').val(campaign);
+        $('#candi_edit_name').val(name);
+        $('#btn_trig_edit_candi_modal').trigger('click');
     });
 
     $('#btn-candi-delete-' + id).click(function () {
-        
+        var formData = {
+            id: id,
+        };
+
+        $.ajax({
+            url: BASE_URL + 'manage_event/delete_candidate',
+            type: "POST",
+            data: formData,
+            success: function (data) {
+                data = JSON.parse(data);
+
+                if (data['status'] == 'failed') {
+                    $errors = data['errors'];
+                    // showValidError('event_name', $errors['id']);
+                    return;
+                }
+
+                if (data['status'] == 'success') {
+                    // Reset input fields.
+                    $('#candidate-item-' + id).remove();
+
+                    new PNotify({
+                        title: 'Success',
+                        icon: 'icon-checkmark3',
+                        text: 'Candidate is deleted.',
+                        addclass: 'bg-success'
+                    });
+                }
+            },
+            error: function (err) {
+                new PNotify({
+                    title: 'Failed',
+                    icon: 'icon-blocked',
+                    text: 'Network connection is failed.',
+                    addclass: 'bg-danger'
+                });
+            }
+        });
     })
 }
 
@@ -172,13 +224,35 @@ function addCandidateInPanel(id, photo, no, name, campaign) {
  *  Show Event info in info tab.
  */
 function showEventInInfoPanel(event) {
-    $('#event_id').val(event['id']);
-    $('#event_name').val(event['name']);
-    $('#event_vote_opendate').val(event['opendate']);
-    $('#event_vote_opentime').val(event['opentime']);
-    $('#event_vote_closedate').val(event['closedate']);
-    $('#event_vote_closetime').val(event['closetime']);
-    $('#event_isactive').val(event['is_active']);
+    // Reset inputs
+    var id = event['id'];
+    var name = event['name'];
+    var opendate = event['opendate'];
+    var opentime = event['opentime'];
+    var closedate = event['closedate'];
+    var closetime = event['closetime'];
+    var isActive = event['is_active'];
+    var banner = event['event_banner'];
+
+    // Reset panel
+    $('#event-panel-title').html('Edit Event');
+    $('#btn_active').removeClass('display-none');
+    $('#btn_delete').removeClass('display-none');
+    // $('.banner-img-preview').css("background-image", "url(" + banner + ")");
+    $('.banner-img-preview').html("<img src='" + banner + "' style='width: 100%; height: auto;'>");
+
+    $('#event_id').val(id);
+    $('#event_name').val(name);
+    $('#event_vote_opendate').val(opendate);
+    $('#event_vote_opentime').val(opentime);
+    $('#event_vote_closedate').val(closedate);
+    $('#event_vote_closetime').val(closetime);
+    $('#event_isactive').val(isActive);
+
+    if (isActive == "0" || isActive == 0)
+        $('#btn_active').html('<i class="icon icon-checkmark4 position-left"></i> Active');
+    else
+        $('#btn_active').html('<i class="icon icon-x position-left"></i> Active');
     // $('#preview_img').html('<img src="' + event['event_banner'] + '">');
 }
 
@@ -216,7 +290,19 @@ function doLogout() {
  *  Show new event form.
  */
 function showNewEventForm() {
+    // Reset Event List
     $('.election-atag').removeClass('navigation-li-active');
+
+    // Reset Event Panel
+    $('#event-panel-title').html('Create New Event');
+    // $('.banner-img-preview').css("background-image", "url(" + BASE_URL + "/assets/custom/images/new_user.png)");
+    // $('.banner-img-preview').html("<img src='" + BASE_URL + "/assets/custom/images/new_user.png' style='width: 100%; height: auto; '>");
+    document.getElementById('event_banner').files = null;
+    $('#event_banner').val("");
+    $('.banner-img-preview').html("");
+
+    $('#btn_active').addClass('display-none');
+    $('#btn_delete').addClass('display-none');
 
     // Reset input fields.
     $('#event_id').val("-1");
@@ -234,6 +320,7 @@ function showNewEventForm() {
  *  Save event to server.
  */
 function doEventSave() {
+    // Check validation
     var validateFields = [{
         field_id: 'event_name',
         conditions: [
@@ -259,20 +346,56 @@ function doEventSave() {
         conditions: [
             'required' + CONST_VALIDATE_SPLITER + 'Select a time.'
         ]
-    }, {
-        field_id: 'event_banner',
-        conditions: [
-            'required' + CONST_VALIDATE_SPLITER + 'Banner is required.'
-        ]
     }];
     var isValid = doValidationForm(validateFields);
     if (!isValid)
         return;
 
+    // Check about closedate and opendate.
+    var openDate = $('#event_vote_opendate').val();
+    var openTime = $('#event_vote_opentime').val();
+    var closeDate = $('#event_vote_closedate').val();
+    var closeTime = $('#event_vote_closetime').val();
+    var openDateTime = makeDateTime(openDate, openTime);
+    var closeDateTime = makeDateTime(closeDate, closeTime);
+    if (openDateTime > closeDateTime) {
+        new PNotify({
+            title: 'Warning',
+            icon: 'icon-checkmark3',
+            text: 'Vote close date and time must be after vote open date and time.',
+            addclass: 'bg-danger'
+        });
+        return;
+    }
+
+    // Save data
     var filebanner = document.getElementById('event_banner');
     var imgFile = filebanner.files[0];
-    var reader = new FileReader();
 
+    if (imgFile == null) {
+        new PNotify({
+            title: 'Warning',
+            icon: 'icon-blocked',
+            text: 'Please select a banner image.',
+            addclass: 'bg-danger'
+        });
+        return;
+    }
+
+    // Check about Image size
+    var bannerWidth = $('#banner_width').val();
+    var bannerHeight = $('#banner_height').val();
+    if (bannerWidth > 600 || bannerHeight > 200) {
+        new PNotify({
+            title: 'Warning',
+            icon: 'icon-blocked',
+            text: 'Banner size must less than 600 * 200 px. Your image size is ' + bannerWidth + ' * ' + bannerHeight + ' px.',
+            addclass: 'bg-danger'
+        });
+        return;
+    }
+
+    var reader = new FileReader();
     reader.onload = function (e) {
         var formData = {
             name: $('#event_name').val(),
@@ -337,6 +460,7 @@ function doEventSave() {
  *  Update event to server.
  */
 function doEventUpdate() {
+    // Check Validation
     var validateFields = [{
         field_id: 'event_name',
         conditions: [
@@ -367,6 +491,55 @@ function doEventUpdate() {
     if (!isValid)
         return;
 
+    // Check about closedate and opendate.
+    var openDate = $('#event_vote_opendate').val();
+    var openTime = $('#event_vote_opentime').val();
+    var closeDate = $('#event_vote_closedate').val();
+    var closeTime = $('#event_vote_closetime').val();
+    var openDateTime = makeDateTime(openDate, openTime);
+    var closeDateTime = makeDateTime(closeDate, closeTime);
+    if (openDateTime > closeDateTime) {
+        new PNotify({
+            title: 'Warning',
+            icon: 'icon-checkmark3',
+            text: 'Vote close date and time must be after vote open date and time.',
+            addclass: 'bg-danger'
+        });
+        return;
+    }
+
+    // Banner
+    var filebanner = document.getElementById('event_banner');
+    var imgFile = filebanner.files[0];
+
+    if (imgFile != null) {
+        // Check about Image size
+        var bannerWidth = $('#banner_width').val();
+        var bannerHeight = $('#banner_height').val();
+        if (bannerWidth > 600 || bannerHeight > 200) {
+            new PNotify({
+                title: 'Warning',
+                icon: 'icon-blocked',
+                text: 'Banner size must less than 600 * 200 px. Your image size is ' + bannerWidth + ' * ' + bannerHeight + ' px.',
+                addclass: 'bg-danger'
+            });
+            return;
+        }
+
+        var reader = new FileReader();
+        reader.onload = function (e) {
+            updateEvent('data:image/png;base64,' + btoa(e.target.result));
+        };
+        reader.onerror = function (e) {
+            console.log('Error : ' + e.type);
+        };
+        reader.readAsBinaryString(imgFile);
+    } else {
+        updateEvent(null);
+    }
+}
+
+function updateEvent(banner) {
     var formData = {
         id: $('#event_id').val(),
         name: $('#event_name').val(),
@@ -374,6 +547,7 @@ function doEventUpdate() {
         openTime: $('#event_vote_opentime').val(),
         closeDate: $('#event_vote_closedate').val(),
         closeTime: $('#event_vote_closetime').val(),
+        banner: banner
     };
 
     $.ajax({
@@ -391,12 +565,6 @@ function doEventUpdate() {
             if (data['status'] == 'success') {
                 // Reset input fields.
                 $('#electron_item_name_' + formData.id).html(formData.name);
-                // $('#event_name').val("");
-                // $('#event_vote_opendate').val("");
-                // $('#event_vote_opentime').val("");
-                // $('#event_vote_closedate').val("");
-                // $('#event_vote_closetime').val("");
-                // $('#banner').val("");
 
                 new PNotify({
                     title: 'Success',
@@ -493,11 +661,11 @@ function doEventActive() {
 
                 // Reset activate field.
                 $('#event_isactive').val(event.is_active);
-                if (event.is_active == '0') {
+                if (event.is_active == '0' || event.is_active == 0) {
                     $('#btn_active').html('<i class="icon icon-checkmark4 position-left"></i>Active');
                     var electionSubTag =
-                        '<a id="electron_item_a_' + event.id + '" class="election-atag" href="javascript:void(0)">' +
-                        '<i class="icon-warning22 fa-fw"></i> <span id="electron_item_name_' + event.id + '">' + event.name + '</span>' +
+                        '<a id="electron_item_a_' + event.id + '" class="election-atag navigation-li-active" href="javascript:void(0)">' +
+                        '<i class="icon-stack-star fa-fw"></i> <span id="electron_item_name_' + event.id + '">' + event.name + '</span>' +
                         '</a>';
                     $('#electron_item_' + event.id).html(electionSubTag);
 
@@ -510,9 +678,9 @@ function doEventActive() {
                 } else {
                     $('#btn_active').html('<i class="icon icon-x position-left"></i>Active');
                     var electionSubTag =
-                        '<a id="electron_item_a_' + event.id + '" class="election-atag" href="javascript:void(0)">' +
+                        '<a id="electron_item_a_' + event.id + '" class="election-atag navigation-li-active" href="javascript:void(0)">' +
                         '<span class="label label-success pull-right"><i class="icon icon-checkmark4"></i></span>' +
-                        '<i class="icon-warning22 fa-fw"></i> <span id="electron_item_name_' + event.id + '">' + event.name + '</span>' +
+                        '<i class="icon-stack-star fa-fw"></i> <span id="electron_item_name_' + event.id + '">' + event.name + '</span>' +
                         '</a>';
                     $('#electron_item_' + event.id).html(electionSubTag);
 
@@ -541,12 +709,11 @@ function doEventActive() {
  *  Save Candidate.
  */
 function createCandidate() {
-
     if ($('#event_id').val() == -1) {
         new PNotify({
             title: 'Failed',
             icon: 'icon-blocked',
-            text: 'Please select a candidate',
+            text: 'Please select an event to add a new candidate.',
             addclass: 'bg-danger'
         });
         return;
@@ -582,7 +749,7 @@ function createCandidate() {
             no: $('#candi_add_no').val(),
             campaign: $('#candi_add_campaign').val(),
             name: $('#candi_add_name').val(),
-            photo: 'data:image/jpeg;base64,' + btoa(e.target.result),
+            photo: 'data:image/png;base64,' + btoa(e.target.result),
         };
 
         $.ajax({
@@ -635,19 +802,141 @@ function createCandidate() {
 }
 
 /**
+ * Update Candidate (Do validation and read photo info in binary)
+ */
+function updateCandidate() {
+    var validateFields = [{
+        field_id: 'candi_edit_no',
+        conditions: [
+            'required' + CONST_VALIDATE_SPLITER + 'Candidiate no is required.'
+        ]
+    }, {
+        field_id: 'candi_edit_campaign',
+        conditions: [
+            'required' + CONST_VALIDATE_SPLITER + 'Candidiate campaign is required.'
+        ]
+    }, {
+        field_id: 'candi_edit_name',
+        conditions: [
+            'required' + CONST_VALIDATE_SPLITER + 'Candidiate name is required.'
+        ]
+    }];
+    var isValid = doValidationForm(validateFields);
+    if (!isValid)
+        return;
+
+    var filebanner = document.getElementById('candi_edit_photo');
+    var imgFile = filebanner.files[0];
+    if (imgFile != null) {
+        var reader = new FileReader();
+        reader.onload = function (e) {
+            updateCandiItem('data:image/png;base64,' + btoa(e.target.result));
+        };
+        reader.onerror = function (e) {
+            console.log('Error : ' + e.type);
+        };
+        reader.readAsBinaryString(imgFile);
+    } else {
+        updateCandiItem(null);
+    }
+}
+
+/**
+ * Update Candidate in db.
+ * @param {binaryData} photo 
+ */
+function updateCandiItem(photo) {
+    var formData = {
+        id: $('#candi_edit_id').val(),
+        no: $('#candi_edit_no').val(),
+        campaign: $('#candi_edit_campaign').val(),
+        name: $('#candi_edit_name').val(),
+        photo: photo,
+    };
+
+    $.ajax({
+        url: BASE_URL + 'manage_event/update_candidate',
+        type: "POST",
+        data: formData,
+        success: function (data) {
+            data = JSON.parse(data);
+            var candidate = data['candidate'];
+
+            if (data['status'] == 'failed') {
+                $errors = data['errors'];
+                // showValidError('event_name', $errors['name']);
+                return;
+            }
+
+            if (data['status'] == 'success') {
+                // Reset items in candidate list.
+                $('#candi-photo-' + candidate.id).html('<img src="' + candidate.candi_photo + '" alt="" class="candi-photo img-circle img-responsive"></img>');
+                $('#candi-span-num-' + candidate.id).html('Number: ' + candidate.candi_no);
+                $('#candi-span-name-' + candidate.id).html('Name: ' + candidate.candi_name);
+                $('#candi-span-campaign-' + candidate.id).html('Campaign: ' + candidate.candi_campaign);
+
+                $('#btn_candi_edit_cancel').trigger('click');
+
+                new PNotify({
+                    title: 'Success',
+                    icon: 'icon-checkmark3',
+                    text: 'Candidate is updated.',
+                    addclass: 'bg-success'
+                });
+            }
+        },
+        error: function (err) {
+            new PNotify({
+                title: 'Failed',
+                icon: 'icon-blocked',
+                text: 'Network connection is failed.',
+                addclass: 'bg-danger'
+            });
+        }
+    });
+}
+
+/**
  * @description
  *  Upload Photo button
  */
-$(".imgAdd").click(function () {
-    $(this).closest(".row").find('.imgAdd').before('<div class="col-sm-2 imgUp"><div class="imagePreview"></div><label class="btn btn-primary">Upload<input type="file" class="uploadFile img" value="Upload Photo" style="width:0px;height:0px;overflow:hidden;"></label><i class="fa fa-times del"></i></div>');
-});
-$(document).on("click", "i.del", function () {
-    // 	to remove card
-    $(this).parent().remove();
-    // to clear image
-    // $(this).parent().find('.imagePreview').css("background-image","url('')");
-});
 $(function () {
+    $(document).on("change", ".upload-banner", function () {
+        var uploadFile = $(this);
+        var h, w;
+        var files = !!this.files ? this.files : [];
+        if (!files.length || !window.FileReader) return; // no file selected, or no FileReader support
+
+        if (/^image/.test(files[0].type)) { // only image file
+            var reader = new FileReader(); // instance of the FileReader
+            reader.readAsDataURL(files[0]); // read the local file
+
+            reader.onloadend = function () { // set image data as background of div
+                //alert(uploadFile.closest(".upimage").find('.imagePreview').length);
+                // uploadFile.closest(".banner-img-form-group").find('.banner-img-preview').css("background-image", "url(" + this.result + ")");
+                var binaryResult = this.result;
+                let tmpImgNode = document.createElement("img");
+                tmpImgNode.onload = function () {
+                    h = this.naturalHeight;
+                    w = this.naturalWidth;
+                    $('#banner_width').val(w);
+                    $('#banner_height').val(h);
+                    if (h <= 200 && w <= 600) {
+                    } else {
+                        new PNotify({
+                            title: 'Warning',
+                            icon: 'icon-blocked',
+                            text: 'Banner size must less than 600 * 200 px. Your image size is ' + w + ' * ' + h + ' px.',
+                            addclass: 'bg-danger'
+                        });
+                    }
+                }
+                tmpImgNode.src = this.result;
+                uploadFile.closest(".banner-img-form-group").find('.banner-img-preview').html("<img src='" + binaryResult + "' style='width: 100%; height: auto;'>");
+            }
+        }
+    });
+
     $(document).on("change", ".uploadFile", function () {
         var uploadFile = $(this);
         var files = !!this.files ? this.files : [];
@@ -658,10 +947,9 @@ $(function () {
             reader.readAsDataURL(files[0]); // read the local file
 
             reader.onloadend = function () { // set image data as background of div
-                //alert(uploadFile.closest(".upimage").find('.imagePreview').length);
                 uploadFile.closest(".imgUp").find('.imagePreview').css("background-image", "url(" + this.result + ")");
+                // uploadFile.closest(".imgUp").find('.imagePreview').html("<img src='" + this.result + "' style='width: 100%; height: auto;'>");
             }
         }
-
     });
 });

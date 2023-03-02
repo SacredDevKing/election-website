@@ -1,3 +1,7 @@
+.display-none {
+    display: none !important;
+}
+
 .navigation-li-active {
     background-color: #f8f8f8;
     color: #222;
@@ -5,32 +9,97 @@
     padding: 7px 20px 7px 17px;
 }
 
-/* Upload Photo */
-.imagePreview {
-    width: 120px;
-    height: 120px;
+.navigation-header {
+    text-align: center;
+    font-size: 19px !important;
+    color: black !important;
+    font-weight: bold !important;
+    border: 1px solid #efeef1 !important;
+    text-transform: none !important;
+}
+
+.panel-heading {
+    padding-bottom: 10px !important;
+    padding-top: 10px !important;
+    border: 1px solid #efeef1 !important;
+}
+
+.panel-title {
+    text-align: center;
+    font-size: 19px !important;
+    color: black !important;
+    font-weight: bold !important;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+label {
+    font-weight: 600 !important;
+}
+
+.ui-pnotify-text {
+    font-size: 13px;
+}
+
+.candi-avatar {
+    width: 100px !important;
+    height: 100px !important;
+    box-shadow: 1px 1px 1px 1px #33233323;
+    padding: 3px;
+    border-radius: 5px;
+}
+
+.candi-info {
+    font-size: 12px;
+}
+
+.candi-photo {
+    border-radius: 50%;
+    box-shadow: 1px 1px 1px 1px #33233323;
+}
+
+/* ---------------- Upload Banner --------------- */
+.banner-img-preview {
+    width: 100%;
+    min-height: 150px;
     background-position: center center;
-    background: url(http://cliquecities.com/assets/no-image-e3699ae23f866f6cbdf8ba2443ee5c4e.jpg);
+    /* background: url(../../images/new_user.png); */
     background-color: #fff;
     background-size: cover;
     background-repeat: no-repeat;
     display: inline-block;
-    box-shadow: 0px -3px 6px 2px rgba(0, 0, 0, 0.2);
+    box-shadow: 1px 1px 0px 2px #4b454b14;
+}
+
+/* --------------- Upload Photo ------------------ */
+.imagePreview {
+    width: 150px;
+    height: 150px;
+    background-position: center center;
+    background: url(../../images/new_user.png);
+    background-color: #fff;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+    border: 1px solid grey;
 }
 
 .btn-photo-upload {
     display: block;
     border-radius: 0px;
     width: 120px;
-    box-shadow: 0px 4px 6px 2px rgba(0, 0, 0, 0.2);
-    margin-top: -5px;
+    /* box-shadow: 0px 4px 6px 2px rgba(0, 0, 0, 0.2); */
+    margin-top: 5px;
+    border-radius: 50px;
     color: #fff;
-    background-color: #337ab7;
-    border-color: #2e6da4;
+    background-color: #3F51B5;
+    border-color: #3F51B5;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .imgUp {
-    margin-bottom: 15px;
+    text-align: center;
 }
 
 .del {
