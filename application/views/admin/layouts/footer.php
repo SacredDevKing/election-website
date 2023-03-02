@@ -16,7 +16,19 @@
 <script src="<?php echo base_url('/assets/global/js/forms/switchery.js?v=' . $randNum) ?>"></script>
 <script src="<?php echo base_url('/assets/global/js/forms/select2.min.js?v=' . $randNum) ?>"></script>
 <script src="<?php echo base_url('/assets/global/js/core.js?v=' . $randNum) ?>"></script>
+<script src="<?php echo base_url('/assets/global/js/pnotify.min.js?v=' . $randNum) ?>"></script>
 <!-- /global scripts -->
+
+<!-- Page scripts -->
+<script type="text/javascript" src="<?php echo base_url('/assets/global/js/moment.min.js?v=' . $randNum) ?>"></script>
+<script type="text/javascript"
+    src="<?php echo base_url('/assets/global/js/forms/daterangepicker.js?v=' . $randNum) ?>"></script>
+<script type="text/javascript" src="<?php echo base_url('/assets/global/js/forms/picker.js?v=' . $randNum) ?>"></script>
+<script type="text/javascript"
+    src="<?php echo base_url('/assets/global/js/forms/picker.date.js?v=' . $randNum) ?>"></script>
+<script type="text/javascript"
+    src="<?php echo base_url('/assets/global/js/forms/picker.time.js?v=' . $randNum) ?>"></script>
+<!-- /Page scripts -->
 
 <!-- Global Constants -->
 <script type="text/javascript">

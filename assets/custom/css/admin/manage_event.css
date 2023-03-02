@@ -1,0 +1,6 @@
+.navigation-li-active {
+    background-color: #f8f8f8;
+    color: #222;
+    border-left: 3px solid #4DD0E1;
+    padding: 7px 20px 7px 17px;
+}

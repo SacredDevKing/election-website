@@ -34,26 +34,8 @@
 				<div class="col-xs-12 col-md-3 col-sm-4">
 					<!-- Event List -->
 					<div class="panel panel-flat">
-						<ul class="nav navigation no-padding-top">
+						<ul id="event_list" class="nav navigation no-padding-top">
 							<li class="navigation-header">Event</li>
-							<li class="active">
-								<a href="javascript:void(0)">
-									<!-- <span class="label label-danger pull-right">420</span> -->
-									<i class="icon-ticket"></i> <span>Election 2023</span>
-								</a>
-							</li>
-							<li>
-								<a href="javascript:void(0)">
-									<span class="label label-danger pull-right">3</span>
-									<i class="icon-warning22 fa-fw"></i> <span>Election 2024</span>
-								</a>
-							</li>
-							<li>
-								<a href="javascript:void(0)">
-									<!-- <span class="label label-danger pull-right">160</span> -->
-									<i class="icon-folder-open2 fa-fw"></i> <span>Election 2025</span>
-								</a>
-							</li>
 						</ul>
 					</div>
 					<!-- /Event List -->
@@ -67,6 +49,97 @@
 							<h5 class="panel-title">Info</h5>
 						</div>
 						<div class="panel-body">
+							<form class="form-horizontal">
+								<input id="event_id" type="hidden" value="-1" />
+								<input id="event_isactive" type="hidden" value="0" />
+								<!-- Event Name -->
+								<div class="form-group">
+									<label class="control-label col-md-12"> Event Name
+										<span class="text-danger">*</span>
+									</label>
+									<div class="col-md-12">
+										<input id="event_name" type="text" class="form-control"
+											placeholder="Election 2025">
+										<label id="error_event_name" class="validation-error" for="event_name"></label>
+									</div>
+								</div>
+								<!-- /Event Name -->
+
+								<!-- Vote Open Date Time -->
+								<div class="form-group">
+									<label class="control-label col-md-12"> Vote Open Date Time
+										<span class="text-danger">*</span>
+									</label>
+									<div class="col-md-6">
+										<div class="input-group">
+											<span class="input-group-addon"><i class="icon-calendar"></i></span>
+											<input id="event_vote_opendate" type="text" class="form-control pickadate"
+												placeholder="Select">
+										</div>
+										<label id="error_event_vote_opendate" class="validation-error"
+											for="event_vote_opendate"></label>
+									</div>
+									<div class="col-md-6">
+										<div class="input-group">
+											<span class="input-group-addon"><i class="icon-alarm"></i></span>
+											<input id="event_vote_opentime" type="text" class="form-control pickatime"
+												placeholder="Select">
+										</div>
+										<label id="error_event_vote_opentime" class="validation-error"
+											for="event_vote_opentime"></label>
+									</div>
+								</div>
+								<!-- /Vote Open Date Time -->
+
+								<!-- Vote Close Date Time -->
+								<div class="form-group">
+									<label class="control-label col-md-12"> Vote Close Date Time
+										<span class="text-danger">*</span>
+									</label>
+									<div class="col-md-6">
+										<div class="input-group">
+											<span class="input-group-addon"><i class="icon-calendar"></i></span>
+											<input id="event_vote_closedate" type="text" class="form-control pickadate"
+												placeholder="Select">
+										</div>
+										<label id="error_event_vote_closedate" class="validation-error"
+											for="event_vote_closedate"></label>
+									</div>
+									<div class="col-md-6">
+										<div class="input-group">
+											<span class="input-group-addon"><i class="icon-alarm"></i></span>
+											<input id="event_vote_closetime" type="text" class="form-control pickatime"
+												placeholder="Select">
+										</div>
+										<label id="error_event_vote_closetime" class="validation-error"
+											for="event_vote_closetime"></label>
+									</div>
+								</div>
+								<!-- /Vote Close Date Time -->
+
+								<!-- Event Banner -->
+								<div class="form-group">
+									<label class="control-label col-md-12"> Event Banner (600 * 200 px)
+										<span class="text-danger">*</span>
+									</label>
+									<div class="col-md-12">
+										<input id="event_banner" type="file" class="form-control"
+											placeholder="Election 2025">
+										<label id="error_event_banner" class="validation-error"
+											for="event_banner"></label>
+									</div>
+								</div>
+								<!-- /Event Banner -->
+
+
+								<div id="preview_img"></div>
+
+								<button id="btn_active" type="button" class="btn bg-amber btn-rounded">
+									<i class="icon icon-checkmark4 position-left"></i>Active
+								</button>
+								<button id="btn_save" type="button" class="btn btn-success btn-rounded">Save</button>
+								<button id="btn_delete" type="button" class="btn btn-danger btn-rounded">Delete</button>
+							</form>
 						</div>
 					</div>
 					<!-- /Event Info -->

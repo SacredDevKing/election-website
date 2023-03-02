@@ -56,6 +56,12 @@ $route['forgot-password'] = 'user/forgot_password';
 
 // ----------------------- BEGIN ADMIN ROUTES ----------------------------
 $route['manage_event'] = 'admin/ManageEventController';
+$route['manage_event/create_event'] = 'admin/ManageEventController/createEvent';
+$route['manage_event/update_event'] = 'admin/ManageEventController/updateEvent';
+$route['manage_event/delete_event'] = 'admin/ManageEventController/deleteEvent';
+$route['manage_event/active_event'] = 'admin/ManageEventController/activeEvent';
+$route['manage_event/get_all_events'] = 'admin/ManageEventController/getAllEvents';
+$route['manage_event/get_event'] = 'admin/ManageEventController/getEventById';
 // ------------------------ END ADMIN ROUTES -----------------------------
 
 // $route['my-account'] = 'user/account';
