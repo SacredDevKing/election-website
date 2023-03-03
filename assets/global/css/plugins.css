@@ -1795,9 +1795,9 @@ Sweet alert
 }
 body.stop-scrolling {height: 100%;overflow: hidden;}
 .sweet-overlay {background-color: rgba(0, 0, 0, 0.4);position: fixed;left: 0;right: 0;top: 0;bottom: 0;display: none;z-index: 1040;}
-.sweet-alert {background-color: #ffffff;width: 478px;padding: 17px;border-radius: 5px;text-align: center;position: fixed;left: 50%;top: 50%;margin-left: -256px;margin-top: -200px;overflow: hidden;display: none;z-index: 2000;}
+.sweet-alert {z-index:99999;background-color: #ffffff;width: 478px;padding: 17px;border-radius: 5px;text-align: center;position: fixed;left: 50%;top: 50%;margin-left: -256px;margin-top: -200px;overflow: hidden;display: none;z-index: 2000;}
 @media all and (max-width: 767px) {
-	.sweet-alert {width: auto;margin-left: 0;margin-right: 0;left: 15px;right: 15px;}
+	.sweet-alert {z-index:99999;width: auto;margin-left: 0;margin-right: 0;left: 15px;right: 15px;}
 }
 .sweet-alert .form-group {display: none;}
 .sweet-alert .form-group .sa-input-error {display: none;}

@@ -10,23 +10,42 @@
 			</div>
 		</div>
 	</div>
-	<header class="main-nav clearfix">
-	</header>
+	<!-- <header class="main-nav clearfix">
+	</header> -->
 
+	<!-- Header -->
+	<header id="header">
+		<div class="container">
+			<div class="region region-branding">
+				<div id="block-sitebranding" class="block block-system block-system-branding-block">
+					<a href="/" title="Home" rel="home" class="site-logo">
+						<img src="<?php echo base_url('/assets/global/images/Logo.png?v=' . $randNum) ?>" alt="Home">
+					</a>
+				</div>
+			</div>
+			<div class="region region-header">
+				<div id="block-callusnumber"
+					class="block block-block-content block-block-content8f7c1f71-dc01-467c-8bb4-10182041217c">
+					<div
+						class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item">
+						<div class="large-call center notranslate">1-866-Vote-NYC</div>
+						<h4 class="center notranslate" style="color:#ffffff; margin: 0!important;">TTY-212-487-5496
+						</h4>
+					</div>
+				</div>
+			</div>
+		</div>
+	</header>
 	<!--Page Container-->
 	<section class="main-container">
 		<!--Page Header-->
-		<div class="header">
+		<!-- <div class="header">
 			<div class="header-content">
 				<div class="page-title">
 					<i class="icon-lifebuoy position-left"></i> Event Management
 				</div>
-				<!-- <ul class="breadcrumb">
-					<li><a href="index.htm">Home</a></li>
-					<li class="active">Support</li>
-				</ul> -->
 			</div>
-		</div>
+		</div> -->
 		<!--/Page Header-->
 
 		<div class="container-fluid page-content">
@@ -50,7 +69,7 @@
 					<!-- Event Info -->
 					<div class="panel panel-flat">
 						<div class="panel-heading">
-							<h5 id="event-panel-title" class="panel-title">Edit Event</h5>
+							<h5 id="event-panel-title" class="panel-title">Create New Event</h5>
 						</div>
 						<div class="panel-body">
 							<form class="form-horizontal">
@@ -152,13 +171,15 @@
 								</div>
 								<div class="row">
 									<div class="col-sm-12" style="text-align: right;">
-										<button id="btn_active" type="button" class="btn btn-success btn-rounded">
+										<button id="btn_active" type="button"
+											class="btn btn-success btn-rounded display-none">
 											<i class="icon icon-checkmark4 position-left"></i> Active
 										</button>
 										<button id="btn_save" type="button" class="btn bg-indigo btn-rounded">
 											<i class="icon icon-pencil6 position-left"></i> Save
 										</button>
-										<button id="btn_delete" type="button" class="btn btn-danger btn-rounded">
+										<button id="btn_delete" type="button"
+											class="btn btn-danger btn-rounded display-none">
 											<i class="icon icon-eraser2 position-left"></i> Delete
 										</button>
 									</div>
@@ -168,13 +189,13 @@
 					</div>
 					<!-- /Event Info -->
 					<!-- Candidate Info -->
-					<div class="panel panel-flat">
+					<div id="panel-candidate" class="panel panel-flat display-none">
 						<div class="panel-heading">
 							<h5 class="panel-title">Candidate</h5>
 						</div>
 						<div class="panel-body">
 							<ul id="candidate_list" class="media-list media-list-bordered">
-								<div class="candidate">
+								<!-- <div class="candidate">
 									<div class="panel panel-flat">
 										<div class="panel-body">
 											<div class="col-sm-12 no-padding">
@@ -208,7 +229,7 @@
 											</div>
 										</div>
 									</div>
-								</div>
+								</div> -->
 								<!-- <li class="media">
 									<div class="media-left">
 										<a><img src="assets/images/faces/face3.png" alt=""></a>
@@ -280,14 +301,6 @@
 									<label id="error_candi_add_no" class="validation-error" for="candi_add_no"></label>
 								</div>
 								<!-- /No -->
-								<!-- Candidate Campaign -->
-								<div class="form-group">
-									<input id="candi_add_campaign" type="text" class="form-control"
-										placeholder="Campaign">
-									<label id="error_candi_add_campaign" class="validation-error"
-										for="candi_add_campaign"></label>
-								</div>
-								<!-- /Candidate Campaign -->
 								<!-- Candidate Name -->
 								<div class="form-group">
 									<input id="candi_add_name" type="text" class="form-control" placeholder="Name">
@@ -295,6 +308,14 @@
 										for="candi_add_name"></label>
 								</div>
 								<!-- /Candidate Name -->
+								<!-- Candidate Campaign -->
+								<div class="form-group">
+									<textarea id="candi_add_campaign" type="text" class="form-control"
+										placeholder="Campaign" rows="5"></textarea>
+									<label id="error_candi_add_campaign" class="validation-error"
+										for="candi_add_campaign"></label>
+								</div>
+								<!-- /Candidate Campaign -->
 							</form>
 						</div>
 					</div>
@@ -347,14 +368,6 @@
 										for="candi_edit_no"></label>
 								</div>
 								<!-- /No -->
-								<!-- Candidate Campaign -->
-								<div class="form-group">
-									<input id="candi_edit_campaign" type="text" class="form-control"
-										placeholder="Campaign">
-									<label id="error_candi_edit_campaign" class="validation-error"
-										for="candi_edit_campaign"></label>
-								</div>
-								<!-- /Candidate Campaign -->
 								<!-- Candidate Name -->
 								<div class="form-group">
 									<input id="candi_edit_name" type="text" class="form-control" placeholder="Name">
@@ -362,6 +375,14 @@
 										for="candi_edit_name"></label>
 								</div>
 								<!-- /Candidate Name -->
+								<!-- Candidate Campaign -->
+								<div class="form-group">
+									<textarea id="candi_edit_campaign" type="text" class="form-control"
+										placeholder="Campaign" rows="5"></textarea>
+									<label id="error_candi_edit_campaign" class="validation-error"
+										for="candi_edit_campaign"></label>
+								</div>
+								<!-- /Candidate Campaign -->
 							</form>
 						</div>
 					</div>

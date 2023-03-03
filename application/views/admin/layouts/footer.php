@@ -17,6 +17,8 @@
 <script src="<?php echo base_url('/assets/global/js/forms/select2.min.js?v=' . $randNum) ?>"></script>
 <script src="<?php echo base_url('/assets/global/js/core.js?v=' . $randNum) ?>"></script>
 <script src="<?php echo base_url('/assets/global/js/pnotify.min.js?v=' . $randNum) ?>"></script>
+<script type="text/javascript"
+    src="<?php echo base_url('/assets/global/js/sweetalert.js?v=' . $randNum) ?>"></script>
 <!-- /global scripts -->
 
 <!-- Page scripts -->
@@ -41,8 +43,7 @@
     src="<?php echo base_url('/assets/custom/js/global/constants.js?v=' . $randNum) ?>"></script>
 <script type="text/javascript"
     src="<?php echo base_url('/assets/custom/js/global/cookie.js?v=' . $randNum) ?>"></script>
-<script type="text/javascript"
-    src="<?php echo base_url('/assets/custom/js/global/utils.js?v=' . $randNum) ?>"></script>
+<script type="text/javascript" src="<?php echo base_url('/assets/custom/js/global/utils.js?v=' . $randNum) ?>"></script>
 <script type="text/javascript"
     src="<?php echo base_url('/assets/custom/js/global/validator.js?v=' . $randNum) ?>"></script>
 <?php

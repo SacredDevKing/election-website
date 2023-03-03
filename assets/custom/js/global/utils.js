@@ -17,8 +17,26 @@ function makeDateTime(date, time) {
         hour = hour + 12;
     if (hour < 10)
         hour = '0' + hour;
-    
+
     time = hour + ":" + min + ":00";
 
     return date + " " + time;
+}
+
+/**
+ * Convert \n\r to <br>
+ * @param {String} content 
+ * @returns string
+ */
+function nl2br(content) {
+    return content.replace(/(?:\r\n|\r|\n)/g, '<br>');
+}
+
+/**
+ * Convert br tag to \n
+ * @param {string} str
+ * @returns string
+ */
+function br2nl(str) {
+    return str.replace(/<br\s*\/?>/mg, "\n");
 }
