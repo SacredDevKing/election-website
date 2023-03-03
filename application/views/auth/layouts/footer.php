@@ -1,8 +1,8 @@
 <!-- Footer -->
-<div class="footer text-size-mini">
+<!-- <div class="footer text-size-mini">
     &copy; 2016 Penguin - Web app kit by <a href="http://followtechnique.com"
         target="_blank">FollowTechnique</a>&nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;&nbsp;Version - 1.1.0
-</div>
+</div> -->
 <!-- /footer -->
 
 </div>

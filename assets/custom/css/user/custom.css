@@ -18,7 +18,7 @@ html {
 }
 
 #header .container {
-    max-width: 940px;
+    max-width: 1200px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -116,12 +116,18 @@ footer {
 }
 
 .banner-img {
+    width: 600px;
+    height: 200px;
     border-radius: 16px;
     box-shadow: 0.25rem 0.4rem 0.375rem -0.0625rem rgb(0 0 0 / 20%), 0.25rem 0.2rem 0.35rem -0.0625rem rgb(0 0 0 / 15%)
 }
 
 .candidates-container {
     margin-top: 32px;
+}
+
+.panel {
+    border-radius: 8px;
 }
 
 .panel-body {
@@ -145,6 +151,10 @@ footer {
     margin-bottom: 0 !important
 }
 
+.candidate-select-cnt {
+    font-weight: 600;
+}
+
 .vote-check {
     float: right;
 }
@@ -158,4 +168,18 @@ footer {
     height: 32px !important;
     border: 1px solid #4CAF50;
     box-shadow: none;
+}
+
+.no-vote-container {
+    position: relative;
+    display: block;
+}
+
+.no-vote-label {
+    font-size: 24px;
+    margin-top: 8px;
+}
+
+.action-btn-containers {
+    padding: 0 15px
 }

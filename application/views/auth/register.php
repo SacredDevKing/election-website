@@ -46,6 +46,11 @@
                 <b><i class="icon-user-plus"></i></b> Register now
             </button>
         </div>
+        <div class="form-group">
+            <button id="btn_to_login" type="button" class="btn btn-info btn-labeled btn-labeled-right btn-block">
+                <b><i class="icon-enter"></i></b> To Signin
+            </button>
+        </div>
     </div>
 
 </form>

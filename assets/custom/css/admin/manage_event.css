@@ -112,6 +112,10 @@
     background: #afadad;
 }
 
+.main-container {
+    min-height: auto !important;
+}
+
 .navigation-li-active {
     background-color: #f8f8f8;
     color: #222;
@@ -147,6 +151,19 @@
     font-weight: bold !important;
     padding-top: 3px;
     padding-bottom: 3px;
+}
+
+.field-event-list {
+    margin-bottom: 5px;
+}
+
+.field-new-event-btn {
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.field-logout-btn {
+    text-align: center;
 }
 
 label {

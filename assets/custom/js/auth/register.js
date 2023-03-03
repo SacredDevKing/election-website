@@ -7,6 +7,10 @@ $(document).ready(function () {
         $(this).attr('placeholder', $(this).data('placeholder'));
     });
 
+    $('#btn_to_login').click(function() {
+        document.location = BASE_URL + 'login';
+    });
+
     $('#btn_register').click(function () {
         doRegister();
     });

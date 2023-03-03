@@ -876,7 +876,7 @@ function updateCandiItem(photo) {
         var formData = {
             id: $('#candi_edit_id').val(),
             no: $('#candi_edit_no').val(),
-            campaign: $('#candi_edit_campaign').val(),
+            campaign: nl2br($('#candi_edit_campaign').val()),
             name: $('#candi_edit_name').val(),
             photo: photo,
         };

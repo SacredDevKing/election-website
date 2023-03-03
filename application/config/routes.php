@@ -73,6 +73,7 @@ $route['noevent'] = 'user/PageController/noEvent';
 $route['waiting-start'] = 'user/PageController/waitingStart';
 $route['waiting-end'] = 'user/PageController/waitingEnd';
 $route['vote'] = 'user/PageController/vote';
+$route['result'] = 'user/PageController/result';
 // ------------------------ END USER ROUTES -----------------------------
 
 // $route['my-account'] = 'user/account';

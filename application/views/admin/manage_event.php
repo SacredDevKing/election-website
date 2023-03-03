@@ -52,18 +52,22 @@
 			<div class="row">
 				<div class="col-xs-12 col-md-3 col-sm-4">
 					<!-- Event List -->
-					<div class="panel panel-flat">
+					<div class="panel panel-flat field-event-list">
 						<ul id="event_list" class="nav navigation no-padding-top">
 							<li class="navigation-header">Event</li>
 						</ul>
 					</div>
 					<!-- /Event List -->
-					<button id="btn_add_event" type="button" class="btn bg-indigo btn-rounded">
-						<i class="icon icon-pen-plus position-left"></i>Add New Event
-					</button>
-					<button id="btn_logout" type="button" class="btn bg-danger btn-rounded">
-						<i class="icon icon-exit2 position-left"></i>Logout
-					</button>
+					<div class="field-new-event-btn">
+						<button id="btn_add_event" type="button" class="btn bg-indigo btn-rounded">
+							<i class="icon icon-pen-plus position-left"></i>Add New Event
+						</button>
+					</div>
+					<div class="field-logout-btn">
+						<button id="btn_logout" type="button" class="btn bg-danger btn-rounded">
+							<i class="icon icon-exit2 position-left"></i>Log out
+						</button>
+					</div>
 				</div>
 				<div class="col-xs-12 col-md-9 col-sm-8">
 					<!-- Event Info -->
@@ -193,7 +197,18 @@
 						<div class="panel-heading">
 							<h5 class="panel-title">Candidate</h5>
 						</div>
-						<div class="panel-body">
+						<div class="panel-body" style="padding-bottom: 0px;">
+							<div style="text-align: center; padding-top: 15px; padding-bottom: 15px;">
+								<button type="button" data-toggle="modal" data-target="#modal_add_candidate"
+									class="btn bg-indigo btn-rounded">
+									<i class="icon icon-user-plus position-left"></i>
+									Add Candidate
+								</button>
+								<button id="btn_trig_edit_candi_modal" type="button" data-toggle="modal"
+									data-target="#modal_edit_candidate" class="btn bg-indigo btn-rounded"
+									style="display: none;">Edit
+									Candidate</button>
+							</div>
 							<ul id="candidate_list" class="media-list media-list-bordered">
 								<!-- <div class="candidate">
 									<div class="panel panel-flat">
@@ -247,17 +262,6 @@
 								</li> -->
 							</ul>
 
-							<div style="text-align: center; padding-top: 15px;">
-								<button type="button" data-toggle="modal" data-target="#modal_add_candidate"
-									class="btn bg-indigo btn-rounded">
-									<i class="icon icon-user-plus position-left"></i>
-									Add Candidate
-								</button>
-								<button id="btn_trig_edit_candi_modal" type="button" data-toggle="modal"
-									data-target="#modal_edit_candidate" class="btn bg-indigo btn-rounded"
-									style="display: none;">Edit
-									Candidate</button>
-							</div>
 						</div>
 					</div>
 					<!-- /Candidate Info -->
@@ -269,7 +273,7 @@
 
 	<!-- Create Candidate Modal -->
 	<div id="modal_add_candidate" class="modal fade">
-		<div class="modal-dialog" style="top: 250px;">
+		<div class="modal-dialog" style="top: 150px;">
 			<div class="modal-content">
 				<div class="modal-body">
 					<div class="row">
@@ -336,7 +340,7 @@
 
 	<!-- Edit Candidate Modal -->
 	<div id="modal_edit_candidate" class="modal fade">
-		<div class="modal-dialog" style="top: 250px;">
+		<div class="modal-dialog" style="top: 150px;">
 			<div class="modal-content">
 				<div class="modal-body">
 					<div class="row">

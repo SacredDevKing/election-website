@@ -57,9 +57,9 @@
                         class="block block-block-content block-block-content8f7c1f71-dc01-467c-8bb4-10182041217c">
                         <div
                             class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item">
-                            <div class="large-call center notranslate">1-866-Vote-NYC</div>
-                            <h4 class="center notranslate" style="color:#ffffff; margin: 0!important;">TTY-212-487-5496
-                            </h4>
+                            <div class="large-call center notranslate">1-555-Vote-BnagKokCity</div>
+                            <h3 class="center notranslate" style="color:#ffffff; margin: 0!important;">+66 640350984
+                            </h3>
                         </div>
                     </div>
                 </div>

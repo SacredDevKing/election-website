@@ -11,6 +11,12 @@
 </footer>
 </div>
 
+<!-- Global Constants -->
+<script type="text/javascript">
+var BASE_URL = "<?php echo base_url() ?>";
+</script>
+<!-- /Global Constants -->
+
 <!-- Begin Global scripts -->
 <script type="text/javascript" src="<?php echo base_url('/assets/global/js/jquery.js?v=' . $randNum) ?>">
 </script>
@@ -18,24 +24,10 @@
 </script>
 <script type="text/javascript" src="<?php echo base_url('/assets/global/js/forms/uniform.min.js?v=' . $randNum) ?>">
 </script>
-<!-- 
-<script src="js/jquery.ui.js"></script>
-<script src="js/nav.accordion.js"></script>
-<script src="js/hammerjs.js"></script>
-<script src="js/jquery.hammer.js"></script>
-<script src="js/scrollup.js"></script>
-<script src="js/jquery.slimscroll.js"></script>
-<script src="js/smart-resize.js"></script>
-<script src="js/blockui.min.js"></script>
-<script src="js/wow.min.js"></script>
-<script src="js/fancybox.min.js"></script>
-<script src="js/venobox.js"></script>
-<script src="js/forms/switchery.js"></script>
-<script src="js/forms/select2.min.js"></script>
-<script src="js/core.js"></script> -->
-
-
-<script src="<?php echo base_url('/assets/global/js/pnotify.min.js?v=' . $randNum) ?>"></script>
+<script type="text/javascript" src="<?php echo base_url('/assets/global/js/pnotify.min.js?v=' . $randNum) ?>">
+</script>
+<script type="text/javascript" src="<?php echo base_url('/assets/custom/js/global/global.js?v=' . $randNum) ?>">
+</script>
 <!-- End Global scripts -->
 
 <?php

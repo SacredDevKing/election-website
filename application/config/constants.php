@@ -49,6 +49,7 @@ defined('ROLE_ADMIN') or define('ROLE_ADMIN', '1'); // USER ROLE - Admin
 defined('STATUS_ACTIVE') or define('STATUS_ACTIVE', '1'); // Active - TRUE
 defined('STATUS_DISACTIVE') or define('STATUS_DISACTIVE', '0'); // Active - FALSE
 
+defined('BANNER_PATH') or define('BANNER_PATH', '/assets/global/images/banners/'); // banner url
 
 /* End of file constants.php */
 /* Location: ./application/config/constants.php */
