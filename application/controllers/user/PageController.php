@@ -5,6 +5,8 @@ class PageController extends UserBaseController
     public function __construct()
     {
         parent::__construct();
+        $this->load->model('eventModel');
+        $this->load->model('candidateModel');
     }
 
     /*
@@ -26,14 +28,22 @@ class PageController extends UserBaseController
     public function waitingStart()
     {
         $this->headerData[''] = '';
+        $event = $this->eventModel->getActiveEvent();
+        
+        $openDate = new DateTime($event['open_date']);
+        $openDateString = $openDate->format('j M Y, h:i');
+
+        $this->bodyData['event'] = $event;
+        $this->bodyData['openDate'] = $openDateString;
+        
         $this->footerData[''] = '';
         $this->footerData['pageJsArr'] = array(
             'assets/custom/js/user/jquery.countdown.min.js',
             'assets/custom/js/user/waiting_start.js'
         );
-
+        
         $this->load->view('user/layouts/header', $this->headerData);
-        $this->load->view('user/waiting_start');
+        $this->load->view('user/waiting_start', $this->bodyData);
         $this->load->view('user/layouts/footer', $this->footerData);
     }
 
@@ -57,7 +67,6 @@ class PageController extends UserBaseController
     /*
     *   Display Voting Event
     */
-
     public function vote()
     {
         $this->headerData[''] = '';
@@ -74,8 +83,29 @@ class PageController extends UserBaseController
             'assets/custom/js/user/vote.js'
         );
 
+        $event = $this->eventModel->getActiveEvent();
+        $candidates = $this->candidateModel->getCandidatesByEventId($event['id']);
+
+        $this->bodyData['event'] = $event;
+        $this->bodyData['candidates'] = $candidates;
+
         $this->load->view('user/layouts/header', $this->headerData);
-        $this->load->view('user/vote');
+        $this->load->view('user/vote', $this->bodyData);
+        $this->load->view('user/layouts/footer', $this->footerData);
+    }
+
+    /*
+    *   Display Voting Result
+    */
+    public function result()
+    {
+        $this->headerData[''] = '';
+        $this->footerData['pageJsArr'] = array(
+            'assets/custom/js/user/result.js'
+        );
+
+        $this->load->view('user/layouts/header', $this->headerData);
+        $this->load->view('user/result');
         $this->load->view('user/layouts/footer', $this->footerData);
     }
 }

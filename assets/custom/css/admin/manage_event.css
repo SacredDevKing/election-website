@@ -2,6 +2,120 @@
     display: none !important;
 }
 
+/* ------------------- HEADER ------------------ */
+
+#header {
+    background: url(../../../global/images/header_bg.png) repeat-x left top #01205e;
+    padding: 8px 2em;
+    position: relative;
+    z-index: 999;
+    max-width: unset;
+    text-align: center;
+}
+
+#header .container {
+    max-width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media screen and (min-width: 58.75em) {
+    #header {
+        padding: 14px 0;
+        text-align: left;
+    }
+}
+
+.region-branding {
+    width: 100%;
+    display: none;
+    text-align: center;
+}
+
+.region {
+    position: relative;
+}
+
+@media screen and (min-width: 48.125em) {
+    .region-branding {
+        float: left;
+        display: block;
+        margin-right: 2.12766%;
+        width: 65.95745%;
+        text-align: left;
+        padding-top: 10px;
+        display: block;
+    }
+}
+
+#block-callusnumber {
+    display: none;
+}
+
+@media screen and (min-width: 48.125em) {
+    #block-callusnumber {
+        display: block;
+    }
+}
+
+@media screen and (min-width: 48.125em) {
+    .region-header {
+        float: left;
+        display: block;
+        margin-right: 2.12766%;
+        width: 31.91489%;
+        text-align: right;
+        padding-top: 21px;
+    }
+
+    .region-header:last-child {
+        margin-right: 0;
+    }
+}
+
+.large-call {
+    font-size: 25px;
+    color: #99ccff;
+    font-weight: 400;
+}
+
+.text-brand {
+    font-size: 40px;
+    font-family: cursive !important;
+}
+
+.text-brand-blue {
+    color: #0a3a5a !important;
+}
+
+.header {
+    margin-top: 0px;
+}
+
+/* --------------------- /HEADER ------------------------- */
+
+::-webkit-scrollbar {
+    width: 6px;
+    height: 4px;
+}
+
+::-webkit-scrollbar-track {
+    background: #c9c9e5;
+    border-radius: 10px
+}
+
+::-webkit-scrollbar-thumb {
+    background: #3F51B5;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #afadad;
+}
+
+.main-container {
+    min-height: auto !important;
+}
+
 .navigation-li-active {
     background-color: #f8f8f8;
     color: #222;
@@ -18,6 +132,12 @@
     text-transform: none !important;
 }
 
+#event_list {
+    min-height: 300px;
+    max-height: 600px;
+    overflow: auto;
+}
+
 .panel-heading {
     padding-bottom: 10px !important;
     padding-top: 10px !important;
@@ -31,6 +151,19 @@
     font-weight: bold !important;
     padding-top: 3px;
     padding-bottom: 3px;
+}
+
+.field-event-list {
+    margin-bottom: 5px;
+}
+
+.field-new-event-btn {
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.field-logout-btn {
+    text-align: center;
 }
 
 label {
@@ -56,6 +189,10 @@ label {
 .candi-photo {
     border-radius: 50%;
     box-shadow: 1px 1px 1px 1px #33233323;
+}
+
+.sweet-alert {
+    z-index: 999999 !important;
 }
 
 /* ---------------- Upload Banner --------------- */

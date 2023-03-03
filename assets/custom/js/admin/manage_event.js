@@ -145,13 +145,13 @@ function addEventToList(id, name, isActive) {
  *  Show candidate in list.
  */
 function addCandidateInPanel(id, photo, no, name, campaign) {
-    var candidateTag = '<div id="candidate-item-' + id + '" class="candidate">' +
+    var candidateTag = '<div id="candidate-item-' + id + '" class="candidate" data-id="' + id + '" data-photo="' + photo + '" data-no="' + no + '" data-name="' + name + '" data-campaign="' + campaign + '">' +
         '<div class="panel panel-flat">' +
         '<div class="panel-body">' +
         '<div class="col-sm-12 no-padding">' +
         '<div class="col-xs-12 col-sm-2">' +
         '<figure id="candi-photo-' + id + '">' +
-        '<img src="' + photo + '" alt="" class="candi-photo img-circle img-responsive">' +
+        '<img id="candi-photo-img-' + id + '" src="' + photo + '" alt="" class="candi-photo img-circle img-responsive">' +
         '</figure>' +
         '</div>' +
         '<div class="col-xs-12 col-sm-8">' +
@@ -169,53 +169,21 @@ function addCandidateInPanel(id, photo, no, name, campaign) {
     $('#candidate_list').append(candidateTag);
 
     $('#btn-candi-edit-' + id).click(function () {
+        var photo = $('#candidate-item-' + id).attr('data-photo');
+        var no = $('#candidate-item-' + id).attr('data-no');
+        var campaign = $('#candidate-item-' + id).attr('data-campaign');
+        var name = $('#candidate-item-' + id).attr('data-name');
+
         $('#edit_candi_preview').css("background-image", "url(" + photo + ")");
         $('#candi_edit_id').val(id);
         $('#candi_edit_no').val(no);
-        $('#candi_edit_campaign').val(campaign);
+        $('#candi_edit_campaign').val(br2nl(campaign));
         $('#candi_edit_name').val(name);
         $('#btn_trig_edit_candi_modal').trigger('click');
     });
 
     $('#btn-candi-delete-' + id).click(function () {
-        var formData = {
-            id: id,
-        };
-
-        $.ajax({
-            url: BASE_URL + 'manage_event/delete_candidate',
-            type: "POST",
-            data: formData,
-            success: function (data) {
-                data = JSON.parse(data);
-
-                if (data['status'] == 'failed') {
-                    $errors = data['errors'];
-                    // showValidError('event_name', $errors['id']);
-                    return;
-                }
-
-                if (data['status'] == 'success') {
-                    // Reset input fields.
-                    $('#candidate-item-' + id).remove();
-
-                    new PNotify({
-                        title: 'Success',
-                        icon: 'icon-checkmark3',
-                        text: 'Candidate is deleted.',
-                        addclass: 'bg-success'
-                    });
-                }
-            },
-            error: function (err) {
-                new PNotify({
-                    title: 'Failed',
-                    icon: 'icon-blocked',
-                    text: 'Network connection is failed.',
-                    addclass: 'bg-danger'
-                });
-            }
-        });
+        deleteCandidate(id);
     })
 }
 
@@ -254,6 +222,9 @@ function showEventInInfoPanel(event) {
     else
         $('#btn_active').html('<i class="icon icon-x position-left"></i> Active');
     // $('#preview_img').html('<img src="' + event['event_banner'] + '">');
+
+    // Reset Candidate Panel
+    $('#panel-candidate').removeClass('display-none');
 }
 
 /**
@@ -303,6 +274,9 @@ function showNewEventForm() {
 
     $('#btn_active').addClass('display-none');
     $('#btn_delete').addClass('display-none');
+
+    // Reset Candidate Panel
+    $('#panel-candidate').addClass('display-none');
 
     // Reset input fields.
     $('#event_id').val("-1");
@@ -395,64 +369,70 @@ function doEventSave() {
         return;
     }
 
-    var reader = new FileReader();
-    reader.onload = function (e) {
-        var formData = {
-            name: $('#event_name').val(),
-            openDate: $('#event_vote_opendate').val(),
-            openTime: $('#event_vote_opentime').val(),
-            closeDate: $('#event_vote_closedate').val(),
-            closeTime: $('#event_vote_closetime').val(),
-            banner: 'data:image/jpeg;base64,' + btoa(e.target.result),
-        };
+    swal({
+        title: "Are you sure?",
+        text: "New event will be created with this information!",
+        type: "warning",
+        showCancelButton: true,
+        confirmButtonClass: 'btn-danger',
+        confirmButtonText: 'Yes, create it!',
+        closeOnConfirm: false,
+        //closeOnCancel: false
+    }, function () {
+        var reader = new FileReader();
+        reader.onload = function (e) {
+            var formData = {
+                name: $('#event_name').val(),
+                openDate: $('#event_vote_opendate').val(),
+                openTime: $('#event_vote_opentime').val(),
+                closeDate: $('#event_vote_closedate').val(),
+                closeTime: $('#event_vote_closetime').val(),
+                banner: 'data:image/jpeg;base64,' + btoa(e.target.result),
+            };
 
-        $.ajax({
-            url: BASE_URL + 'manage_event/create_event',
-            type: "POST",
-            data: formData,
-            success: function (data) {
-                data = JSON.parse(data);
-                var event = data['event'];
+            $.ajax({
+                url: BASE_URL + 'manage_event/create_event',
+                type: "POST",
+                data: formData,
+                success: function (data) {
+                    data = JSON.parse(data);
+                    var event = data['event'];
 
-                if (data['status'] == 'failed') {
-                    $errors = data['errors'];
-                    showValidError('event_name', $errors['name']);
-                    return;
-                }
+                    if (data['status'] == 'failed') {
+                        $errors = data['errors'];
+                        showValidError('event_name', $errors['name']);
+                        return;
+                    }
 
-                if (data['status'] == 'success') {
-                    // Reset input fields.
-                    $('#event_name').val("");
-                    $('#event_vote_opendate').val("");
-                    $('#event_vote_opentime').val("");
-                    $('#event_vote_closedate').val("");
-                    $('#event_vote_closetime').val("");
-                    $('#banner').val("");
+                    if (data['status'] == 'success') {
+                        // Reset input fields.
+                        $('#event_name').val("");
+                        $('#event_vote_opendate').val("");
+                        $('#event_vote_opentime').val("");
+                        $('#event_vote_closedate').val("");
+                        $('#event_vote_closetime').val("");
+                        $('#banner').val("");
 
-                    addEventToList(event.id, event.name, event.is_active);
+                        addEventToList(event.id, event.name, event.is_active);
 
+                        swal("Good job!", "New event is created!", "success");
+                    }
+                },
+                error: function (err) {
                     new PNotify({
-                        title: 'Success',
-                        icon: 'icon-checkmark3',
-                        text: 'New event is created.',
-                        addclass: 'bg-success'
+                        title: 'Failed',
+                        icon: 'icon-blocked',
+                        text: 'Network connection is failed.',
+                        addclass: 'bg-danger'
                     });
                 }
-            },
-            error: function (err) {
-                new PNotify({
-                    title: 'Failed',
-                    icon: 'icon-blocked',
-                    text: 'Network connection is failed.',
-                    addclass: 'bg-danger'
-                });
-            }
-        });
-    };
-    reader.onerror = function (e) {
-        console.log('Error : ' + e.type);
-    };
-    reader.readAsBinaryString(imgFile);
+            });
+        };
+        reader.onerror = function (e) {
+            console.log('Error : ' + e.type);
+        };
+        reader.readAsBinaryString(imgFile);
+    });
 }
 
 /**
@@ -540,48 +520,54 @@ function doEventUpdate() {
 }
 
 function updateEvent(banner) {
-    var formData = {
-        id: $('#event_id').val(),
-        name: $('#event_name').val(),
-        openDate: $('#event_vote_opendate').val(),
-        openTime: $('#event_vote_opentime').val(),
-        closeDate: $('#event_vote_closedate').val(),
-        closeTime: $('#event_vote_closetime').val(),
-        banner: banner
-    };
+    swal({
+        title: "Are you sure?",
+        text: "This event information will be changed!",
+        type: "warning",
+        showCancelButton: true,
+        confirmButtonClass: 'btn-danger',
+        confirmButtonText: 'Yes, update it!',
+        closeOnConfirm: false,
+        //closeOnCancel: false
+    }, function () {
+        var formData = {
+            id: $('#event_id').val(),
+            name: $('#event_name').val(),
+            openDate: $('#event_vote_opendate').val(),
+            openTime: $('#event_vote_opentime').val(),
+            closeDate: $('#event_vote_closedate').val(),
+            closeTime: $('#event_vote_closetime').val(),
+            banner: banner
+        };
 
-    $.ajax({
-        url: BASE_URL + 'manage_event/update_event',
-        type: "POST",
-        data: formData,
-        success: function (data) {
-            data = JSON.parse(data);
-            if (data['status'] == 'failed') {
-                $errors = data['errors'];
-                showValidError('event_name', $errors['name']);
-                return;
-            }
+        $.ajax({
+            url: BASE_URL + 'manage_event/update_event',
+            type: "POST",
+            data: formData,
+            success: function (data) {
+                data = JSON.parse(data);
+                if (data['status'] == 'failed') {
+                    $errors = data['errors'];
+                    showValidError('event_name', $errors['name']);
+                    return;
+                }
 
-            if (data['status'] == 'success') {
-                // Reset input fields.
-                $('#electron_item_name_' + formData.id).html(formData.name);
+                if (data['status'] == 'success') {
+                    // Reset input fields.
+                    $('#electron_item_name_' + formData.id).html(formData.name);
 
+                    swal("Good job!", "Event is successfully updated!", "success");
+                }
+            },
+            error: function (err) {
                 new PNotify({
-                    title: 'Success',
-                    icon: 'icon-checkmark3',
-                    text: 'Event is successfully updated.',
-                    addclass: 'bg-success'
+                    title: 'Failed',
+                    icon: 'icon-blocked',
+                    text: 'Network connection is failed.',
+                    addclass: 'bg-danger'
                 });
             }
-        },
-        error: function (err) {
-            new PNotify({
-                title: 'Failed',
-                icon: 'icon-blocked',
-                text: 'Network connection is failed.',
-                addclass: 'bg-danger'
-            });
-        }
+        });
     });
 }
 
@@ -590,43 +576,49 @@ function updateEvent(banner) {
  *  Delete event
  */
 function doEventDelete() {
-    var formData = {
-        id: $('#event_id').val()
-    };
+    swal({
+        title: "Are you sure?",
+        text: "You will not be able to recover this event!",
+        type: "warning",
+        showCancelButton: true,
+        confirmButtonClass: 'btn-danger',
+        confirmButtonText: 'Yes, delete it!',
+        closeOnConfirm: false,
+        //closeOnCancel: false
+    }, function () {
+        var formData = {
+            id: $('#event_id').val()
+        };
 
-    $.ajax({
-        url: BASE_URL + 'manage_event/delete_event',
-        type: "POST",
-        data: formData,
-        success: function (data) {
-            data = JSON.parse(data);
-            if (data['status'] == 'failed') {
-                $errors = data['errors'];
-                // showValidError('event_name', $errors['name']);
-                return;
-            }
+        $.ajax({
+            url: BASE_URL + 'manage_event/delete_event',
+            type: "POST",
+            data: formData,
+            success: function (data) {
+                data = JSON.parse(data);
+                if (data['status'] == 'failed') {
+                    $errors = data['errors'];
+                    // showValidError('event_name', $errors['name']);
+                    return;
+                }
 
-            if (data['status'] == 'success') {
-                // Reset input fields.
-                showNewEventForm();
-                $('#electron_item_' + formData.id).remove();
+                if (data['status'] == 'success') {
+                    // Reset input fields.
+                    showNewEventForm();
+                    $('#electron_item_' + formData.id).remove();
 
+                    swal("Good job!", "Event is successfully deleted!", "success");
+                }
+            },
+            error: function (err) {
                 new PNotify({
-                    title: 'Success',
-                    icon: 'icon-checkmark3',
-                    text: 'Event is successfully deleted.',
-                    addclass: 'bg-success'
+                    title: 'Failed',
+                    icon: 'icon-blocked',
+                    text: 'Network connection is failed.',
+                    addclass: 'bg-danger'
                 });
             }
-        },
-        error: function (err) {
-            new PNotify({
-                title: 'Failed',
-                icon: 'icon-blocked',
-                text: 'Network connection is failed.',
-                addclass: 'bg-danger'
-            });
-        }
+        });
     });
 }
 
@@ -635,72 +627,79 @@ function doEventDelete() {
  *  Active event
  */
 function doEventActive() {
-    var formData = {
-        id: $('#event_id').val(),
-        isActive: $('#event_isactive').val()
-    };
+    swal({
+        title: "Are you sure?",
+        text: "Event's activate state will be changed!",
+        type: "warning",
+        showCancelButton: true,
+        confirmButtonClass: 'btn-danger',
+        confirmButtonText: $('#event_isactive').val() == "1" ? 'Yes, unactive it!' : 'Yes active it!',
+        closeOnConfirm: false,
+        //closeOnCancel: false
+    }, function () {
+        var formData = {
+            id: $('#event_id').val(),
+            isActive: $('#event_isactive').val()
+        };
 
-    $.ajax({
-        url: BASE_URL + 'manage_event/active_event',
-        type: "POST",
-        data: formData,
-        success: function (data) {
-            data = JSON.parse(data);
-            if (data['status'] == 'failed') {
-                var errors = data['errors'];
+        $.ajax({
+            url: BASE_URL + 'manage_event/active_event',
+            type: "POST",
+            data: formData,
+            success: function (data) {
+                data = JSON.parse(data);
+                if (data['status'] == 'failed') {
+                    var errors = data['errors'];
+                    new PNotify({
+                        title: 'Failed',
+                        icon: 'icon-blocked',
+                        text: errors.event,
+                        addclass: 'bg-danger'
+                    });
+                    return;
+                }
+                if (data['status'] == 'success') {
+                    var event = data['event'];
+
+                    // Reset activate field.
+                    $('#event_isactive').val(event.is_active);
+                    if (event.is_active == '0' || event.is_active == 0) {
+                        $('#btn_active').html('<i class="icon icon-checkmark4 position-left"></i>Active');
+                        var electionSubTag =
+                            '<a id="electron_item_a_' + event.id + '" class="election-atag navigation-li-active" href="javascript:void(0)">' +
+                            '<i class="icon-stack-star fa-fw"></i> <span id="electron_item_name_' + event.id + '">' + event.name + '</span>' +
+                            '</a>';
+                        $('#electron_item_' + event.id).html(electionSubTag);
+
+                        swal("Good job!", "Event is successfully unactived!", "success");
+                    } else {
+                        $('#btn_active').html('<i class="icon icon-x position-left"></i>Active');
+                        var electionSubTag =
+                            '<a id="electron_item_a_' + event.id + '" class="election-atag navigation-li-active" href="javascript:void(0)">' +
+                            '<span class="label label-success pull-right"><i class="icon icon-checkmark4"></i></span>' +
+                            '<i class="icon-stack-star fa-fw"></i> <span id="electron_item_name_' + event.id + '">' + event.name + '</span>' +
+                            '</a>';
+                        $('#electron_item_' + event.id).html(electionSubTag);
+
+                        new PNotify({
+                            title: 'Success',
+                            icon: 'icon-checkmark3',
+                            text: 'Event is successfully actived.',
+                            addclass: 'bg-success'
+                        });
+                        swal("Good job!", "Event is successfully actived!", "success");
+                    }
+                }
+            },
+            error: function (err) {
                 new PNotify({
                     title: 'Failed',
                     icon: 'icon-blocked',
-                    text: errors.event,
+                    text: 'Network connection is failed.',
                     addclass: 'bg-danger'
                 });
-                return;
             }
-            if (data['status'] == 'success') {
-                var event = data['event'];
-
-                // Reset activate field.
-                $('#event_isactive').val(event.is_active);
-                if (event.is_active == '0' || event.is_active == 0) {
-                    $('#btn_active').html('<i class="icon icon-checkmark4 position-left"></i>Active');
-                    var electionSubTag =
-                        '<a id="electron_item_a_' + event.id + '" class="election-atag navigation-li-active" href="javascript:void(0)">' +
-                        '<i class="icon-stack-star fa-fw"></i> <span id="electron_item_name_' + event.id + '">' + event.name + '</span>' +
-                        '</a>';
-                    $('#electron_item_' + event.id).html(electionSubTag);
-
-                    new PNotify({
-                        title: 'Success',
-                        icon: 'icon-checkmark3',
-                        text: 'Event is successfully disactivated.',
-                        addclass: 'bg-success'
-                    });
-                } else {
-                    $('#btn_active').html('<i class="icon icon-x position-left"></i>Active');
-                    var electionSubTag =
-                        '<a id="electron_item_a_' + event.id + '" class="election-atag navigation-li-active" href="javascript:void(0)">' +
-                        '<span class="label label-success pull-right"><i class="icon icon-checkmark4"></i></span>' +
-                        '<i class="icon-stack-star fa-fw"></i> <span id="electron_item_name_' + event.id + '">' + event.name + '</span>' +
-                        '</a>';
-                    $('#electron_item_' + event.id).html(electionSubTag);
-
-                    new PNotify({
-                        title: 'Success',
-                        icon: 'icon-checkmark3',
-                        text: 'Event is successfully actived.',
-                        addclass: 'bg-success'
-                    });
-                }
-            }
-        },
-        error: function (err) {
-            new PNotify({
-                title: 'Failed',
-                icon: 'icon-blocked',
-                text: 'Network connection is failed.',
-                addclass: 'bg-danger'
-            });
-        }
+        });
     });
 }
 
@@ -741,64 +740,82 @@ function createCandidate() {
 
     var filebanner = document.getElementById('candi_add_photo');
     var imgFile = filebanner.files[0];
-    var reader = new FileReader();
+    if (imgFile == null) {
+        new PNotify({
+            title: 'Warning',
+            icon: 'icon-blocked',
+            text: 'Please select a candidate photo.',
+            addclass: 'bg-danger'
+        });
+        return;
+    }
 
-    reader.onload = function (e) {
-        var formData = {
-            eventId: $('#event_id').val(),
-            no: $('#candi_add_no').val(),
-            campaign: $('#candi_add_campaign').val(),
-            name: $('#candi_add_name').val(),
-            photo: 'data:image/png;base64,' + btoa(e.target.result),
-        };
+    swal({
+        title: "Are you sure?",
+        text: "New candidate will be created with this information!",
+        type: "warning",
+        showCancelButton: true,
+        confirmButtonClass: 'btn-danger',
+        confirmButtonText: 'Yes, Create it!',
+        closeOnConfirm: false,
+        //closeOnCancel: false
+    }, function () {
+        var reader = new FileReader();
 
-        $.ajax({
-            url: BASE_URL + 'manage_event/create_candidate',
-            type: "POST",
-            data: formData,
-            success: function (data) {
-                data = JSON.parse(data);
-                var candidate = data['candidate'];
+        reader.onload = function (e) {
+            var formData = {
+                eventId: $('#event_id').val(),
+                no: $('#candi_add_no').val(),
+                campaign: nl2br($('#candi_add_campaign').val()),
+                name: $('#candi_add_name').val(),
+                photo: 'data:image/png;base64,' + btoa(e.target.result),
+            };
 
-                if (data['status'] == 'failed') {
-                    $errors = data['errors'];
-                    // showValidError('event_name', $errors['name']);
-                    return;
-                }
+            $.ajax({
+                url: BASE_URL + 'manage_event/create_candidate',
+                type: "POST",
+                data: formData,
+                success: function (data) {
+                    data = JSON.parse(data);
+                    var candidate = data['candidate'];
 
-                if (data['status'] == 'success') {
-                    // Reset input fields.
-                    $('#candi_add_no').val("1");
-                    $('#candi_add_campaign').val("");
-                    $('#candi_add_name').val("");
-                    $('.imagePreview').html("");
-                    $('#candi_add_photo').val("");
-                    $('#btn_candi_add_cancel').trigger('click');
-                    // addCandidateToList(event.id, event.name, event.is_active);
-                    addCandidateInPanel(candidate['id'], candidate['candi_photo'], candidate['candi_no'], candidate['candi_name'], candidate['candi_campaign']);
+                    if (data['status'] == 'failed') {
+                        $errors = data['errors'];
+                        // showValidError('event_name', $errors['name']);
+                        return;
+                    }
 
+                    if (data['status'] == 'success') {
+                        // Reset input fields.
+                        $('#candi_add_no').val("1");
+                        $('#candi_add_campaign').val("");
+                        $('#candi_add_name').val("");
+                        
+                        // $('.imagePreview').html("");
+                        $('.imagePreview').css("background-image", "");
+
+                        $('#candi_add_photo').val("");
+                        $('#btn_candi_add_cancel').trigger('click');
+                        // addCandidateToList(event.id, event.name, event.is_active);
+                        addCandidateInPanel(candidate['id'], candidate['candi_photo'], candidate['candi_no'], candidate['candi_name'], candidate['candi_campaign']);
+                        swal("Good job!", "New candidate is successfully created!", "success");
+                    }
+                },
+                error: function (err) {
                     new PNotify({
-                        title: 'Success',
-                        icon: 'icon-checkmark3',
-                        text: 'New candidate is created.',
-                        addclass: 'bg-success'
+                        title: 'Failed',
+                        icon: 'icon-blocked',
+                        text: 'Network connection is failed.',
+                        addclass: 'bg-danger'
                     });
                 }
-            },
-            error: function (err) {
-                new PNotify({
-                    title: 'Failed',
-                    icon: 'icon-blocked',
-                    text: 'Network connection is failed.',
-                    addclass: 'bg-danger'
-                });
-            }
-        });
-    };
-    reader.onerror = function (e) {
-        console.log('Error : ' + e.type);
-    };
-    reader.readAsBinaryString(imgFile);
+            });
+        };
+        reader.onerror = function (e) {
+            console.log('Error : ' + e.type);
+        };
+        reader.readAsBinaryString(imgFile);
+    });
 }
 
 /**
@@ -846,54 +863,117 @@ function updateCandidate() {
  * @param {binaryData} photo 
  */
 function updateCandiItem(photo) {
-    var formData = {
-        id: $('#candi_edit_id').val(),
-        no: $('#candi_edit_no').val(),
-        campaign: $('#candi_edit_campaign').val(),
-        name: $('#candi_edit_name').val(),
-        photo: photo,
-    };
+    swal({
+        title: "Are you sure?",
+        text: "Candidate information will be updated!",
+        type: "warning",
+        showCancelButton: true,
+        confirmButtonClass: 'btn-danger',
+        confirmButtonText: 'Yes, Update it!',
+        closeOnConfirm: false,
+        //closeOnCancel: false
+    }, function () {
+        var formData = {
+            id: $('#candi_edit_id').val(),
+            no: $('#candi_edit_no').val(),
+            campaign: nl2br($('#candi_edit_campaign').val()),
+            name: $('#candi_edit_name').val(),
+            photo: photo,
+        };
 
-    $.ajax({
-        url: BASE_URL + 'manage_event/update_candidate',
-        type: "POST",
-        data: formData,
-        success: function (data) {
-            data = JSON.parse(data);
-            var candidate = data['candidate'];
+        $.ajax({
+            url: BASE_URL + 'manage_event/update_candidate',
+            type: "POST",
+            data: formData,
+            success: function (data) {
+                data = JSON.parse(data);
+                var candidate = data['candidate'];
 
-            if (data['status'] == 'failed') {
-                $errors = data['errors'];
-                // showValidError('event_name', $errors['name']);
-                return;
-            }
+                if (data['status'] == 'failed') {
+                    $errors = data['errors'];
+                    // showValidError('event_name', $errors['name']);
+                    return;
+                }
 
-            if (data['status'] == 'success') {
-                // Reset items in candidate list.
-                $('#candi-photo-' + candidate.id).html('<img src="' + candidate.candi_photo + '" alt="" class="candi-photo img-circle img-responsive"></img>');
-                $('#candi-span-num-' + candidate.id).html('Number: ' + candidate.candi_no);
-                $('#candi-span-name-' + candidate.id).html('Name: ' + candidate.candi_name);
-                $('#candi-span-campaign-' + candidate.id).html('Campaign: ' + candidate.candi_campaign);
+                if (data['status'] == 'success') {
+                    // Reset items in candidate list.
+                    $('#candi-photo-' + candidate.id).html('<img src="' + candidate.candi_photo + '" alt="" class="candi-photo img-circle img-responsive"></img>');
+                    $('#candi-span-num-' + candidate.id).html('<strong>No:</strong> ' + candidate.candi_no);
+                    $('#candi-span-name-' + candidate.id).html('<strong>Name:</strong> ' + candidate.candi_name);
+                    $('#candi-span-campaign-' + candidate.id).html('<strong>Campaign:</strong> ' + candidate.candi_campaign);
+                    $('#candidate-item-' + candidate.id).attr('data-photo', candidate.candi_photo);
+                    $('#candidate-item-' + candidate.id).attr('data-no', candidate.candi_no);
+                    $('#candidate-item-' + candidate.id).attr('data-campaign', candidate.candi_campaign);
+                    $('#candidate-item-' + candidate.id).attr('data-name', candidate.candi_name);
 
-                $('#btn_candi_edit_cancel').trigger('click');
+                    $('#btn_candi_edit_cancel').trigger('click');
 
+                    swal("Good job!", "Candidate is successfully updated!", "success");
+                }
+            },
+            error: function (err) {
                 new PNotify({
-                    title: 'Success',
-                    icon: 'icon-checkmark3',
-                    text: 'Candidate is updated.',
-                    addclass: 'bg-success'
+                    title: 'Failed',
+                    icon: 'icon-blocked',
+                    text: 'Network connection is failed.',
+                    addclass: 'bg-danger'
                 });
             }
-        },
-        error: function (err) {
-            new PNotify({
-                title: 'Failed',
-                icon: 'icon-blocked',
-                text: 'Network connection is failed.',
-                addclass: 'bg-danger'
-            });
-        }
+        });
     });
+}
+
+/**
+ * Delete candidate
+ * @param {int} id 
+ */
+function deleteCandidate(id) {
+    swal({
+        title: "Are you sure?",
+        text: "You will not be able to recover this candidate!",
+        type: "warning",
+        showCancelButton: true,
+        confirmButtonClass: 'btn-danger',
+        confirmButtonText: 'Yes, delete it!',
+        closeOnConfirm: false,
+        //closeOnCancel: false
+    }, function () {
+
+        var formData = {
+            id: id,
+        };
+
+        $.ajax({
+            url: BASE_URL + 'manage_event/delete_candidate',
+            type: "POST",
+            data: formData,
+            success: function (data) {
+                data = JSON.parse(data);
+
+                if (data['status'] == 'failed') {
+                    $errors = data['errors'];
+                    // showValidError('event_name', $errors['id']);
+                    return;
+                }
+
+                if (data['status'] == 'success') {
+                    // Reset input fields.
+                    $('#candidate-item-' + id).remove();
+                    swal("Good job!", "Candidate is successfully deleted!", "success");
+                }
+            },
+            error: function (err) {
+                new PNotify({
+                    title: 'Failed',
+                    icon: 'icon-blocked',
+                    text: 'Network connection is failed.',
+                    addclass: 'bg-danger'
+                });
+            }
+        });
+        // swal("Deleted!", "Your imaginary file has been deleted!", "success");
+    });
+
 }
 
 /**

@@ -24,7 +24,7 @@
             <label id="error_log_password" class="validation-error" for="log_password"></label>
         </div>
 
-        <div class="login-options">
+        <!-- <div class="login-options">
             <div class="row">
                 <div class="col-sm-6">
                     <div class="checkbox m-l-5">
@@ -40,7 +40,7 @@
                         password?</a>
                 </div>
             </div>
-        </div>
+        </div> -->
 
         <div class="form-group">
             <button id="btn_login" type="button" class="btn btn-info btn-labeled btn-labeled-right btn-block">

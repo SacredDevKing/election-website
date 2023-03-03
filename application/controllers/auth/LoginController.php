@@ -4,6 +4,8 @@ class LoginController extends BaseController
     public function __construct()
     {
         parent::__construct();
+        $this->load->model('eventModel');
+        $this->load->model('voteModel');
     }
 
     //redirect if needed, otherwise display the user list
@@ -74,12 +76,38 @@ class LoginController extends BaseController
             $this->ajaxRes['is_logined'] = true;
 
             $user = $this->session->userdata('curUser');
+
             if ($user['is_admin'] == ROLE_ADMIN) {
                 // If user has admin role.
                 $this->ajaxRes['return_url'] = 'manage_event';
             } else if ($user['is_admin'] == ROLE_USER) {
-                // If user has no admin role.
-                $this->ajaxRes['return_url'] = 'manage_event';
+                // Check event status
+                $event = $this->eventModel->getActiveEvent();
+                if ($event) {
+                    $openTimeStamp = date_timestamp_get(date_create($event['open_date']));
+                    $closeTimeStamp = date_timestamp_get(date_create($event['close_date']));
+                    $nowTimeStamp = time();
+
+                    if ($nowTimeStamp < $openTimeStamp) {
+                        $this->ajaxRes['return_url'] = 'waiting-start';
+
+                    } else if ($nowTimeStamp >= $openTimeStamp && $nowTimeStamp <= $closeTimeStamp) {
+                        
+                        // check did vote
+                        $voteState = $this->voteModel->getVoteState($user['user_id'], $event['id']);
+                        if ($voteState) {
+                            // if did vote , redirect waiting end page
+                            $this->ajaxRes['return_url'] = 'waiting-end';
+                        }else { 
+                            // if did not vote, redirect voting page
+                            $this->ajaxRes['return_url'] = 'vote';
+                        }
+                    } else {
+                        $this->ajaxRes['return_url'] = 'result';
+                    }
+                }else {
+                    $this->ajaxRes['return_url'] = 'noevent';
+                }
             }
         } else {
             // If the login was un-successful
