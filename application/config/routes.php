@@ -72,7 +72,9 @@ $route['manage_event/delete_candidate'] = 'admin/ManageEventController/deleteCan
 $route['noevent'] = 'user/PageController/noEvent';
 $route['waiting-start'] = 'user/PageController/waitingStart';
 $route['waiting-end'] = 'user/PageController/waitingEnd';
+$route['disclamer'] = 'user/PageController/disclamer';
 $route['vote'] = 'user/PageController/vote';
+$route['vote/addVote'] = 'user/PageController/addVote';
 $route['result'] = 'user/PageController/result';
 // ------------------------ END USER ROUTES -----------------------------
 

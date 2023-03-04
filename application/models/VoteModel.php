@@ -20,4 +20,16 @@ class VoteModel extends CI_Model
             return $events;
         return null;
     }
+
+    public function addVote($userId, $eventId, $candidates)
+    {
+        foreach ($candidates as $candidate) {
+            $data = array(
+                'event_id' => $eventId,
+                'user_id' => $userId,
+                'candidate_id' => $candidate
+            );
+            $this->db->insert($this->tblName, $data);
+        }
+    }
 }

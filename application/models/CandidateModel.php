@@ -64,4 +64,10 @@ class CandidateModel extends CI_Model
 
         return $candidates;
     }
+
+    public function getCandidatesByEventIdOrderByVote($eventId)
+    {
+        $candidates = $this->db->select('*')->where('event_id', $eventId)->order_by('vote_cnt', 'DESC')->get($this->tblName)->result_array();
+        return $candidates;
+    }
 }

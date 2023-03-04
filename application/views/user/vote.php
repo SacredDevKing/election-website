@@ -39,7 +39,8 @@
                                         </div>
                                         <h3 class="no-margin">No. <?php echo $candiate['candi_no']; ?></h3>
                                         <h3 class="no-margin"><?php echo $candiate['candi_name']; ?></h3>
-                                        <p><strong>Campagin: </strong> <?php echo $candiate['candi_campaign']; ?> </p>
+                                        <p class="campagin-container"><strong>Campagin: </strong>
+                                            <?php echo $candiate['candi_campaign']; ?> </p>
                                     </div>
                                 </div>
                             </div>

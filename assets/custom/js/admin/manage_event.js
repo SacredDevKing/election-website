@@ -157,12 +157,12 @@ function addCandidateInPanel(id, photo, no, name, campaign) {
         '<div class="col-xs-12 col-sm-8">' +
         '<h3 id="candi-span-num-' + id + '" class="no-margin"><strong>No:</strong> ' + no + '</h3>' +
         '<h3 id="candi-span-name-' + id + '" class="no-margin"><strong>Name:</strong> ' + name + '</h3>' +
-        '<p id="candi-span-campaign-' + id + '"><strong>Campagin: </strong> ' + campaign + '</p>' +
+        '<p id="candi-span-campaign-' + id + '" class="campagin-container"><strong>Campagin: </strong> ' + campaign + '</p>' +
         '</div>' +
         '<div class="col-xs-12 col-sm-2">' +
         '<div style="text-align: right;">' +
         '<button  id="btn-candi-edit-' + id + '" class="btn border-success text-success btn-rounded btn-candi-edit btn-flat btn-xs"> <i class="icon icon-pencil7 position-left"></i> Edit</button>' +
-        '<button id="btn-candi-delete-' + id + '" class="btn border-danger text-danger btn-rounded btn-candi-edit btn-flat  btn-xs" >' +
+        '<button id="btn-candi-delete-' + id + '" class="btn border-danger text-danger btn-rounded btn-candi-delete btn-flat  btn-xs" >' +
         '<i class="icon icon-eraser2 position-left"></i> Delete</button >' +
         '</div > </div > </div > </div > </div > </div > ';
 
@@ -208,6 +208,7 @@ function showEventInInfoPanel(event) {
     $('#btn_delete').removeClass('display-none');
     // $('.banner-img-preview').css("background-image", "url(" + banner + ")");
     $('.banner-img-preview').html("<img src='" + banner + "' style='width: 100%; height: auto;'>");
+    $('#event_banner').val('');
 
     $('#event_id').val(id);
     $('#event_name').val(name);
@@ -220,7 +221,7 @@ function showEventInInfoPanel(event) {
     if (isActive == "0" || isActive == 0)
         $('#btn_active').html('<i class="icon icon-checkmark4 position-left"></i> Active');
     else
-        $('#btn_active').html('<i class="icon icon-x position-left"></i> Active');
+        $('#btn_active').html('<i class="icon icon-x position-left"></i> DeActive');
     // $('#preview_img').html('<img src="' + event['event_banner'] + '">');
 
     // Reset Candidate Panel
@@ -633,7 +634,7 @@ function doEventActive() {
         type: "warning",
         showCancelButton: true,
         confirmButtonClass: 'btn-danger',
-        confirmButtonText: $('#event_isactive').val() == "1" ? 'Yes, unactive it!' : 'Yes active it!',
+        confirmButtonText: $('#event_isactive').val() == "1" ? 'Yes, deactive it!' : 'Yes active it!',
         closeOnConfirm: false,
         //closeOnCancel: false
     }, function () {
@@ -671,9 +672,9 @@ function doEventActive() {
                             '</a>';
                         $('#electron_item_' + event.id).html(electionSubTag);
 
-                        swal("Good job!", "Event is successfully unactived!", "success");
+                        swal("Good job!", "Event is successfully deactived!", "success");
                     } else {
-                        $('#btn_active').html('<i class="icon icon-x position-left"></i>Active');
+                        $('#btn_active').html('<i class="icon icon-x position-left"></i>DeActive');
                         var electionSubTag =
                             '<a id="electron_item_a_' + event.id + '" class="election-atag navigation-li-active" href="javascript:void(0)">' +
                             '<span class="label label-success pull-right"><i class="icon icon-checkmark4"></i></span>' +
@@ -681,12 +682,12 @@ function doEventActive() {
                             '</a>';
                         $('#electron_item_' + event.id).html(electionSubTag);
 
-                        new PNotify({
-                            title: 'Success',
-                            icon: 'icon-checkmark3',
-                            text: 'Event is successfully actived.',
-                            addclass: 'bg-success'
-                        });
+                        // new PNotify({
+                        //     title: 'Success',
+                        //     icon: 'icon-checkmark3',
+                        //     text: 'Event is successfully actived.',
+                        //     addclass: 'bg-success'
+                        // });
                         swal("Good job!", "Event is successfully actived!", "success");
                     }
                 }
@@ -790,7 +791,7 @@ function createCandidate() {
                         $('#candi_add_no').val("1");
                         $('#candi_add_campaign').val("");
                         $('#candi_add_name').val("");
-                        
+
                         // $('.imagePreview').html("");
                         $('.imagePreview').css("background-image", "");
 

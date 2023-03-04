@@ -8,7 +8,7 @@
     </h2>
 
     <div class="row">
-        <button type="button" class="btn btn-warning btn-rounded">Log out</button>
+        <button type="button" class="btn btn-warning btn-rounded btn-log-out">Log out</button>
     </div>
 </div>
 <!-- /no event wrapper -->

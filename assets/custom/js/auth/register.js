@@ -7,10 +7,34 @@ $(document).ready(function () {
         $(this).attr('placeholder', $(this).data('placeholder'));
     });
 
-    $('#btn_to_login').click(function() {
+
+    // Enter Events
+    $('#reg_name').keypress(function (event) {
+        if (event.keyCode == 13)
+            $('#reg_email').focus();
+    });
+
+    $('#reg_email').keypress(function (event) {
+        if (event.keyCode == 13)
+            $('#reg_password').focus();
+    });
+
+    $('#reg_password').keypress(function (event) {
+        if (event.keyCode == 13)
+            $('#reg_conf_password').focus();
+    });
+
+    $('#reg_conf_password').keypress(function (event) {
+        if (event.keyCode == 13)
+            $('#btn_register').trigger('click');
+    });
+
+    // Login Button Clicked
+    $('#btn_to_login').click(function () {
         document.location = BASE_URL + 'login';
     });
 
+    // Register Button Clicked
     $('#btn_register').click(function () {
         doRegister();
     });

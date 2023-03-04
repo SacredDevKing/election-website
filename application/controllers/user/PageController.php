@@ -5,70 +5,87 @@ class PageController extends UserBaseController
     public function __construct()
     {
         parent::__construct();
-        $this->load->model('eventModel');
-        $this->load->model('candidateModel');
     }
 
     /*
-    *   Display No Event Page 
-    */
+     *   Display No Event Page 
+     */
     public function noEvent()
     {
-        $this->headerData[''] = '';
-        $this->footerData[''] = '';
+        if (!$this->isNoEvent())
+            redirect('/');
+
+        $this->footerData['pageJsArr'] = array(
+            'assets/custom/js/user/no_event.js'
+        );
 
         $this->load->view('user/layouts/header', $this->headerData);
-        $this->load->view('user/no_event');
+        $this->load->view('user/no_event', $this->bodyData);
         $this->load->view('user/layouts/footer', $this->footerData);
     }
 
     /*
-    *   Display Waiting Event Start Page 
-    */
+     *   Display Waiting Event Start Page 
+     */
     public function waitingStart()
     {
+        if (!$this->isWaitingStart())
+            redirect('/');
+
         $this->headerData[''] = '';
         $event = $this->eventModel->getActiveEvent();
-        
+
         $openDate = new DateTime($event['open_date']);
         $openDateString = $openDate->format('j M Y, h:i');
 
         $this->bodyData['event'] = $event;
         $this->bodyData['openDate'] = $openDateString;
-        
-        $this->footerData[''] = '';
+
         $this->footerData['pageJsArr'] = array(
             'assets/custom/js/user/jquery.countdown.min.js',
             'assets/custom/js/user/waiting_start.js'
         );
-        
+
         $this->load->view('user/layouts/header', $this->headerData);
         $this->load->view('user/waiting_start', $this->bodyData);
         $this->load->view('user/layouts/footer', $this->footerData);
     }
 
     /*
-    *   Display Waiting Event End Page 
-    */
+     *   Display Waiting Event End Page 
+     */
     public function waitingEnd()
     {
+        if (!$this->isWaitingEnd())
+            redirect('/');
+
         $this->headerData[''] = '';
-        $this->footerData[''] = '';
+        $event = $this->eventModel->getActiveEvent();
+
+        $closeDate = new DateTime($event['close_date']);
+        $closeDateString = $closeDate->format('j M Y, h:i');
+
+        $this->bodyData['event'] = $event;
+        $this->bodyData['closeDate'] = $closeDateString;
+
         $this->footerData['pageJsArr'] = array(
             'assets/custom/js/user/jquery.countdown.min.js',
             'assets/custom/js/user/waiting_end.js'
         );
 
         $this->load->view('user/layouts/header', $this->headerData);
-        $this->load->view('user/waiting_end');
+        $this->load->view('user/waiting_end', $this->bodyData);
         $this->load->view('user/layouts/footer', $this->footerData);
     }
 
     /*
-    *   Display Voting Event
-    */
+     *   Display Voting Event page
+     */
     public function vote()
     {
+        if (!$this->isAllowVote())
+            redirect('/');
+
         $this->headerData[''] = '';
         $this->footerData['pageJsArr'] = array(
             'assets/global/js/hammerjs.js',
@@ -95,17 +112,65 @@ class PageController extends UserBaseController
     }
 
     /*
-    *   Display Voting Result
-    */
+     *   Do Vote function
+     */
+    public function addVote()
+    {
+        $event = $this->eventModel->getActiveEvent();
+        $eventId = $event['id'];
+
+        $userData = $this->session->userdata('curUser');
+        $userId = $userData['user_id'];
+
+        $candidates = $this->input->post('candidates');
+
+        $this->voteModel->addVote($userId, $eventId, $candidates);
+
+        $this->ajaxRes['status'] = 'success';
+        echo json_encode($this->ajaxRes);
+    }
+
+    /*
+     *   Display Voting Result
+     */
     public function result()
     {
+        // if (!$this->isAllowToResult())
+        //     redirect('/');
+
         $this->headerData[''] = '';
         $this->footerData['pageJsArr'] = array(
+            'assets/global/js/d3.min.js',
+            'assets/global/js/c3.min.js',
             'assets/custom/js/user/result.js'
         );
 
+        $event = $this->eventModel->getActiveEvent();
+        $candidates = $this->candidateModel->getCandidatesByEventIdOrderByVote($event['id']);
+
+        $this->bodyData['event'] = $event;
+        $this->bodyData['candidates'] = $candidates;
+
         $this->load->view('user/layouts/header', $this->headerData);
-        $this->load->view('user/result');
+        $this->load->view('user/result', $this->bodyData);
+        $this->load->view('user/layouts/footer', $this->footerData);
+    }
+
+    /**
+     * Display disclamer
+     */
+    public function disclamer()
+    {
+        if (!$this->isAllowVote())
+            redirect('/');
+
+        $this->headerData[''] = '';
+        $this->footerData['pageJsArr'] = array(
+            'assets/custom/js/user/disclamer.js'
+        );
+
+        $this->load->view('user/layouts/header', $this->headerData);
+        $this->load->view('user/disclamer', $this->bodyData);
         $this->load->view('user/layouts/footer', $this->footerData);
     }
 }

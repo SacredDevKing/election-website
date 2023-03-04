@@ -26,6 +26,8 @@ var BASE_URL = "<?php echo base_url() ?>";
 </script>
 <script type="text/javascript" src="<?php echo base_url('/assets/global/js/pnotify.min.js?v=' . $randNum) ?>">
 </script>
+<script type="text/javascript" src="<?php echo base_url('/assets/global/js/sweetalert.js?v=' . $randNum) ?>">
+</script>
 <script type="text/javascript" src="<?php echo base_url('/assets/custom/js/global/global.js?v=' . $randNum) ?>">
 </script>
 <!-- End Global scripts -->

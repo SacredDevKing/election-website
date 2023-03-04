@@ -61,10 +61,10 @@ class LoginController extends BaseController
             )
         );
         if (!$this->form_validation->run()) {
-            $errors = $this->form_validation->error_array();
-            $data = array('errors' => $errors);
+            // $errors = $this->form_validation->error_array();
+            // $data = array('errors' => $errors);
 
-            echo json_encode($data);
+            // echo json_encode($data);
             return;
         }
 
@@ -88,24 +88,28 @@ class LoginController extends BaseController
                     $closeTimeStamp = date_timestamp_get(date_create($event['close_date']));
                     $nowTimeStamp = time();
 
+                    // var_dump($openTimeStamp);
+                    // var_dump($closeTimeStamp);
+                    // var_dump($nowTimeStamp);
+                    // exit;
+
                     if ($nowTimeStamp < $openTimeStamp) {
                         $this->ajaxRes['return_url'] = 'waiting-start';
-
                     } else if ($nowTimeStamp >= $openTimeStamp && $nowTimeStamp <= $closeTimeStamp) {
-                        
+
                         // check did vote
                         $voteState = $this->voteModel->getVoteState($user['user_id'], $event['id']);
                         if ($voteState) {
                             // if did vote , redirect waiting end page
                             $this->ajaxRes['return_url'] = 'waiting-end';
-                        }else { 
+                        } else {
                             // if did not vote, redirect voting page
-                            $this->ajaxRes['return_url'] = 'vote';
+                            $this->ajaxRes['return_url'] = 'disclamer';
                         }
                     } else {
                         $this->ajaxRes['return_url'] = 'result';
                     }
-                }else {
+                } else {
                     $this->ajaxRes['return_url'] = 'noevent';
                 }
             }
@@ -121,7 +125,7 @@ class LoginController extends BaseController
     public function doLogout()
     {
         $this->ion_auth->logout();
-        
+
         $this->ajaxRes['is_logout'] = 'logout_success';
         echo json_encode($this->ajaxRes);
     }

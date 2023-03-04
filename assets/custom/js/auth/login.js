@@ -10,6 +10,17 @@ $(document).ready(function () {
         $(this).attr('placeholder', $(this).data('placeholder'));
     });
 
+    // Enter Events
+    $('#log_email').keypress(function (event) {
+        if (event.keyCode == 13)
+            $('#log_password').focus();
+    });
+
+    $('#log_password').keypress(function (event) {
+        if (event.keyCode == 13)
+            $('#btn_login').trigger('click');
+    });
+
     /**
      * @description
      *  Link to register form after user clicked "Create an account" button.
@@ -35,7 +46,8 @@ function doLogin() {
     var validateFields = [{
         field_id: 'log_email',
         conditions: [
-            'required' + CONST_VALIDATE_SPLITER + 'Email is required.'
+            'required' + CONST_VALIDATE_SPLITER + 'Email is required.',
+            'valid_email' + CONST_VALIDATE_SPLITER + 'Email is invalid.'
         ]
     }, {
         field_id: 'log_password',
