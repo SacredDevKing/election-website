@@ -13,7 +13,7 @@
             <span>and other mass media communications.</span><br><br>
             <span>This fact sheet is designed to provide a general description of these laws, </span><br>
             <span>but should not be considered a substitute </span><br>
-            <span>for the actual language contained in ECCO.!!</span><br>
+            <span>for the actual language contained in ECCO.!</span><br>
         </div>
     </div>
 
